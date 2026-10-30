@@ -1,7 +1,7 @@
 # npm packages that ship their own copy of PDF.js
 
 By Aneesh Gopalakrishnan. Data under CC BY 4.0 (`LICENSE-DATA`), scripts under Apache-2.0 (`LICENSE`). How to cite:
-`CITATION.cff`.
+`CITATION.cff`. Archived on Zenodo: https://doi.org/10.5281/zenodo.23820302 (version 1.0.0).
 
 A dataset of npm packages that carry a copy of Mozilla PDF.js inside their published files, which PDF.js
 release every package release carries, and how far behind upstream those copies were on the day each

@@ -7,6 +7,7 @@ authors:
     given-names: Aneesh
 date-released: 2026-10-30
 version: "1.0.0"
+doi: 10.5281/zenodo.23820302
 license: CC-BY-4.0
 repository-code: "https://github.com/codehippie1/npm-pdfjs-copies"
 abstract: >-
