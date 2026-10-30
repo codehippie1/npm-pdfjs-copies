@@ -1,0 +1,12 @@
+{
+  "upload_type": "dataset",
+  "title": "npm packages that ship their own copy of PDF.js",
+  "creators": [
+    { "name": "Gopalakrishnan, Aneesh" }
+  ],
+  "description": "npm packages that carry a copy of Mozilla PDF.js inside their published files, which PDF.js release every package release carries, and how far behind upstream those copies were on the day each release was published. Collected 30 October 2026 from public npm registry and jsDelivr data. 1,510 packages carry a copy in at least one release, across 14,678 releases. Data under CC BY 4.0; collection scripts under Apache-2.0. See README.md for the method, schema and limitations.",
+  "license": "cc-by-4.0",
+  "keywords": ["npm", "PDF.js", "vendored dependencies", "copy-based reuse", "technical lag", "CVE-2024-4367", "software supply chain"],
+  "version": "1.0.0",
+  "publication_date": "2026-10-30"
+}
