@@ -1,0 +1,2325 @@
+{
+ "queries": {
+  "pdfjs": {
+   "total": 1450,
+   "reached": 1450
+  },
+  "pdf.js": {
+   "total": 1698,
+   "reached": 1698
+  },
+  "keywords:pdfjs": {
+   "total": 511,
+   "reached": 511
+  },
+  "keywords:pdf.js": {
+   "total": 551,
+   "reached": 551
+  },
+  "pdf.worker": {
+   "total": 12,
+   "reached": 12
+  },
+  "keywords:pdfjs-dist": {
+   "total": 50,
+   "reached": 50
+  },
+  "keywords:pdf": {
+   "total": 9212,
+   "reached": 5250
+  },
+  "keywords:pdf-viewer": {
+   "total": 454,
+   "reached": 454
+  },
+  "pdf": {
+   "total": 33145,
+   "reached": 5250
+  },
+  "keywords:pdf,react": {
+   "total": 1045,
+   "reached": 1045
+  },
+  "keywords:pdf,typescript": {
+   "total": 795,
+   "reached": 795
+  },
+  "keywords:pdf,markdown": {
+   "total": 909,
+   "reached": 909
+  },
+  "keywords:pdf,docx": {
+   "total": 806,
+   "reached": 806
+  },
+  "keywords:pdf,pdf-viewer": {
+   "total": 362,
+   "reached": 362
+  },
+  "keywords:pdf,html": {
+   "total": 690,
+   "reached": 690
+  },
+  "keywords:pdf,document": {
+   "total": 716,
+   "reached": 716
+  },
+  "keywords:pdf,mcp": {
+   "total": 600,
+   "reached": 600
+  },
+  "keywords:pdf,cli": {
+   "total": 731,
+   "reached": 731
+  },
+  "keywords:pdf,viewer": {
+   "total": 635,
+   "reached": 635
+  },
+  "keywords:pdf,image": {
+   "total": 539,
+   "reached": 539
+  },
+  "keywords:pdf,ocr": {
+   "total": 509,
+   "reached": 509
+  },
+  "keywords:pdf,pdfjs": {
+   "total": 372,
+   "reached": 372
+  },
+  "keywords:pdf,pdf.js": {
+   "total": 493,
+   "reached": 493
+  },
+  "keywords:pdf,xlsx": {
+   "total": 419,
+   "reached": 419
+  },
+  "keywords:pdf,pptx": {
+   "total": 367,
+   "reached": 367
+  },
+  "keywords:pdf,model-context-protocol": {
+   "total": 355,
+   "reached": 355
+  },
+  "keywords:pdf,pdf-generation": {
+   "total": 309,
+   "reached": 309
+  },
+  "keywords:pdf,converter": {
+   "total": 408,
+   "reached": 408
+  },
+  "keywords:pdf,invoice": {
+   "total": 340,
+   "reached": 340
+  },
+  "keywords:pdf,html-to-pdf": {
+   "total": 319,
+   "reached": 319
+  },
+  "keywords:pdf,ai": {
+   "total": 346,
+   "reached": 346
+  },
+  "keywords:pdf,png": {
+   "total": 285,
+   "reached": 285
+  },
+  "keywords:pdf,javascript": {
+   "total": 291,
+   "reached": 291
+  },
+  "keywords:pdf,convert": {
+   "total": 302,
+   "reached": 302
+  },
+  "keywords:pdf,excel": {
+   "total": 257,
+   "reached": 257
+  },
+  "keywords:pdf,vue": {
+   "total": 295,
+   "reached": 295
+  },
+  "keywords:pdf,nodejs": {
+   "total": 297,
+   "reached": 297
+  },
+  "keywords:pdf,n8n-community-node-package": {
+   "total": 293,
+   "reached": 293
+  },
+  "keywords:pdf,puppeteer": {
+   "total": 299,
+   "reached": 299
+  },
+  "keywords:pdf,claude": {
+   "total": 264,
+   "reached": 264
+  },
+  "keywords:pdf,svg": {
+   "total": 239,
+   "reached": 239
+  },
+  "keywords:pdf,browser": {
+   "total": 234,
+   "reached": 234
+  },
+  "keywords:pdf,react-native": {
+   "total": 208,
+   "reached": 208
+  },
+  "keywords:pdf,wasm": {
+   "total": 223,
+   "reached": 223
+  },
+  "keywords:pdf,print": {
+   "total": 251,
+   "reached": 251
+  },
+  "keywords:pdf,rust": {
+   "total": 121,
+   "reached": 121
+  },
+  "keywords:pdf,canvas": {
+   "total": 229,
+   "reached": 229
+  },
+  "keywords:pdf,text-extraction": {
+   "total": 206,
+   "reached": 206
+  },
+  "keywords:pdf,llm": {
+   "total": 222,
+   "reached": 222
+  },
+  "keywords:pdf,report": {
+   "total": 222,
+   "reached": 222
+  },
+  "keywords:pdf,csv": {
+   "total": 206,
+   "reached": 206
+  },
+  "keywords:pdf,node": {
+   "total": 210,
+   "reached": 210
+  },
+  "keywords:pdf,epub": {
+   "total": 433,
+   "reached": 433
+  },
+  "keywords:pdf,word": {
+   "total": 182,
+   "reached": 182
+  },
+  "keywords:pdf,napi-rs": {
+   "total": 144,
+   "reached": 144
+  },
+  "keywords:pdf,angular": {
+   "total": 149,
+   "reached": 149
+  },
+  "keywords:pdf,pdf-lib": {
+   "total": 198,
+   "reached": 198
+  },
+  "keywords:pdf,screenshot": {
+   "total": 207,
+   "reached": 207
+  },
+  "keywords:pdf,mozilla": {
+   "total": 4,
+   "reached": 4
+  },
+  "keywords:pdf,sdk": {
+   "total": 190,
+   "reached": 190
+  },
+  "keywords:pdf,n8n": {
+   "total": 196,
+   "reached": 196
+  },
+  "keywords:pdf,react-component": {
+   "total": 169,
+   "reached": 169
+  },
+  "keywords:pdf,napi": {
+   "total": 85,
+   "reached": 85
+  },
+  "keywords:pdf,document-viewer": {
+   "total": 75,
+   "reached": 75
+  },
+  "keywords:pdf,pdf-designer": {
+   "total": 102,
+   "reached": 102
+  },
+  "keywords:pdf,rag": {
+   "total": 156,
+   "reached": 156
+  },
+  "keywords:pdf,probability": {
+   "total": 113,
+   "reached": 113
+  },
+  "keywords:pdf,office": {
+   "total": 170,
+   "reached": 170
+  },
+  "keywords:pdf,react-pdf": {
+   "total": 113,
+   "reached": 113
+  },
+  "keywords:pdf,statistics": {
+   "total": 114,
+   "reached": 114
+  },
+  "keywords:pdf,template": {
+   "total": 180,
+   "reached": 180
+  },
+  "keywords:pdf,stats": {
+   "total": 110,
+   "reached": 110
+  },
+  "keywords:pdf,parser": {
+   "total": 166,
+   "reached": 166
+  },
+  "keywords:pdf,webassembly": {
+   "total": 147,
+   "reached": 147
+  },
+  "keywords:pdf,android": {
+   "total": 145,
+   "reached": 145
+  },
+  "keywords:pdf,json": {
+   "total": 128,
+   "reached": 128
+  },
+  "keywords:pdf,generator": {
+   "total": 184,
+   "reached": 184
+  },
+  "keywords:pdf,mcp-server": {
+   "total": 130,
+   "reached": 130
+  },
+  "keywords:pdf,ios": {
+   "total": 138,
+   "reached": 138
+  },
+  "keywords:pdf,export": {
+   "total": 176,
+   "reached": 176
+  },
+  "keywords:pdf,distribution": {
+   "total": 102,
+   "reached": 102
+  },
+  "keywords:pdf,native": {
+   "total": 123,
+   "reached": 123
+  },
+  "keywords:pdf,stdlib": {
+   "total": 92,
+   "reached": 92
+  },
+  "keywords:pdf,stdmath": {
+   "total": 92,
+   "reached": 92
+  },
+  "keywords:pdf,dist": {
+   "total": 90,
+   "reached": 90
+  },
+  "keywords:pdf,api": {
+   "total": 163,
+   "reached": 163
+  },
+  "keywords:pdf,univariate": {
+   "total": 87,
+   "reached": 87
+  },
+  "keywords:pdf,latex": {
+   "total": 135,
+   "reached": 135
+  },
+  "keywords:pdf,video": {
+   "total": 128,
+   "reached": 128
+  },
+  "keywords:pdf,jpeg": {
+   "total": 106,
+   "reached": 106
+  },
+  "keywords:pdf,continuous": {
+   "total": 89,
+   "reached": 89
+  },
+  "keywords:pdf,jpg": {
+   "total": 111,
+   "reached": 111
+  },
+  "keywords:pdf,powerpoint": {
+   "total": 95,
+   "reached": 95
+  },
+  "keywords:pdf,text": {
+   "total": 131,
+   "reached": 131
+  },
+  "keywords:pdf,render": {
+   "total": 109,
+   "reached": 109
+  },
+  "keywords:pdf,file": {
+   "total": 113,
+   "reached": 113
+  },
+  "keywords:pdf,doc": {
+   "total": 109,
+   "reached": 109
+  },
+  "keywords:pdf,react.js": {
+   "total": 201,
+   "reached": 201
+  },
+  "keywords:pdf,pdfkit": {
+   "total": 107,
+   "reached": 107
+  },
+  "keywords:pdf,pdf-generator": {
+   "total": 103,
+   "reached": 103
+  },
+  "keywords:pdf,cursor": {
+   "total": 101,
+   "reached": 101
+  },
+  "keywords:pdf,extract": {
+   "total": 114,
+   "reached": 114
+  },
+  "keywords:pdf,layout": {
+   "total": 127,
+   "reached": 127
+  },
+  "keywords:pdf,plugin": {
+   "total": 115,
+   "reached": 115
+  },
+  "keywords:pdf,graphics": {
+   "total": 127,
+   "reached": 127
+  },
+  "keywords:pdf,merge": {
+   "total": 122,
+   "reached": 122
+  },
+  "keywords:pdf,library": {
+   "total": 111,
+   "reached": 111
+  },
+  "keywords:pdf,jspdf": {
+   "total": 105,
+   "reached": 105
+  },
+  "keywords:pdf,deepseek-harness": {
+   "total": 90,
+   "reached": 90
+  },
+  "keywords:pdf,table": {
+   "total": 98,
+   "reached": 98
+  },
+  "keywords:pdf,documentation": {
+   "total": 103,
+   "reached": 103
+  },
+  "keywords:pdf,preview": {
+   "total": 120,
+   "reached": 120
+  },
+  "keywords:pdf,typst": {
+   "total": 81,
+   "reached": 81
+  },
+  "keywords:pdf,vue3": {
+   "total": 80,
+   "reached": 80
+  },
+  "keywords:pdf,reader": {
+   "total": 78,
+   "reached": 78
+  },
+  "keywords:pdf,webp": {
+   "total": 85,
+   "reached": 85
+  },
+  "keywords:pdf,node-addon": {
+   "total": 70,
+   "reached": 70
+  },
+  "keywords:pdf,agent": {
+   "total": 82,
+   "reached": 82
+  },
+  "keywords:pdf,n-api": {
+   "total": 1,
+   "reached": 1
+  },
+  "keywords:pdf,headless": {
+   "total": 84,
+   "reached": 84
+  },
+  "keywords:pdf,highlight": {
+   "total": 100,
+   "reached": 100
+  },
+  "keywords:pdf,node-addon-api": {
+   "total": 69,
+   "reached": 69
+  },
+  "keywords:pdf,html2pdf": {
+   "total": 81,
+   "reached": 81
+  },
+  "keywords:pdf,pdf-reader": {
+   "total": 43,
+   "reached": 43
+  },
+  "keywords:pdf,embedpdf": {
+   "total": 65,
+   "reached": 65
+  },
+  "keywords:pdf,privacy": {
+   "total": 98,
+   "reached": 98
+  },
+  "keywords:pdf,resume": {
+   "total": 122,
+   "reached": 122
+  },
+  "keywords:pdf,dsh": {
+   "total": 74,
+   "reached": 74
+  },
+  "keywords:pdf,document-generation": {
+   "total": 99,
+   "reached": 99
+  },
+  "keywords:pdf,signature": {
+   "total": 89,
+   "reached": 89
+  },
+  "keywords:pdf,file-viewer": {
+   "total": 37,
+   "reached": 37
+  },
+  "keywords:pdf,images": {
+   "total": 98,
+   "reached": 98
+  },
+  "keywords:pdf,conversion": {
+   "total": 94,
+   "reached": 94
+  },
+  "keywords:pdf,book": {
+   "total": 297,
+   "reached": 297
+  },
+  "keywords:pdf,claude-code": {
+   "total": 89,
+   "reached": 89
+  },
+  "keywords:pdf,pdf-parser": {
+   "total": 70,
+   "reached": 70
+  },
+  "keywords:pdf,documents": {
+   "total": 84,
+   "reached": 84
+  },
+  "keywords:pdf,ai-agent": {
+   "total": 79,
+   "reached": 79
+  },
+  "keywords:pdf,pdfium": {
+   "total": 61,
+   "reached": 61
+  },
+  "keywords:pdf,annotations": {
+   "total": 63,
+   "reached": 63
+  },
+  "keywords:pdf,automation": {
+   "total": 90,
+   "reached": 90
+  },
+  "keywords:pdf,dsh-plugin": {
+   "total": 70,
+   "reached": 70
+  },
+  "keywords:pdf,skia": {
+   "total": 68,
+   "reached": 68
+  },
+  "keywords:pdf,xml": {
+   "total": 86,
+   "reached": 86
+  },
+  "keywords:pdf,offline": {
+   "total": 81,
+   "reached": 81
+  },
+  "keywords:pdf,vector": {
+   "total": 83,
+   "reached": 83
+  },
+  "keywords:pdf,file-preview": {
+   "total": 31,
+   "reached": 31
+  },
+  "keywords:pdf,create": {
+   "total": 79,
+   "reached": 79
+  },
+  "keywords:pdf,printing": {
+   "total": 91,
+   "reached": 91
+  },
+  "keywords:pdf,presentation": {
+   "total": 87,
+   "reached": 87
+  },
+  "keywords:pdf,gif": {
+   "total": 65,
+   "reached": 65
+  },
+  "keywords:pdf,odt": {
+   "total": 91,
+   "reached": 91
+  },
+  "keywords:pdf,reporting": {
+   "total": 66,
+   "reached": 66
+  },
+  "keywords:pdf,download": {
+   "total": 296,
+   "reached": 296
+  },
+  "keywords:pdf,electron": {
+   "total": 83,
+   "reached": 83
+  },
+  "keywords:pdf,component": {
+   "total": 89,
+   "reached": 89
+  },
+  "keywords:pdf,slides": {
+   "total": 85,
+   "reached": 85
+  },
+  "keywords:pdf,openai": {
+   "total": 67,
+   "reached": 67
+  },
+  "keywords:pdf,edit": {
+   "total": 72,
+   "reached": 72
+  },
+  "keywords:pdf,vue.js": {
+   "total": 195,
+   "reached": 195
+  },
+  "keywords:pdf,playwright": {
+   "total": 81,
+   "reached": 81
+  },
+  "keywords:pdf,editor": {
+   "total": 81,
+   "reached": 81
+  },
+  "keywords:pdf,extraction": {
+   "total": 77,
+   "reached": 77
+  },
+  "keywords:pdf,mermaid": {
+   "total": 75,
+   "reached": 75
+  },
+  "keywords:pdf,annotator": {
+   "total": 74,
+   "reached": 74
+  },
+  "keywords:pdf,compress": {
+   "total": 74,
+   "reached": 74
+  },
+  "keywords:pdf,cv": {
+   "total": 70,
+   "reached": 70
+  },
+  "keywords:pdf,modify": {
+   "total": 69,
+   "reached": 69
+  },
+  "keywords:pdf,ppt": {
+   "total": 70,
+   "reached": 70
+  },
+  "keywords:pdf,receipt": {
+   "total": 69,
+   "reached": 69
+  },
+  "keywords:pdf,templates": {
+   "total": 87,
+   "reached": 87
+  },
+  "keywords:pdf,renderer": {
+   "total": 69,
+   "reached": 69
+  },
+  "keywords:pdf,editing": {
+   "total": 66,
+   "reached": 66
+  },
+  "keywords:pdf,view": {
+   "total": 67,
+   "reached": 67
+  },
+  "keywords:pdf,split": {
+   "total": 66,
+   "reached": 66
+  },
+  "keywords:pdf,client-side": {
+   "total": 67,
+   "reached": 67
+  },
+  "keywords:pdf,markdown-to-pdf": {
+   "total": 64,
+   "reached": 64
+  },
+  "keywords:pdf,annotation": {
+   "total": 69,
+   "reached": 69
+  },
+  "keywords:pdf,watermark": {
+   "total": 71,
+   "reached": 71
+  },
+  "keywords:pdf,graphic": {
+   "total": 63,
+   "reached": 63
+  },
+  "keywords:pdf,xls": {
+   "total": 63,
+   "reached": 63
+  },
+  "keywords:pdf,document-processing": {
+   "total": 66,
+   "reached": 66
+  },
+  "keywords:pdf,creation": {
+   "total": 62,
+   "reached": 62
+  },
+  "keywords:pdf,modification": {
+   "total": 61,
+   "reached": 61
+  },
+  "keywords:pdf,document-extraction": {
+   "total": 61,
+   "reached": 61
+  },
+  "keywords:pdf,pdfmake": {
+   "total": 61,
+   "reached": 61
+  },
+  "keywords:pdf,ebook": {
+   "total": 63,
+   "reached": 63
+  },
+  "keywords:pdf,vuejs": {
+   "total": 58,
+   "reached": 58
+  },
+  "keywords:pdf,printer": {
+   "total": 61,
+   "reached": 61
+  },
+  "keywords:pdf,document-conversion": {
+   "total": 62,
+   "reached": 62
+  },
+  "keywords:pdf,typesetting": {
+   "total": 58,
+   "reached": 58
+  },
+  "keywords:pdf,pagination": {
+   "total": 59,
+   "reached": 59
+  },
+  "keywords:pdf,nextjs": {
+   "total": 61,
+   "reached": 61
+  },
+  "keywords:pdf,esign": {
+   "total": 60,
+   "reached": 60
+  },
+  "keywords:pdf,cairo": {
+   "total": 59,
+   "reached": 59
+  },
+  "keywords:pdf,libreoffice": {
+   "total": 53,
+   "reached": 53
+  },
+  "keywords:pdf,ai-agents": {
+   "total": 57,
+   "reached": 57
+  },
+  "keywords:pdf,pdf-extraction": {
+   "total": 54,
+   "reached": 54
+  },
+  "keywords:pdf,tesseract": {
+   "total": 55,
+   "reached": 55
+  },
+  "keywords:pdf,handlebars": {
+   "total": 55,
+   "reached": 55
+  },
+  "keywords:pdf,document-parsing": {
+   "total": 52,
+   "reached": 52
+  },
+  "keywords:pdf,form": {
+   "total": 59,
+   "reached": 59
+  },
+  "keywords:pdf,acroform": {
+   "total": 56,
+   "reached": 56
+  },
+  "keywords:pdf,codex": {
+   "total": 53,
+   "reached": 53
+  },
+  "keywords:pdf,css": {
+   "total": 50,
+   "reached": 50
+  },
+  "keywords:pdf,barcode": {
+   "total": 53,
+   "reached": 53
+  },
+  "keywords:pdf,redaction": {
+   "total": 50,
+   "reached": 50
+  },
+  "keywords:pdf,pdf-to-text": {
+   "total": 50,
+   "reached": 50
+  },
+  "keywords:pdf,tailwind": {
+   "total": 50,
+   "reached": 50
+  },
+  "keywords:pdf,forms": {
+   "total": 55,
+   "reached": 55
+  },
+  "keywords:pdf,bun": {
+   "total": 52,
+   "reached": 52
+  },
+  "keywords:pdf,ods": {
+   "total": 71,
+   "reached": 71
+  },
+  "keywords:pdf,metadata": {
+   "total": 50,
+   "reached": 50
+  },
+  "keywords:pdf,fonts": {
+   "total": 51,
+   "reached": 51
+  },
+  "keywords:pdf,accessibility": {
+   "total": 51,
+   "reached": 51
+  },
+  "keywords:pdf,chromium": {
+   "total": 48,
+   "reached": 48
+  },
+  "keywords:pdf,prob": {
+   "total": 47,
+   "reached": 47
+  },
+  "keywords:pdf,pixman": {
+   "total": 46,
+   "reached": 46
+  },
+  "keywords:pdf,pdfjs-dist": {
+   "total": 45,
+   "reached": 45
+  },
+  "keywords:pdf,table-extraction": {
+   "total": 46,
+   "reached": 46
+  },
+  "keywords:pdf,pdf-to-markdown": {
+   "total": 46,
+   "reached": 46
+  },
+  "keywords:pdf,pdf-merge": {
+   "total": 47,
+   "reached": 47
+  },
+  "keywords:pdf,search": {
+   "total": 47,
+   "reached": 47
+  },
+  "keywords:pdf,sign": {
+   "total": 47,
+   "reached": 47
+  },
+  "keywords:pdf,windows": {
+   "total": 48,
+   "reached": 48
+  },
+  "keywords:pdf,scraper": {
+   "total": 48,
+   "reached": 48
+  },
+  "keywords:pdf,chrome": {
+   "total": 47,
+   "reached": 47
+  },
+  "keywords:pdf,tiff": {
+   "total": 51,
+   "reached": 51
+  },
+  "keywords:pdf,merge-pdf": {
+   "total": 48,
+   "reached": 48
+  },
+  "keywords:pdf,vision": {
+   "total": 45,
+   "reached": 45
+  },
+  "keywords:pdf,img": {
+   "total": 46,
+   "reached": 46
+  },
+  "keywords:pdf,adobe": {
+   "total": 42,
+   "reached": 42
+  },
+  "keywords:pdf,metadata-extraction": {
+   "total": 43,
+   "reached": 43
+  },
+  "keywords:pdf,qr-code": {
+   "total": 44,
+   "reached": 44
+  },
+  "keywords:pdf,email": {
+   "total": 47,
+   "reached": 47
+  },
+  "keywords:pdf,audio": {
+   "total": 43,
+   "reached": 43
+  },
+  "keywords:pdf,pdf-preview": {
+   "total": 39,
+   "reached": 39
+  },
+  "keywords:pdf,svelte": {
+   "total": 45,
+   "reached": 45
+  },
+  "keywords:pdf,pdf-editor": {
+   "total": 44,
+   "reached": 44
+  },
+  "keywords:pdf,modelcontextprotocol": {
+   "total": 42,
+   "reached": 42
+  },
+  "keywords:pdf,angular-pdf": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,document-intelligence": {
+   "total": 41,
+   "reached": 41
+  },
+  "keywords:pdf,expo": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,cdf": {
+   "total": 42,
+   "reached": 42
+  },
+  "keywords:pdf,phantomjs": {
+   "total": 42,
+   "reached": 42
+  },
+  "keywords:pdf,research": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,pandoc": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,parse": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,rtf": {
+   "total": 68,
+   "reached": 68
+  },
+  "keywords:pdf,anthropic": {
+   "total": 41,
+   "reached": 41
+  },
+  "keywords:pdf,digital-signature": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,thumbnail": {
+   "total": 42,
+   "reached": 42
+  },
+  "keywords:pdf,gemini": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,local-first": {
+   "total": 41,
+   "reached": 41
+  },
+  "keywords:pdf,exif": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,pades": {
+   "total": 42,
+   "reached": 42
+  },
+  "keywords:pdf,qr": {
+   "total": 37,
+   "reached": 37
+  },
+  "keywords:pdf,node.js": {
+   "total": 36,
+   "reached": 36
+  },
+  "keywords:pdf,tool": {
+   "total": 36,
+   "reached": 36
+  },
+  "keywords:pdf,rtl": {
+   "total": 40,
+   "reached": 40
+  },
+  "keywords:pdf,flipbook": {
+   "total": 31,
+   "reached": 31
+  },
+  "keywords:pdf,mineru": {
+   "total": 37,
+   "reached": 37
+  },
+  "keywords:pdf,web-component": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,spreadsheet": {
+   "total": 39,
+   "reached": 39
+  },
+  "keywords:pdf,ng2": {
+   "total": 37,
+   "reached": 37
+  },
+  "keywords:pdf,mobile": {
+   "total": 38,
+   "reached": 38
+  },
+  "keywords:pdf,zugferd": {
+   "total": 38,
+   "reached": 38
+  },
+  "keywords:pdf,dom": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,security": {
+   "total": 39,
+   "reached": 39
+  },
+  "keywords:pdf,html2canvas": {
+   "total": 38,
+   "reached": 38
+  },
+  "keywords:pdf,serverless": {
+   "total": 39,
+   "reached": 39
+  },
+  "keywords:pdf,object": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,quantile": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,web-scraping": {
+   "total": 39,
+   "reached": 39
+  },
+  "keywords:pdf,image-viewer": {
+   "total": 15,
+   "reached": 15
+  },
+  "keywords:pdf,n8n-node": {
+   "total": 44,
+   "reached": 44
+  },
+  "keywords:pdf,certificate": {
+   "total": 37,
+   "reached": 37
+  },
+  "keywords:pdf,reactjs": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,zero-dependency": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,constructor": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,phantom": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,pdf-forms": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,archive": {
+   "total": 38,
+   "reached": 38
+  },
+  "keywords:pdf,detect": {
+   "total": 36,
+   "reached": 36
+  },
+  "keywords:pdf,pkcs7": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,class": {
+   "total": 45,
+   "reached": 45
+  },
+  "keywords:pdf,ctor": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,properties": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,props": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,web": {
+   "total": 37,
+   "reached": 37
+  },
+  "keywords:pdf,skill": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,server": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,font": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,pdf-to-image": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,pdf-tools": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,angular2-pdf": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,poppler": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,txt": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,factur-x": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,pdf-ua": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,vue-pdf": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,macos": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,zoom": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,paper": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,html-to-image": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,to": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,billing": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,buffer": {
+   "total": 34,
+   "reached": 34
+  },
+  "keywords:pdf,noto": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,contract": {
+   "total": 35,
+   "reached": 35
+  },
+  "keywords:pdf,arabic": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,pdftk": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,ghostscript": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,ng2-pdf": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,dxf": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,upload": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,reports": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,nestjs": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,e-signature": {
+   "total": 31,
+   "reached": 31
+  },
+  "keywords:pdf,cjk": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,generation": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,pdf-printer": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,log": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,express": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,qrcode": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,ai-tools": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,pi-package": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,api-client": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,a4": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,vite": {
+   "total": 32,
+   "reached": 32
+  },
+  "keywords:pdf,esignature": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,knowledge-base": {
+   "total": 31,
+   "reached": 31
+  },
+  "keywords:pdf,headless-chrome": {
+   "total": 29,
+   "reached": 29
+  },
+  "keywords:pdf,angular5": {
+   "total": 29,
+   "reached": 29
+  },
+  "keywords:pdf,embed": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,components": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,pdf-converter": {
+   "total": 31,
+   "reached": 31
+  },
+  "keywords:pdf,zip": {
+   "total": 55,
+   "reached": 55
+  },
+  "keywords:pdf,typography": {
+   "total": 33,
+   "reached": 33
+  },
+  "keywords:pdf,tex": {
+   "total": 29,
+   "reached": 29
+  },
+  "keywords:pdf,compression": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,js": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,cordis": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,yaml": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,local": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,pdf-processing": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,office-documents": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,zebra-printer": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,docx-preview": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,excel-preview": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,logarithm": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,url-to-pdf": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,encryption": {
+   "total": 29,
+   "reached": 29
+  },
+  "keywords:pdf,json-schema": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,file-conversion": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,photo": {
+   "total": 31,
+   "reached": 31
+  },
+  "keywords:pdf,structured-data": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,rollo-printer": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,page-break": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,client": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,embeddings": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,fdf": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,linux": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,docs": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,report-designer": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,wysiwyg": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,type": {
+   "total": 29,
+   "reached": 29
+  },
+  "keywords:pdf,uint8array": {
+   "total": 30,
+   "reached": 30
+  },
+  "keywords:pdf,pdfa": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,generate": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,e-invoice": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,md": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,agents": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,deepseek": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,validation": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,og-image": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,mime": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,picture": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,pdf-to-png": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,pdftotext": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,design": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,image-generation": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,charts": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,node-red": {
+   "total": 27,
+   "reached": 27
+  },
+  "keywords:pdf,check": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,rendering": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,developer-tools": {
+   "total": 28,
+   "reached": 28
+  },
+  "keywords:pdf,wkhtmltopdf": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,office-viewer": {
+   "total": 7,
+   "reached": 7
+  },
+  "keywords:pdf,lightweight": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,verify": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,mupdf": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,signing": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,ui": {
+   "total": 17,
+   "reached": 17
+  },
+  "keywords:pdf,rotate": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,qpdf": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,encrypt": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,pdf-a": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,pdf-export": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,mp4": {
+   "total": 48,
+   "reached": 48
+  },
+  "keywords:pdf,redact": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,chart": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,vlm": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,pic": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,exe": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,binary": {
+   "total": 25,
+   "reached": 25
+  },
+  "keywords:pdf,cr2": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,edge": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,self-hosted": {
+   "total": 18,
+   "reached": 18
+  },
+  "keywords:pdf,esm": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,youtube": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,excel-viewer": {
+   "total": 5,
+   "reached": 5
+  },
+  "keywords:pdf,npm": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,claude-desktop": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,sharp": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,htmltopdf": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,html-pdf": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,academic": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,pii": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,katex": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,flash": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,is": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,capacitor": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,gotenberg": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,document-ai": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,tables": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,scanner": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,pages": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,opencode": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,jsreport": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,ooxml": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,pdflatex": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,cordova": {
+   "total": 26,
+   "reached": 26
+  },
+  "keywords:pdf,arxiv": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,cad": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,drag-and-drop": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,ats": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,split-pdf": {
+   "total": 24,
+   "reached": 24
+  },
+  "keywords:pdf,chinese": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,bmp": {
+   "total": 39,
+   "reached": 39
+  },
+  "keywords:pdf,document-preview": {
+   "total": 8,
+   "reached": 8
+  },
+  "keywords:pdf,document-parser": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,natural": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,ln": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,pdfbox": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,crawler": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,pdf-renderer": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,cloudflare-workers": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,image-processing": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,pdf-manipulation": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,translation": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,command-line": {
+   "total": 20,
+   "reached": 20
+  },
+  "keywords:pdf,multimodal": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,page-flip": {
+   "total": 18,
+   "reached": 18
+  },
+  "keywords:pdf,chunking": {
+   "total": 21,
+   "reached": 21
+  },
+  "keywords:pdf,x402": {
+   "total": 22,
+   "reached": 22
+  },
+  "keywords:pdf,flif": {
+   "total": 23,
+   "reached": 23
+  },
+  "keywords:pdf,pdf2image": {
+   "total": 19,
+   "reached": 19
+  },
+  "keywords:pdf,cloudflare": {
+   "total": 19,
+   "reached": 19
+  },
+  "pdf document": {
+   "total": 121340,
+   "reached": 5250
+  },
+  "pdf react": {
+   "total": 541105,
+   "reached": 5250
+  },
+  "pdf viewer": {
+   "total": 46951,
+   "reached": 5250
+  },
+  "pdf html": {
+   "total": 273428,
+   "reached": 5250
+  },
+  "pdf markdown": {
+   "total": 2485439,
+   "reached": 5250
+  },
+  "pdf typescript": {
+   "total": 460156,
+   "reached": 5250
+  },
+  "pdf text": {
+   "total": 400373,
+   "reached": 5250
+  },
+  "pdf convert": {
+   "total": 83866,
+   "reached": 5250
+  },
+  "pdf image": {
+   "total": 142022,
+   "reached": 5250
+  },
+  "pdf pdfs": {
+   "total": 33020,
+   "reached": 5250
+  },
+  "pdf docx": {
+   "total": 39996,
+   "reached": 5250
+  },
+  "pdf cli": {
+   "total": 419492,
+   "reached": 5250
+  },
+  "pdf documents": {
+   "total": 60639,
+   "reached": 5250
+  },
+  "pdf server": {
+   "total": 423405,
+   "reached": 5250
+  },
+  "pdf generation": {
+   "total": 81381,
+   "reached": 5250
+  },
+  "pdf browser": {
+   "total": 323160,
+   "reached": 5250
+  },
+  "pdf images": {
+   "total": 148866,
+   "reached": 5250
+  },
+  "pdf generator": {
+   "total": 112391,
+   "reached": 5250
+  },
+  "pdf mcp": {
+   "total": 151415,
+   "reached": 5250
+  },
+  "pdf vue": {
+   "total": 188043,
+   "reached": 5250
+  },
+  "pdf converter": {
+   "total": 43062,
+   "reached": 5250
+  },
+  "pdf native": {
+   "total": 221511,
+   "reached": 5250
+  },
+  "pdf ocr": {
+   "total": 34071,
+   "reached": 5250
+  },
+  "pdf extraction": {
+   "total": 43157,
+   "reached": 5250
+  },
+  "pdf pdfjs": {
+   "total": 31717,
+   "reached": 5250
+  },
+  "pdf web": {
+   "total": 317543,
+   "reached": 5250
+  },
+  "pdf xlsx": {
+   "total": 35786,
+   "reached": 5250
+  },
+  "pdf pptx": {
+   "total": 32588,
+   "reached": 5250
+  },
+  "pdf export": {
+   "total": 280386,
+   "reached": 5250
+  },
+  "pdf png": {
+   "total": 107945,
+   "reached": 5250
+  },
+  "pdf model": {
+   "total": 218492,
+   "reached": 5250
+  },
+  "pdf json": {
+   "total": 371504,
+   "reached": 5250
+  },
+  "pdf epub": {
+   "total": 40285,
+   "reached": 5250
+  },
+  "pdf sdk": {
+   "total": 213317,
+   "reached": 5250
+  },
+  "pdf community": {
+   "total": 97467,
+   "reached": 5250
+  },
+  "pdf context": {
+   "total": 184742,
+   "reached": 5250
+  },
+  "pdf client": {
+   "total": 328102,
+   "reached": 5250
+  },
+  "pdf read": {
+   "total": 215545,
+   "reached": 5250
+  },
+  "pdf invoice": {
+   "total": 35731,
+   "reached": 5250
+  },
+  "pdf protocol": {
+   "total": 146213,
+   "reached": 5250
+  },
+  "pdf excel": {
+   "total": 39963,
+   "reached": 5250
+  },
+  "pdf print": {
+   "total": 62432,
+   "reached": 5250
+  },
+  "pdf puppeteer": {
+   "total": 37864,
+   "reached": 5250
+  },
+  "pdf page": {
+   "total": 279182,
+   "reached": 5250
+  },
+  "pdf conversion": {
+   "total": 48634,
+   "reached": 5250
+  },
+  "pdf data": {
+   "total": 1917277,
+   "reached": 5250
+  },
+  "pdf download": {
+   "total": 144187,
+   "reached": 5250
+  },
+  "pdf render": {
+   "total": 122944,
+   "reached": 5250
+  },
+  "pdf word": {
+   "total": 60676,
+   "reached": 5250
+  },
+  "pdf extract": {
+   "total": 54159,
+   "reached": 5250
+  },
+  "pdf office": {
+   "total": 37241,
+   "reached": 5250
+  },
+  "pdf claude": {
+   "total": 148753,
+   "reached": 5250
+  },
+  "pdf svg": {
+   "total": 495833,
+   "reached": 5250
+  },
+  "pdf view": {
+   "total": 157705,
+   "reached": 5250
+  },
+  "pdf n8n": {
+   "total": 46945,
+   "reached": 5250
+  },
+  "pdf rendering": {
+   "total": 78539,
+   "reached": 5249
+  },
+  "pdf preview": {
+   "total": 91572,
+   "reached": 5250
+  },
+  "pdf parser": {
+   "total": 80952,
+   "reached": 5250
+  },
+  "pdf csv": {
+   "total": 46611,
+   "reached": 5250
+  },
+  "pdf code": {
+   "total": 2102016,
+   "reached": 5250
+  },
+  "pdf report": {
+   "total": 89901,
+   "reached": 5249
+  },
+  "pdf book": {
+   "total": 44287,
+   "reached": 5250
+  },
+  "pdf canvas": {
+   "total": 62642,
+   "reached": 5250
+  },
+  "pdf engine": {
+   "total": 110274,
+   "reached": 5250
+  },
+  "pdf template": {
+   "total": 251643,
+   "reached": 5250
+  },
+  "pdf templates": {
+   "total": 81079,
+   "reached": 5250
+  },
+  "pdf side": {
+   "total": 118745,
+   "reached": 5250
+  },
+  "pdf agent": {
+   "total": 198301,
+   "reached": 5250
+  },
+  "pdf local": {
+   "total": 230700,
+   "reached": 5250
+  },
+  "pdf merge": {
+   "total": 68053,
+   "reached": 5250
+  },
+  "pdf build": {
+   "total": 656902,
+   "reached": 5250
+  },
+  "pdf llm": {
+   "total": 88083,
+   "reached": 5250
+  },
+  "pdf layout": {
+   "total": 81524,
+   "reached": 5250
+  },
+  "pdf rust": {
+   "total": 60316,
+   "reached": 5250
+  },
+  "pdf wasm": {
+   "total": 53008,
+   "reached": 5250
+  },
+  "pdf doc": {
+   "total": 69425,
+   "reached": 5250
+  },
+  "pdf open": {
+   "total": 320042,
+   "reached": 5250
+  },
+  "pdf pages": {
+   "total": 95062,
+   "reached": 5250
+  },
+  "pdf reader": {
+   "total": 43862,
+   "reached": 5250
+  },
+  "pdf processing": {
+   "total": 63976,
+   "reached": 5250
+  },
+  "pdf renderer": {
+   "total": 53869,
+   "reached": 5250
+  },
+  "pdf napi": {
+   "total": 41147,
+   "reached": 5250
+  },
+  "pdf screenshot": {
+   "total": 60370,
+   "reached": 5250
+  },
+  "pdf format": {
+   "total": 158373,
+   "reached": 5250
+  },
+  "pdf android": {
+   "total": 102295,
+   "reached": 5250
+  },
+  "pdf mozilla": {
+   "total": 37114,
+   "reached": 5250
+  },
+  "pdf source": {
+   "total": 1897637,
+   "reached": 5250
+  },
+  "pdf table": {
+   "total": 402188,
+   "reached": 5250
+  },
+  "pdf full": {
+   "total": 259580,
+   "reached": 5250
+  },
+  "pdf ios": {
+   "total": 99390,
+   "reached": 5250
+  },
+  "pdf editor": {
+   "total": 323437,
+   "reached": 5250
+  },
+  "pdf content": {
+   "total": 3029045,
+   "reached": 5250
+  },
+  "pdf free": {
+   "total": 152413,
+   "reached": 5250
+  },
+  "pdf headless": {
+   "total": 59366,
+   "reached": 5250
+  },
+  "pdf search": {
+   "total": 139731,
+   "reached": 5250
+  },
+  "pdf signature": {
+   "total": 53384,
+   "reached": 5250
+  },
+  "pdf powered": {
+   "total": 85115,
+   "reached": 5250
+  },
+  "pdf official": {
+   "total": 110614,
+   "reached": 5249
+  },
+  "pdf angular": {
+   "total": 138544,
+   "reached": 5250
+  },
+  "pdf command": {
+   "total": 371199,
+   "reached": 5250
+  },
+  "pdf line": {
+   "total": 400854,
+   "reached": 5250
+  },
+  "pdf built": {
+   "total": 277358,
+   "reached": 5250
+  },
+  "pdf video": {
+   "total": 73507,
+   "reached": 5250
+  },
+  "pdf parsing": {
+   "total": 63222,
+   "reached": 5250
+  },
+  "pdf agents": {
+   "total": 126458,
+   "reached": 5250
+  },
+  "pdf url": {
+   "total": 250458,
+   "reached": 5250
+  },
+  "pdf metadata": {
+   "total": 88786,
+   "reached": 5250
+  },
+  "pdf framework": {
+   "total": 191298,
+   "reached": 5249
+  },
+  "pdf generic": {
+   "total": 61935,
+   "reached": 5250
+  },
+  "pdf first": {
+   "total": 350793,
+   "reached": 5250
+  },
+  "pdf core": {
+   "total": 234698,
+   "reached": 5250
+  },
+  "pdf zero": {
+   "total": 134000,
+   "reached": 5250
+  },
+  "pdf automation": {
+   "total": 76387,
+   "reached": 5250
+  },
+  "pdf annotation": {
+   "total": 36445,
+   "reached": 5250
+  },
+  "pdf parse": {
+   "total": 79974,
+   "reached": 5249
+  },
+  "pdf form": {
+   "total": 113571,
+   "reached": 5250
+  },
+  "pdf powerpoint": {
+   "total": 32446,
+   "reached": 5250
+  },
+  "pdf jpeg": {
+   "total": 39823,
+   "reached": 5250
+  }
+ },
+ "S1_n": 2338,
+ "S2_total_keywords_pdf": 9212,
+ "S2_reached": 9080,
+ "S3_total_text_pdf": 33145,
+ "S3_reached_pdf_token": 12936,
+ "S4_n": 1429,
+ "frame_by_stratum": {
+  "S1": 2338,
+  "S2": 7621,
+  "S3": 3461,
+  "S4": 691
+ },
+ "n_queries": 577
+}

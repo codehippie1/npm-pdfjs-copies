@@ -1,0 +1,5722 @@
+[
+ {
+  "name": "pdfvue-f",
+  "version": "1.1.0"
+ },
+ {
+  "name": "necik11-plain-js-webcomponent",
+  "version": "1.0.8"
+ },
+ {
+  "name": "react-pdf-to-img",
+  "version": "1.0.0"
+ },
+ {
+  "name": "jspdf-dpz-fork",
+  "version": "1.3.2"
+ },
+ {
+  "name": "react-pdf-to-image",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@kapto/react-pdf-legacy",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@andaleeb/react-pdf-js",
+  "version": "3.0.4"
+ },
+ {
+  "name": "pdf-template-parse",
+  "version": "0.0.5"
+ },
+ {
+  "name": "vue-pdf-2021",
+  "version": "1.0.1"
+ },
+ {
+  "name": "fpdf2pic",
+  "version": "0.5.8"
+ },
+ {
+  "name": "pdfjs-vue-he",
+  "version": "0.1.4"
+ },
+ {
+  "name": "reactjs-pdf",
+  "version": "1.0.3"
+ },
+ {
+  "name": "vue-pdf",
+  "version": "4.3.0"
+ },
+ {
+  "name": "@summit-electric-supply/react-doc-viewer",
+  "version": "0.1.14"
+ },
+ {
+  "name": "hzw-tender-saas",
+  "version": "2.0.0"
+ },
+ {
+  "name": "pdftest",
+  "version": "0.3.0"
+ },
+ {
+  "name": "web-ant-ui",
+  "version": "0.3.7"
+ },
+ {
+  "name": "@hemantgogia09/react-file-viewer",
+  "version": "1.2.3"
+ },
+ {
+  "name": "bk-foundation",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@maneeshd/react-pdf-highlighter",
+  "version": "3.1.2"
+ },
+ {
+  "name": "vue-pdf-tar",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@keyvanfatehi/react-pdf",
+  "version": "5.7.4"
+ },
+ {
+  "name": "bp-react-pdf-viewer",
+  "version": "0.1.1"
+ },
+ {
+  "name": "preview-file-h",
+  "version": "1.1.2"
+ },
+ {
+  "name": "rti-lab-pdf-kit-js",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@cognite/react-picture-annotation",
+  "version": "3.2.1"
+ },
+ {
+  "name": "clout-pdf-mobile-reader",
+  "version": "0.6.1"
+ },
+ {
+  "name": "@cerebrusinc/svpdf",
+  "version": "1.0.20"
+ },
+ {
+  "name": "rl-react-pdf",
+  "version": "1.0.24"
+ },
+ {
+  "name": "pdf-ts",
+  "version": "0.0.2"
+ },
+ {
+  "name": "vuejs-pdf-viewer",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@raccord/scenario",
+  "version": "1.0.6"
+ },
+ {
+  "name": "ng-pdf-viewer",
+  "version": "1.2.15"
+ },
+ {
+  "name": "pdf2md-fix",
+  "version": "0.3.25-1"
+ },
+ {
+  "name": "@react-18-pdf/root",
+  "version": "2.0.0"
+ },
+ {
+  "name": "pdfjs-esm",
+  "version": "1.0.0"
+ },
+ {
+  "name": "jspdf-fork",
+  "version": "1.3.5"
+ },
+ {
+  "name": "tailwind-pdf-viewer",
+  "version": "0.1.5"
+ },
+ {
+  "name": "ts-pdf-annot",
+  "version": "0.17.3"
+ },
+ {
+  "name": "@marcioferlan/react-file-viewer",
+  "version": "1.3.3"
+ },
+ {
+  "name": "lll-vue-pdf",
+  "version": "4.3.9"
+ },
+ {
+  "name": "capsule-mobiteach-components",
+  "version": "1.1.12"
+ },
+ {
+  "name": "js-agent",
+  "version": "0.0.24"
+ },
+ {
+  "name": "react-pdf-svg-render",
+  "version": "0.2.0"
+ },
+ {
+  "name": "chatapp-react-file-viewer",
+  "version": "1.0.11"
+ },
+ {
+  "name": "pdf-img-convert-fonts-fix",
+  "version": "1.2.1-pmtool"
+ },
+ {
+  "name": "@granatum/react-pdf",
+  "version": "5.5.1-7-legacy"
+ },
+ {
+  "name": "@kamil1047/react-doc-viewer",
+  "version": "0.1.5"
+ },
+ {
+  "name": "react-byblos",
+  "version": "0.6.0"
+ },
+ {
+  "name": "vue-pdf-embed-transparency",
+  "version": "1.1.8"
+ },
+ {
+  "name": "@vsalmeida/react-pdf-highlighter",
+  "version": "0.0.4"
+ },
+ {
+  "name": "linkplus-ui",
+  "version": "1.0.0-rc37"
+ },
+ {
+  "name": "wigem_ui",
+  "version": "0.2.9"
+ },
+ {
+  "name": "adber-ui",
+  "version": "1.0.6"
+ },
+ {
+  "name": "vue-pdf-lang",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-qiankun2",
+  "version": "4.3.0"
+ },
+ {
+  "name": "react-pdf-viewer-js",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@withum-digital/doc-labler",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@transsystem/utils",
+  "version": "1.0.0"
+ },
+ {
+  "name": "juicyfront_ppa",
+  "version": "0.5.7"
+ },
+ {
+  "name": "@amaplex-software/ng2-pdf-viewer",
+  "version": "6.3.4"
+ },
+ {
+  "name": "pdfkit-modified",
+  "version": "0.13.4"
+ },
+ {
+  "name": "slz-www2-components",
+  "version": "0.1.9"
+ },
+ {
+  "name": "bohe-vue-pdf",
+  "version": "4.0.7"
+ },
+ {
+  "name": "cn-adcode-efzcode",
+  "version": "2.1.1"
+ },
+ {
+  "name": "undefined-service-address",
+  "version": "1.0.57"
+ },
+ {
+  "name": "gd-signature-ysy",
+  "version": "0.0.2"
+ },
+ {
+  "name": "l-gridlayer-pdflayer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf-viewer-reactjs-cf",
+  "version": "2.0.9"
+ },
+ {
+  "name": "node-arxiv",
+  "version": "0.0.1"
+ },
+ {
+  "name": "sps-electronic-signature-v2",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@isle-project/components",
+  "version": "0.50.37"
+ },
+ {
+  "name": "tencent-learn",
+  "version": "1.3.8"
+ },
+ {
+  "name": "pdf2image8js",
+  "version": "1.0.1"
+ },
+ {
+  "name": "headfull",
+  "version": "0.9.6"
+ },
+ {
+  "name": "md-html-to-pdf",
+  "version": "4.2.3"
+ },
+ {
+  "name": "test-file-viewer",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@choerodon/master",
+  "version": "1.1.3"
+ },
+ {
+  "name": "@stuuno/react-pdf-js",
+  "version": "5.1.22"
+ },
+ {
+  "name": "dc-file-viewer3",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@compensa/langchain",
+  "version": "0.0.57"
+ },
+ {
+  "name": "react-pdf-editor",
+  "version": "1.1.2"
+ },
+ {
+  "name": "open-resume-lib",
+  "version": "1.0.3"
+ },
+ {
+  "name": "vue-pdf-zoomsign",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-editor",
+  "version": "1.0.0"
+ },
+ {
+  "name": "adam-windmill-components",
+  "version": "1.83.7"
+ },
+ {
+  "name": "ght-react-filter-search",
+  "version": "0.0.9"
+ },
+ {
+  "name": "pdf-wdj",
+  "version": "4.3.0"
+ },
+ {
+  "name": "resume-parser-knovator",
+  "version": "0.1.0"
+ },
+ {
+  "name": "vue-pdf-canvas",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-search-viewer",
+  "version": "0.2.4"
+ },
+ {
+  "name": "@realster/pdf-viewer",
+  "version": "0.0.4-beta.2"
+ },
+ {
+  "name": "@supertray/ui",
+  "version": "0.1.0"
+ },
+ {
+  "name": "xxfcommon",
+  "version": "1.2.10"
+ },
+ {
+  "name": "react-pdfreader-mozilla",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@stickchartco/react-file-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@buyerassist/ba-doc-viewer",
+  "version": "2.9.0"
+ },
+ {
+  "name": "gd-signature-zoom",
+  "version": "1.0.24"
+ },
+ {
+  "name": "vue-pdf-copy",
+  "version": "1.0.1"
+ },
+ {
+  "name": "mw2pdf",
+  "version": "0.6.1"
+ },
+ {
+  "name": "shetia-ui",
+  "version": "0.1.1"
+ },
+ {
+  "name": "gt-test-component",
+  "version": "5.0.9"
+ },
+ {
+  "name": "react-file-viewer-modified",
+  "version": "0.0.10"
+ },
+ {
+  "name": "@peergrade/react-pdf",
+  "version": "4.0.1"
+ },
+ {
+  "name": "ember-pdf-js",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@ndpnt/open-terms-archive",
+  "version": "1.6.0"
+ },
+ {
+  "name": "drayman-elements",
+  "version": "0.0.9"
+ },
+ {
+  "name": "@noloco/react-doc-viewer",
+  "version": "2.1.4"
+ },
+ {
+  "name": "embedchain",
+  "version": "0.0.8"
+ },
+ {
+  "name": "react-file-viewer-and-loading",
+  "version": "1.2.3"
+ },
+ {
+  "name": "@openhealthnz-credentials/pdf-image-qr-scanner",
+  "version": "1.0.2"
+ },
+ {
+  "name": "react-office-previewer",
+  "version": "1.0.16"
+ },
+ {
+  "name": "@zoley/react-file-viewer",
+  "version": "0.1.2"
+ },
+ {
+  "name": "@kjossendal/react-pdf",
+  "version": "2.0.0"
+ },
+ {
+  "name": "@frontendadci/react-file-viewer",
+  "version": "2.0.4"
+ },
+ {
+  "name": "pdf-to-img-vercel",
+  "version": "2.1.2"
+ },
+ {
+  "name": "vue-pdf-embed-fix",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@lrnwebcomponents/pdf-element",
+  "version": "7.0.0"
+ },
+ {
+  "name": "vue3-pdfjs",
+  "version": "0.1.6"
+ },
+ {
+  "name": "react-pdf-js-infinite-slugs",
+  "version": "0.0.6"
+ },
+ {
+  "name": "react-typescript-pdf-reader-built",
+  "version": "0.0.5"
+ },
+ {
+  "name": "react-pdf-viewer-demo-test",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@telligro/puppeteer",
+  "version": "0.13.0-FrameFixPatch"
+ },
+ {
+  "name": "pdf-remove-blank",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@wuchenchen74/brick-bj",
+  "version": "0.0.12"
+ },
+ {
+  "name": "vue-pdf-custom",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-uic",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@xupengfly2061/agile",
+  "version": "0.0.1"
+ },
+ {
+  "name": "lightr-vue-pdf-embed",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-pdf-js-credentials",
+  "version": "3.0.8"
+ },
+ {
+  "name": "zy-vue-pdf",
+  "version": "1.0.8"
+ },
+ {
+  "name": "pdfjs-custom",
+  "version": "2.1.250"
+ },
+ {
+  "name": "pdf-table-extractor-ts",
+  "version": "1.1.1"
+ },
+ {
+  "name": "gd-signature-luke",
+  "version": "1.0.9"
+ },
+ {
+  "name": "ptatjs",
+  "version": "1.0.0"
+ },
+ {
+  "name": "thom-react-pdf-highlighter",
+  "version": "1.0.5"
+ },
+ {
+  "name": "@autoanki/plugin-content-pdf-fragment",
+  "version": "0.1.12"
+ },
+ {
+  "name": "react-view-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "eboard",
+  "version": "0.9.31"
+ },
+ {
+  "name": "pdf-embed",
+  "version": "1.0.10"
+ },
+ {
+  "name": "react-file-viewer-plus",
+  "version": "0.1.2"
+ },
+ {
+  "name": "vite-vue-pdf",
+  "version": "1.3.6"
+ },
+ {
+  "name": "spase-model-tools",
+  "version": "0.4.0"
+ },
+ {
+  "name": "le-pdf",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@teggno/bbit.swiss-qr-bill",
+  "version": "3.0.0"
+ },
+ {
+  "name": "vue-pdf-amend",
+  "version": "1.0.0"
+ },
+ {
+  "name": "kevin-react-pdf-highlighter",
+  "version": "5.7.2"
+ },
+ {
+  "name": "alice-ui_test",
+  "version": "0.0.7"
+ },
+ {
+  "name": "@nurohif/extension-dicom-pdf",
+  "version": "1.1.0"
+ },
+ {
+  "name": "m-react-pdf-highlighter",
+  "version": "1.0.2"
+ },
+ {
+  "name": "ll-editor",
+  "version": "1.0.5"
+ },
+ {
+  "name": "@soyagaci/parser",
+  "version": "1.1.1"
+ },
+ {
+  "name": "sheets_document_visualizer",
+  "version": "0.4.7"
+ },
+ {
+  "name": "gdr-pdf",
+  "version": "0.0.1"
+ },
+ {
+  "name": "react-report",
+  "version": "1.0.26"
+ },
+ {
+  "name": "react-custom-pdf-highlighter",
+  "version": "0.0.2-alpha4"
+ },
+ {
+  "name": "react-doc-viewer-sant",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@meinenghua/pdf-viewer",
+  "version": "0.4.2"
+ },
+ {
+  "name": "websbss_plug",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@wajek/report",
+  "version": "0.0.1"
+ },
+ {
+  "name": "ahao-pdf-merge",
+  "version": "1.0.2-alpha-0"
+ },
+ {
+  "name": "@7-docs/cli",
+  "version": "0.5.1"
+ },
+ {
+  "name": "@levrairiri/react-file-viewer-extended",
+  "version": "2.0.3"
+ },
+ {
+  "name": "@devadri/ngx-imageviewer",
+  "version": "3.0.0"
+ },
+ {
+  "name": "fh-front-react-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdf-qcc",
+  "version": "4.2.0"
+ },
+ {
+  "name": "@jadefortune/szga-component",
+  "version": "1.0.263"
+ },
+ {
+  "name": "reactjs-pdf-reader-custom",
+  "version": "1.1.5"
+ },
+ {
+  "name": "zjkj-vue-pdf1",
+  "version": "4.3.0"
+ },
+ {
+  "name": "@rem.tools/signt-react-sdk",
+  "version": "1.2.10"
+ },
+ {
+  "name": "gd-signature-hr",
+  "version": "2.1.14"
+ },
+ {
+  "name": "korlan-flowise-components",
+  "version": "1.6.2"
+ },
+ {
+  "name": "mediaobject",
+  "version": "0.0.12"
+ },
+ {
+  "name": "@rjgf/pdfviewer",
+  "version": "0.1.12"
+ },
+ {
+  "name": "@amin_jmil/pdf-editor",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@yangxuy/pdf-reader",
+  "version": "1.0.8"
+ },
+ {
+  "name": "node-red-contrib-pdfjs",
+  "version": "0.0.2"
+ },
+ {
+  "name": "reveal-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@okfde/filingcabinet",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@snacking/see-vue",
+  "version": "0.2.7"
+ },
+ {
+  "name": "vue-pdf-components",
+  "version": "1.0.0"
+ },
+ {
+  "name": "bluestoneapp-ng2-pdf-viewer",
+  "version": "2.0.5"
+ },
+ {
+  "name": "filepreview_else",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@charitips/pdfkit",
+  "version": "0.15.2"
+ },
+ {
+  "name": "jh-preview-pdf",
+  "version": "0.0.3"
+ },
+ {
+  "name": "react-doc-viewer-extended",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-pdf-js-infinite",
+  "version": "1.2.0"
+ },
+ {
+  "name": "@id3/bioseal-verification",
+  "version": "2.0.3"
+ },
+ {
+  "name": "hchxue-react",
+  "version": "0.0.8"
+ },
+ {
+  "name": "@heisea/brick-bj",
+  "version": "0.0.11"
+ },
+ {
+  "name": "mikhailbartashevich-react-pdf-highlighter",
+  "version": "1.0.0"
+ },
+ {
+  "name": "torchv-chat",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@samirans89/percy-pdf",
+  "version": "0.4.6"
+ },
+ {
+  "name": "thebestphoneedit",
+  "version": "1.0.6"
+ },
+ {
+  "name": "myfirstreactappsujal",
+  "version": "0.1.0"
+ },
+ {
+  "name": "file-operations",
+  "version": "1.0.2"
+ },
+ {
+  "name": "vue-pdf-modify",
+  "version": "4.2.0"
+ },
+ {
+  "name": "rpdfviwer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "polar-pdf",
+  "version": "2.1.31"
+ },
+ {
+  "name": "react-pdfjs",
+  "version": "1.0.7"
+ },
+ {
+  "name": "@disco-widgets/react-components",
+  "version": "1.69.3"
+ },
+ {
+  "name": "pdf-img-convert-node-fix",
+  "version": "1.0.6"
+ },
+ {
+  "name": "v-doc-viewer",
+  "version": "0.1.4"
+ },
+ {
+  "name": "common-lib-vue",
+  "version": "1.0.98"
+ },
+ {
+  "name": "@ilzf/pdf-vue3",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@tritura/react-pdf-types",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@lamphq-org/web-sdk",
+  "version": "0.9.6"
+ },
+ {
+  "name": "angular-thumbnails",
+  "version": "0.2.3"
+ },
+ {
+  "name": "react-pdf-renderer-3-1-5-without-jay-peg",
+  "version": "3.1.5"
+ },
+ {
+  "name": "react-scan-pdf",
+  "version": "1.0.7"
+ },
+ {
+  "name": "pdf-img-convert-web",
+  "version": "1.2.4"
+ },
+ {
+  "name": "gissbss_plug",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@intelllex/react-pdf",
+  "version": "1.1.1"
+ },
+ {
+  "name": "ksys-file-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-spacemit-plus",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@sk-global/text-extractor",
+  "version": "0.2.3"
+ },
+ {
+  "name": "@allganize/react-pdf",
+  "version": "6.2.4"
+ },
+ {
+  "name": "react-with-pdf",
+  "version": "1.6.3"
+ },
+ {
+  "name": "pj-vue-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "lc-pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "gd-signature-y",
+  "version": "1.1.2"
+ },
+ {
+  "name": "edo-lib",
+  "version": "0.1.16"
+ },
+ {
+  "name": "@pattern-x/gemini-viewer-threejs",
+  "version": "0.2.71"
+ },
+ {
+  "name": "zll-fileview",
+  "version": "1.0.3"
+ },
+ {
+  "name": "ng2-pdf-viewer-csp-strict",
+  "version": "7.0.1-forked"
+ },
+ {
+  "name": "@chumager/itdfw-site-base",
+  "version": "2.4.5"
+ },
+ {
+  "name": "techlines-framework-02",
+  "version": "1.0.0-beta.38"
+ },
+ {
+  "name": "react-validator-core",
+  "version": "0.1.1"
+ },
+ {
+  "name": "fk-hotent-ui",
+  "version": "1.0.8"
+ },
+ {
+  "name": "prestashop_test_module",
+  "version": "0.0.8"
+ },
+ {
+  "name": "@threefold2/ui",
+  "version": "1.1.1-rc2"
+ },
+ {
+  "name": "node-viewerjs",
+  "version": "0.7.4"
+ },
+ {
+  "name": "cbmis-ai-toolbox",
+  "version": "1.0.4"
+ },
+ {
+  "name": "afta-lib-js-v1",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@am-77/svelte-pdf",
+  "version": "0.0.16"
+ },
+ {
+  "name": "compodoc-input-only",
+  "version": "1.0.0"
+ },
+ {
+  "name": "shipthis-pdfx",
+  "version": "1.0.2"
+ },
+ {
+  "name": "vue-pdf-wujie",
+  "version": "4.2.0"
+ },
+ {
+  "name": "vue-pdf12",
+  "version": "0.0.1"
+ },
+ {
+  "name": "mrhua-vue3-pdf",
+  "version": "1.0.16"
+ },
+ {
+  "name": "dijix-pdf",
+  "version": "0.0.8"
+ },
+ {
+  "name": "@caliorg/a2jdeps",
+  "version": "7.1.7"
+ },
+ {
+  "name": "pdf-to-svg",
+  "version": "0.0.1-0"
+ },
+ {
+  "name": "@restsign/react-restsign-js",
+  "version": "0.0.13"
+ },
+ {
+  "name": "pdf-table-extractor-jes",
+  "version": "1.0.2"
+ },
+ {
+  "name": "react-pdf-js-infinite-zoom",
+  "version": "1.9.0"
+ },
+ {
+  "name": "@saber2pr/file-drop",
+  "version": "0.0.7"
+ },
+ {
+  "name": "@suitable-ai/react-pdf-viewer",
+  "version": "0.0.2"
+ },
+ {
+  "name": "mario-pdf-viewer",
+  "version": "0.0.9"
+ },
+ {
+  "name": "pdf-viewer-vue",
+  "version": "0.2.7"
+ },
+ {
+  "name": "@huanyer/player",
+  "version": "0.0.2"
+ },
+ {
+  "name": "joplin-plugin-template",
+  "version": "1.2.2"
+ },
+ {
+  "name": "whizz-ng2-pdf-viewer",
+  "version": "10.0.0"
+ },
+ {
+  "name": "@tato30/testing-npm-pkg",
+  "version": "1.4.8"
+ },
+ {
+  "name": "hx-brick",
+  "version": "0.11.10"
+ },
+ {
+  "name": "wen-plus",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@digital-cnzz/react-file-viewer",
+  "version": "1.2.3"
+ },
+ {
+  "name": "@suinesia/web3_digital_signatures",
+  "version": "0.0.1"
+ },
+ {
+  "name": "vue-pdf-tk",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pdf-reader-vue",
+  "version": "1.0.0"
+ },
+ {
+  "name": "truelaw-react-pdf-highlighter",
+  "version": "1.0.4"
+ },
+ {
+  "name": "ougr-ui",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@realequity/ui-components",
+  "version": "1.8.82"
+ },
+ {
+  "name": "pos-deps",
+  "version": "1.0.82"
+ },
+ {
+  "name": "@simiancraft/react-file-viewer",
+  "version": "2.0.1"
+ },
+ {
+  "name": "smc-webapp",
+  "version": "1.6.0"
+ },
+ {
+  "name": "j-stalk_front",
+  "version": "3.3.4"
+ },
+ {
+  "name": "@brainfish-ai/help-widget",
+  "version": "0.0.11-alpha.0"
+ },
+ {
+  "name": "@hz_org/hz-library",
+  "version": "1.1.25"
+ },
+ {
+  "name": "@autoanki/autoanki-plugin-content-pdf-fragment",
+  "version": "0.1.1"
+ },
+ {
+  "name": "@geeboo/viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdfjs-wrapper",
+  "version": "1.1.0"
+ },
+ {
+  "name": "qmreact-file-viewer",
+  "version": "2.0.3"
+ },
+ {
+  "name": "react-pdf-js-withcredentials",
+  "version": "4.0.3"
+ },
+ {
+  "name": "idn-area-extractor",
+  "version": "0.5.1"
+ },
+ {
+  "name": "@pubpub/render-files",
+  "version": "2.0.64"
+ },
+ {
+  "name": "ivy.angular.material.pdf-reader",
+  "version": "2.0.3"
+ },
+ {
+  "name": "duyansoft-pdfjs-dist",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@redcomrade/react-file-viewer",
+  "version": "1.3.5"
+ },
+ {
+  "name": "digibeat-react-pdf-highlighter",
+  "version": "6.1.10"
+ },
+ {
+  "name": "@heavens/brick",
+  "version": "0.18.22"
+ },
+ {
+  "name": "gd-signature-zd",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@akord/web-components",
+  "version": "0.0.20"
+ },
+ {
+  "name": "rvasiliy-pdfassembler",
+  "version": "0.1.0-beta.8-2"
+ },
+ {
+  "name": "@zoucheng-vue3/h5",
+  "version": "1.0.0"
+ },
+ {
+  "name": "abc-filter-search",
+  "version": "0.0.6"
+ },
+ {
+  "name": "react-pdf-highlighter-vf",
+  "version": "5.6.2"
+ },
+ {
+  "name": "pdf-parse-assist",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@dev_explorer/react-file-viewer",
+  "version": "1.2.1-c"
+ },
+ {
+  "name": "pdfviewer",
+  "version": "1.1.1"
+ },
+ {
+  "name": "lanjian-pdfano",
+  "version": "0.1.5"
+ },
+ {
+  "name": "react-doc-viewer-with-controls",
+  "version": "1.0.0"
+ },
+ {
+  "name": "synced-media",
+  "version": "1.6.1"
+ },
+ {
+  "name": "react-pdf-reader",
+  "version": "0.1.8"
+ },
+ {
+  "name": "@dctw/my-pdf",
+  "version": "2.0.1"
+ },
+ {
+  "name": "tar-vue-pdf-embed",
+  "version": "1.2.3"
+ },
+ {
+  "name": "ft-vue-pdf",
+  "version": "4.3.1"
+ },
+ {
+  "name": "vue-xrhui",
+  "version": "1.0.60"
+ },
+ {
+  "name": "wx-react-pdf",
+  "version": "5.6.0"
+ },
+ {
+  "name": "@bitech-ag/ui5.pdf",
+  "version": "1.1.7"
+ },
+ {
+  "name": "reactland-pdfjs",
+  "version": "1.0.3"
+ },
+ {
+  "name": "adber-adber-ui",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@edukakai/loki",
+  "version": "1.6.0-ALPHA.2"
+ },
+ {
+  "name": "zc-ui-mobile",
+  "version": "0.0.5"
+ },
+ {
+  "name": "vue-pdf-w",
+  "version": "4.3.0"
+ },
+ {
+  "name": "react-pdf-image-qr-scanner",
+  "version": "1.1.1"
+ },
+ {
+  "name": "han_course_viewer",
+  "version": "1.0.12"
+ },
+ {
+  "name": "@appsafetyhub/ui",
+  "version": "1.1.19"
+ },
+ {
+  "name": "vue-pdf-nocache-cmap",
+  "version": "0.0.2"
+ },
+ {
+  "name": "websbss",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@louisblack/pdf-annotate.js",
+  "version": "0.0.4"
+ },
+ {
+  "name": "topnet-pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pdf-react",
+  "version": "1.5.1"
+ },
+ {
+  "name": "pdfform2json",
+  "version": "0.2.0"
+ },
+ {
+  "name": "anywr-ds",
+  "version": "2.34.0"
+ },
+ {
+  "name": "vue3-view-pdf3",
+  "version": "1.0.1"
+ },
+ {
+  "name": "whzbcx_bim",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue2-pdf",
+  "version": "1.0.3"
+ },
+ {
+  "name": "gd-signature-h",
+  "version": "3.0.2"
+ },
+ {
+  "name": "react-pdf-with-legacy-pdfjs",
+  "version": "0.0.2"
+ },
+ {
+  "name": "og-react-pdf-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "ght-react",
+  "version": "0.0.5"
+ },
+ {
+  "name": "filepix",
+  "version": "1.0.9"
+ },
+ {
+  "name": "react-office-viewer",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-pdfimgcut",
+  "version": "1.0.13"
+ },
+ {
+  "name": "estone-ui",
+  "version": "1.0.17"
+ },
+ {
+  "name": "goldriver_qcy",
+  "version": "2.1.4"
+ },
+ {
+  "name": "sas-react-doc-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-document-viewer-y",
+  "version": "0.1.5"
+ },
+ {
+  "name": "ng2-alfresco-aos-editonline",
+  "version": "0.1.7"
+ },
+ {
+  "name": "itone-rlp-components-npm",
+  "version": "0.1.4"
+ },
+ {
+  "name": "@qastan/react-file-viewer",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@mib3avenger/compodoc-angular",
+  "version": "1.1.23"
+ },
+ {
+  "name": "@nolesh/react-file-manager",
+  "version": "2.2.1"
+ },
+ {
+  "name": "ru.coon.deps",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@mgcrea/puppeteer",
+  "version": "0.9.0"
+ },
+ {
+  "name": "web_view_sdk_test",
+  "version": "2.5.8"
+ },
+ {
+  "name": "@dgautalius/react-pdf",
+  "version": "0.0.5"
+ },
+ {
+  "name": "@nodearch/pdf",
+  "version": "0.3.0"
+ },
+ {
+  "name": "cbmis-ai-storybord",
+  "version": "1.0.9"
+ },
+ {
+  "name": "@amalto/platform6-ui-components",
+  "version": "1.5.19"
+ },
+ {
+  "name": "vue-pdf-parser",
+  "version": "2.0.3"
+ },
+ {
+  "name": "@neonlaw/web",
+  "version": "0.1.1"
+ },
+ {
+  "name": "emp-pdf",
+  "version": "4.3.4"
+ },
+ {
+  "name": "sds-preview",
+  "version": "0.0.2"
+ },
+ {
+  "name": "ami-visualizer",
+  "version": "0.1.1"
+ },
+ {
+  "name": "sort-your-paper",
+  "version": "0.0.5"
+ },
+ {
+  "name": "@aftervolley/ffvb",
+  "version": "0.1.12"
+ },
+ {
+  "name": "vue-pdf-wwt",
+  "version": "1.0.1"
+ },
+ {
+  "name": "10t-images-to-pdf",
+  "version": "1.0.3"
+ },
+ {
+  "name": "cbmis-ai",
+  "version": "1.0.14"
+ },
+ {
+  "name": "vue-pdf-sign-mf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@lfdoherty/pdfkit",
+  "version": "0.13.1"
+ },
+ {
+  "name": "@hallysonh/ngx-imageviewer",
+  "version": "2.0.4"
+ },
+ {
+  "name": "parsec-vue3-pdfjs",
+  "version": "0.1.7"
+ },
+ {
+  "name": "dhc-vue",
+  "version": "0.0.1"
+ },
+ {
+  "name": "vue-preview-pdf",
+  "version": "0.1.4"
+ },
+ {
+  "name": "gd-signature-zh",
+  "version": "2.1.1"
+ },
+ {
+  "name": "@wf-core/components",
+  "version": "2.0.3"
+ },
+ {
+  "name": "gwlowcode",
+  "version": "0.0.87"
+ },
+ {
+  "name": "@syncit/ui",
+  "version": "1.0.2"
+ },
+ {
+  "name": "react-docs-renderer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@giorgioinkode/react-file-viewer",
+  "version": "2.1.0"
+ },
+ {
+  "name": "@emsn/react-pdf",
+  "version": "4.2.1"
+ },
+ {
+  "name": "@devheedoo/vue-pdf",
+  "version": "4.2.1"
+ },
+ {
+  "name": "@szgc/plt-core",
+  "version": "0.9.1"
+ },
+ {
+  "name": "legal-labs-verify-ocr",
+  "version": "1.0.1"
+ },
+ {
+  "name": "concisepdf",
+  "version": "1.1.0"
+ },
+ {
+  "name": "apec-fe-utils",
+  "version": "1.1.3"
+ },
+ {
+  "name": "h-file-preview",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@monite/react-pdf",
+  "version": "5.2.0"
+ },
+ {
+  "name": "@kamiapp/pdf",
+  "version": "0.8.0"
+ },
+ {
+  "name": "pdf-metadata",
+  "version": "2.0.1"
+ },
+ {
+  "name": "bookexcerpt",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@newpearl/electron",
+  "version": "0.0.3"
+ },
+ {
+  "name": "@cecalc/analisador-de-texto",
+  "version": "6.0.1"
+ },
+ {
+  "name": "@tyku/xdocgen",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@cocalc/static",
+  "version": "1.136.7"
+ },
+ {
+  "name": "vue-pdf-embed-mapurl",
+  "version": "1.0.4"
+ },
+ {
+  "name": "pdf-element",
+  "version": "0.1.4"
+ },
+ {
+  "name": "covid-green-dcc-file-decoder",
+  "version": "0.1.4"
+ },
+ {
+  "name": "surprice-react-doc-viewer",
+  "version": "0.1.8"
+ },
+ {
+  "name": "pef-news",
+  "version": "4.2.1"
+ },
+ {
+  "name": "gd-dong",
+  "version": "1.0.0"
+ },
+ {
+  "name": "hpreviewfile",
+  "version": "1.1.0"
+ },
+ {
+  "name": "signify-pdf",
+  "version": "0.0.6-rc.42"
+ },
+ {
+  "name": "pdf-parse2",
+  "version": "1.0.4"
+ },
+ {
+  "name": "test1-components",
+  "version": "1.1.4"
+ },
+ {
+  "name": "@designestate/dees-catalog",
+  "version": "1.0.170"
+ },
+ {
+  "name": "react-pdf-pds",
+  "version": "5.2.2"
+ },
+ {
+  "name": "react-file-viewers",
+  "version": "2.2.1"
+ },
+ {
+  "name": "pee-dee-eef-kuntab",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pm-bidevaluation-std-ui",
+  "version": "1.0.8"
+ },
+ {
+  "name": "nodejs-pdf-parser",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@thszk/loki",
+  "version": "1.12.1-ALPHA.13"
+ },
+ {
+  "name": "vue-pdfjs-hook",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@thetechcompany/react-doc-viewer",
+  "version": "0.1.10"
+ },
+ {
+  "name": "test-uii",
+  "version": "0.1.7"
+ },
+ {
+  "name": "@nicholas23/ui",
+  "version": "1.1.9"
+ },
+ {
+  "name": "mnm-ngx-imageviewer",
+  "version": "0.0.2"
+ },
+ {
+  "name": "react-pdf-to-image-light",
+  "version": "1.0.6"
+ },
+ {
+  "name": "czerwoniakplus-pdf-viewer",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@kalamazoo/media-viewer",
+  "version": "1.0.2"
+ },
+ {
+  "name": "images-to-pdf",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@newhippo/react-pdf-js",
+  "version": "4.0.1"
+ },
+ {
+  "name": "hzt-project-base",
+  "version": "1.0.27"
+ },
+ {
+  "name": "@m-coder/pdf-to-img",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdf-last",
+  "version": "4.2.0"
+ },
+ {
+  "name": "react-pdf-annotator",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-2.16.105",
+  "version": "1.0.1"
+ },
+ {
+  "name": "ttv-ng2-pdf-viewer",
+  "version": "0.1.0-1"
+ },
+ {
+  "name": "media-dropzone-vuejs",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@hx-brick/brick",
+  "version": "0.11.10"
+ },
+ {
+  "name": "joplin-plugin-apollo",
+  "version": "1.2.2"
+ },
+ {
+  "name": "@openlawnz/openlawnz-parsers",
+  "version": "1.0.2"
+ },
+ {
+  "name": "create-yitaiyun-ui-dev",
+  "version": "1.1.2"
+ },
+ {
+  "name": "@glennholland/react-pdf",
+  "version": "2.0.0"
+ },
+ {
+  "name": "react-file-viewer-extend",
+  "version": "1.2.6"
+ },
+ {
+  "name": "@mattlewis92/ng2-pdf-viewer",
+  "version": "6.0.1"
+ },
+ {
+  "name": "react-pdf-highlighter2",
+  "version": "2.4.3"
+ },
+ {
+  "name": "pdf-annotate.js",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@abcum/ember-app",
+  "version": "0.12.0"
+ },
+ {
+  "name": "@zus-health/ctw-component-library",
+  "version": "4.0.2"
+ },
+ {
+  "name": "straiforos-compodoc",
+  "version": "1.1.27"
+ },
+ {
+  "name": "@iwgb/roo-invoice-parser",
+  "version": "2.1.1"
+ },
+ {
+  "name": "gd-signature-hz",
+  "version": "1.0.3"
+ },
+ {
+  "name": "whzbcx_web_app1",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@accoio/react-pdf-highlighter",
+  "version": "2.0.1"
+ },
+ {
+  "name": "vue-pdf-fix",
+  "version": "4.2.0"
+ },
+ {
+  "name": "puppeteer-firefox-unoffcial",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@amithkk/pdf-table-extractor",
+  "version": "2.0.0-fork"
+ },
+ {
+  "name": "vue-pdf-zk",
+  "version": "1.0.1"
+ },
+ {
+  "name": "react-pdf-fix",
+  "version": "5.7.3"
+ },
+ {
+  "name": "gix-polar-pdf",
+  "version": "4.0.2"
+ },
+ {
+  "name": "@lanseria/vue-pdf-vite",
+  "version": "1.0.5"
+ },
+ {
+  "name": "karaui",
+  "version": "0.0.46"
+ },
+ {
+  "name": "pdf-to-png",
+  "version": "1.0.3"
+ },
+ {
+  "name": "lt-materialdownload-modal",
+  "version": "0.0.1-alpha.2"
+ },
+ {
+  "name": "@secib/pdf",
+  "version": "2.0.6"
+ },
+ {
+  "name": "vue-pdfjs2",
+  "version": "0.1.1"
+ },
+ {
+  "name": "react-pdf-highlighter-sp",
+  "version": "5.8.2"
+ },
+ {
+  "name": "dy-vite-vue-pdf",
+  "version": "2.0.2"
+ },
+ {
+  "name": "react-file-viewer-plugins-v4",
+  "version": "1.0.0"
+ },
+ {
+  "name": "smarthrreact",
+  "version": "0.1.0"
+ },
+ {
+  "name": "pasantes-document-viewer",
+  "version": "0.1.2"
+ },
+ {
+  "name": "pdf-splitmerger",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@brokermint/react-pdf",
+  "version": "1.0.2"
+ },
+ {
+  "name": "pdfmeta",
+  "version": "0.1.1"
+ },
+ {
+  "name": "react-pdf-sdk",
+  "version": "1.0.9"
+ },
+ {
+  "name": "gd-signature-c",
+  "version": "1.0.9"
+ },
+ {
+  "name": "gd-signature-jining",
+  "version": "1.0.12"
+ },
+ {
+  "name": "sbss_cgfx",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@softbrains/vue-pdf",
+  "version": "4.0.8"
+ },
+ {
+  "name": "textmeta",
+  "version": "0.0.12"
+ },
+ {
+  "name": "react-office-viewer-withoutcss",
+  "version": "1.0.0"
+ },
+ {
+  "name": "gd-signature",
+  "version": "2.3.2"
+ },
+ {
+  "name": "ray-jspdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@dks9556/pdfjs-dist",
+  "version": "2.0.946"
+ },
+ {
+  "name": "@treelab/panda",
+  "version": "4.10.8"
+ },
+ {
+  "name": "vue-pdf-xiaowan",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-files-viewer",
+  "version": "1.0.8"
+ },
+ {
+  "name": "ght-react-search",
+  "version": "0.0.4"
+ },
+ {
+  "name": "mj-cl-ui",
+  "version": "1.0.1"
+ },
+ {
+  "name": "react-pdf-matan",
+  "version": "6.3.0"
+ },
+ {
+  "name": "react-pdf-js-infinite-2",
+  "version": "1.2.1"
+ },
+ {
+  "name": "react-pdf-mod-adexe",
+  "version": "1.0.0"
+ },
+ {
+  "name": "ght-react-filter-demo",
+  "version": "0.0.3"
+ },
+ {
+  "name": "svelte-pdf-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf2png-js",
+  "version": "1.0.4"
+ },
+ {
+  "name": "gulp-pdf-to-image",
+  "version": "0.1.3"
+ },
+ {
+  "name": "@artdotstyle/filepix",
+  "version": "1.0.11"
+ },
+ {
+  "name": "react-doc-viewer-ext",
+  "version": "1.0.0"
+ },
+ {
+  "name": "sign-with-pdf",
+  "version": "1.0.102"
+ },
+ {
+  "name": "pdf-comment-gen",
+  "version": "1.0.2"
+ },
+ {
+  "name": "vue-pdf-render-event",
+  "version": "4.0.9"
+ },
+ {
+  "name": "@hreimer/ngx-imageviewer",
+  "version": "0.9.2"
+ },
+ {
+  "name": "react-file-viewer-ext",
+  "version": "1.1.2"
+ },
+ {
+  "name": "pdf-exports",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@submitty/pdf-annotate.js",
+  "version": "24.6.6"
+ },
+ {
+  "name": "pdfassembler",
+  "version": "0.1.0-beta.8"
+ },
+ {
+  "name": "gd-signature-h1",
+  "version": "1.0.4"
+ },
+ {
+  "name": "sb-cb-ui-author",
+  "version": "0.0.1"
+ },
+ {
+  "name": "react-pdf-view",
+  "version": "0.1.2"
+ },
+ {
+  "name": "react-viewer-simple",
+  "version": "1.0.5"
+ },
+ {
+  "name": "cloud-front-components",
+  "version": "1.0.64"
+ },
+ {
+  "name": "yofc-vue-pdfjs",
+  "version": "1.1.1"
+ },
+ {
+  "name": "@tecmie/labdoc-sdk",
+  "version": "0.1.9"
+ },
+ {
+  "name": "gehj-cli",
+  "version": "0.1.0"
+ },
+ {
+  "name": "vue3-pdf-reader",
+  "version": "0.0.0"
+ },
+ {
+  "name": "@epydoc/react-pdf-highlighter",
+  "version": "5.0.4"
+ },
+ {
+  "name": "file-previewer",
+  "version": "1.1.0"
+ },
+ {
+  "name": "cloudsean-pdf-to-printer",
+  "version": "1.5.9"
+ },
+ {
+  "name": "@osjs/pdfreader-application",
+  "version": "1.2.0"
+ },
+ {
+  "name": "pdfx",
+  "version": "1.0.6"
+ },
+ {
+  "name": "business-elements-angular",
+  "version": "0.1.1"
+ },
+ {
+  "name": "@hmcts/pdf-annotate",
+  "version": "1.1.17"
+ },
+ {
+  "name": "gd-signature-hh",
+  "version": "1.3.20"
+ },
+ {
+  "name": "vue-pdf-embed-pro",
+  "version": "2.0.4-beta.7"
+ },
+ {
+  "name": "vue-liang-rong-wap",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf-annotate-sdnd",
+  "version": "0.1.9"
+ },
+ {
+  "name": "gd-signature-z",
+  "version": "2.1.1"
+ },
+ {
+  "name": "droppy",
+  "version": "12.2.0"
+ },
+ {
+  "name": "pdfjs-react-frame",
+  "version": "0.1.1"
+ },
+ {
+  "name": "esign-x",
+  "version": "0.1.5"
+ },
+ {
+  "name": "pdf-compressor",
+  "version": "1.0.5"
+ },
+ {
+  "name": "@contezza/documentlist",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@sventschui/react-svg-editor",
+  "version": "1.0.0-alpha.22"
+ },
+ {
+  "name": "@rui-jie/choerodon-agile",
+  "version": "0.22.4"
+ },
+ {
+  "name": "file-preview-author",
+  "version": "1.0.5"
+ },
+ {
+  "name": "vue-pdf-fixed",
+  "version": "5.0.0"
+ },
+ {
+  "name": "ngdz-file-viewer",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@cocalc/cdn",
+  "version": "1.15.1"
+ },
+ {
+  "name": "@supertray/sdk",
+  "version": "0.1.0"
+ },
+ {
+  "name": "react-pdf-resource",
+  "version": "4.0.8"
+ },
+ {
+  "name": "react-pdf-with-onclick",
+  "version": "2.0.20"
+ },
+ {
+  "name": "hai-test-alice",
+  "version": "0.0.29"
+ },
+ {
+  "name": "co-preview",
+  "version": "1.1.7"
+ },
+ {
+  "name": "@onlytabs/ngx-imageviewer",
+  "version": "1.3.0-alpha.5"
+ },
+ {
+  "name": "rpdfviewer",
+  "version": "0.0.2"
+ },
+ {
+  "name": "docs-renderer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@dbp-topics/signature",
+  "version": "2.1.4"
+ },
+ {
+  "name": "@spekta/react-mysa-doc",
+  "version": "1.0.16"
+ },
+ {
+  "name": "simple-svelte-pdf",
+  "version": "1.0.0-deprecated"
+ },
+ {
+  "name": "vue-simple-pdf-viewer",
+  "version": "0.1.2"
+ },
+ {
+  "name": "tiptap-rendering-xiatian",
+  "version": "1.2.241-vega.1"
+ },
+ {
+  "name": "joplin-plugin-athena",
+  "version": "2.2.3"
+ },
+ {
+  "name": "react-docs-preview",
+  "version": "1.0.3"
+ },
+ {
+  "name": "whzbcx_web_app",
+  "version": "1.0.0"
+ },
+ {
+  "name": "slide-shower",
+  "version": "0.2.0"
+ },
+ {
+  "name": "pdfjs-viewer-vue",
+  "version": "0.1.0"
+ },
+ {
+  "name": "zjzx-portal",
+  "version": "1.0.1"
+ },
+ {
+  "name": "reactjs-pdf-view",
+  "version": "1.0.8"
+ },
+ {
+  "name": "@artesa/vue-pdf-embed",
+  "version": "5.0.2-0"
+ },
+ {
+  "name": "new-vue-pdf",
+  "version": "1.1.2"
+ },
+ {
+  "name": "pro-annotation",
+  "version": "0.0.1"
+ },
+ {
+  "name": "react-pdf-viewer-with-rotate",
+  "version": "1.1.0"
+ },
+ {
+  "name": "vue-z-pdf-sign",
+  "version": "4.2.0"
+ },
+ {
+  "name": "cdd-pdf-view",
+  "version": "0.3.7"
+ },
+ {
+  "name": "vue-pdf-gqy",
+  "version": "1.0.13"
+ },
+ {
+  "name": "@cdgmx/resolvr-core",
+  "version": "1.1.52"
+ },
+ {
+  "name": "vue-pdf-wind",
+  "version": "3.3.9"
+ },
+ {
+  "name": "vite-vue-pdf-331",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-use-pdf",
+  "version": "1.0.8"
+ },
+ {
+  "name": "vue-pdf-nico",
+  "version": "4.2.3"
+ },
+ {
+  "name": "ipftokens",
+  "version": "1.0.5"
+ },
+ {
+  "name": "pdf-table-extractor-forked",
+  "version": "1.0.2"
+ },
+ {
+  "name": "just-pdf-viewer10",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@ionito/react-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "hzwjstcc",
+  "version": "4.4.1"
+ },
+ {
+  "name": "vue-pdf-zk01",
+  "version": "4.3.0"
+ },
+ {
+  "name": "cerebro-files-nav",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-pdf-proxy",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@cmshepard/vue-pdf",
+  "version": "1.8.1-ds3"
+ },
+ {
+  "name": "pdf-img",
+  "version": "1.1.0"
+ },
+ {
+  "name": "confluence-static-site-builder",
+  "version": "1.0.0-m12"
+ },
+ {
+  "name": "gd-signature-jianhai",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@nicholas23/pdfme-ui",
+  "version": "1.1.11"
+ },
+ {
+  "name": "ng2-pdf-viewer_temp-release",
+  "version": "0.1.8"
+ },
+ {
+  "name": "@kjossendal/root",
+  "version": "2.0.2"
+ },
+ {
+  "name": "pdf-vue-startsi",
+  "version": "1.0.2"
+ },
+ {
+  "name": "vue2-simple-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pdf-extension",
+  "version": "0.0.1"
+ },
+ {
+  "name": "pdf-parser-client-side",
+  "version": "1.1.1"
+ },
+ {
+  "name": "@cocalc/frontend",
+  "version": "1.102.7"
+ },
+ {
+  "name": "@tripair/react-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@max.lutsenko/ngx-imageviewer",
+  "version": "14.2.15"
+ },
+ {
+  "name": "vue-pdf-aden",
+  "version": "1.0.0"
+ },
+ {
+  "name": "xuthussvue3pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "spendanalyticsplatform",
+  "version": "9.5.1"
+ },
+ {
+  "name": "cctc-epc",
+  "version": "1.3.72"
+ },
+ {
+  "name": "pdf-file-editor",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@mhmdaljefri/pdfme-ui",
+  "version": "1.0.16-beta-02"
+ },
+ {
+  "name": "@evolutionjobs/pdf-viewer",
+  "version": "0.0.3"
+ },
+ {
+  "name": "crumple-ui",
+  "version": "0.0.1"
+ },
+ {
+  "name": "react-pdf-watermark",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@robotikzz/pdfkit",
+  "version": "0.12.3"
+ },
+ {
+  "name": "ng2-pdf-viewer-legitech",
+  "version": "8.0.1"
+ },
+ {
+  "name": "ngx-amrs",
+  "version": "2.12.0-SNAPSHOT"
+ },
+ {
+  "name": "@estcode/pdf-img-converter-ts",
+  "version": "0.1.2"
+ },
+ {
+  "name": "new-preview-file-h",
+  "version": "2.1.3"
+ },
+ {
+  "name": "@ilb/filedossier-js",
+  "version": "1.0.47"
+ },
+ {
+  "name": "pdf-vue3-vite",
+  "version": "1.0.13"
+ },
+ {
+  "name": "@miata74/better-react-file-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "questionsys-pdf-generator",
+  "version": "0.0.0"
+ },
+ {
+  "name": "@omysoul/svelte-pdf-viewer",
+  "version": "0.0.3"
+ },
+ {
+  "name": "pdf.js-controller",
+  "version": "1.0.1"
+ },
+ {
+  "name": "certifyteojs",
+  "version": "1.0.3"
+ },
+ {
+  "name": "simple-pdf",
+  "version": "0.1.14"
+ },
+ {
+  "name": "whzbcx_web_plug",
+  "version": "2.0.0"
+ },
+ {
+  "name": "react-pdf-hackx",
+  "version": "5.6.0"
+ },
+ {
+  "name": "@fuse-oo/ui",
+  "version": "0.4.2"
+ },
+ {
+  "name": "open-terms-archive",
+  "version": "0.15.1"
+ },
+ {
+  "name": "@anbcodes/chordpdf",
+  "version": "0.0.7"
+ },
+ {
+  "name": "pdf-template",
+  "version": "0.1.11"
+ },
+ {
+  "name": "simpdf",
+  "version": "1.0.6"
+ },
+ {
+  "name": "compactor",
+  "version": "0.1.2"
+ },
+ {
+  "name": "testcenter-fileviewer",
+  "version": "1.1.0"
+ },
+ {
+  "name": "argo-pdf-embedder",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@talaikis/pdf-viewer-reactjs",
+  "version": "2.2.3"
+ },
+ {
+  "name": "@zensen/pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "regevbr-puppeteer",
+  "version": "1.3.1"
+ },
+ {
+  "name": "my-view-ts",
+  "version": "1.0.5"
+ },
+ {
+  "name": "@nerdworks/svelte-pdfjs",
+  "version": "0.6.4"
+ },
+ {
+  "name": "yalong-ui",
+  "version": "1.0.10-rc30"
+ },
+ {
+  "name": "@dethtroll/turbo-react-pdf-highlighter",
+  "version": "5.1.16"
+ },
+ {
+  "name": "@proveanything/pdfmeui",
+  "version": "1.1.7"
+ },
+ {
+  "name": "gd-sealposition",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@wfready/react-file-viewer",
+  "version": "2.1.0"
+ },
+ {
+  "name": "lcdp-ui-controls",
+  "version": "1.0.66"
+ },
+ {
+  "name": "pdf-viewer-root",
+  "version": "1.2.3"
+ },
+ {
+  "name": "@ozek/react-pdf-highlighter",
+  "version": "6.1.0"
+ },
+ {
+  "name": "@webratio/ng2-pdf-viewer",
+  "version": "7.0.2"
+ },
+ {
+  "name": "pdf-to-gif",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf-img-exports",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@arbs.io/extract-text-content",
+  "version": "0.1.1"
+ },
+ {
+  "name": "similiqueenim",
+  "version": "1.5.2"
+ },
+ {
+  "name": "node-pdf-to-json",
+  "version": "1.0.2"
+ },
+ {
+  "name": "opal-puppeteer",
+  "version": "0.13.0-FrameFixPatch"
+ },
+ {
+  "name": "jiehepdf-sig",
+  "version": "4.2.0"
+ },
+ {
+  "name": "gd-signature-dong",
+  "version": "1.0.2"
+ },
+ {
+  "name": "pdf-previewer",
+  "version": "0.1.7"
+ },
+ {
+  "name": "vue-pdfjs-demo",
+  "version": "1.1.9"
+ },
+ {
+  "name": "@boooooob/vue3-pdfjs",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@bijuram/react-file-viewer",
+  "version": "1.6.0"
+ },
+ {
+  "name": "pdf_viewer_vue_neil",
+  "version": "0.3.0"
+ },
+ {
+  "name": "kai-pdf",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@t-project/pdfkit",
+  "version": "0.13.2"
+ },
+ {
+  "name": "@hmcts/pdf-annotate.js",
+  "version": "1.1.1"
+ },
+ {
+  "name": "tvue-pdf",
+  "version": "4.2.0"
+ },
+ {
+  "name": "react-pdf-naftc-highlighter",
+  "version": "5.3.2"
+ },
+ {
+  "name": "@kharf/react-file-viewer",
+  "version": "1.6.0"
+ },
+ {
+  "name": "@mega-apps/nuva-core",
+  "version": "1.5.4"
+ },
+ {
+  "name": "@screenplayer/pdfkit",
+  "version": "0.12.6"
+ },
+ {
+  "name": "bolochee",
+  "version": "1.0.1"
+ },
+ {
+  "name": "llm-functions-ts",
+  "version": "0.0.20"
+ },
+ {
+  "name": "lz-vue-pdf",
+  "version": "4.1.0"
+ },
+ {
+  "name": "@suc/vue-pdf-copy",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@re-ai/vector.local",
+  "version": "0.2.1"
+ },
+ {
+  "name": "adj-puppeteer",
+  "version": "1.0.0-post"
+ },
+ {
+  "name": "pdf-extractor",
+  "version": "2.2.0"
+ },
+ {
+  "name": "vue-pdf-backup",
+  "version": "4.3.0"
+ },
+ {
+  "name": "pdfjs-core",
+  "version": "1.1.3"
+ },
+ {
+  "name": "mosun-react-file-viewer",
+  "version": "1.2.1"
+ },
+ {
+  "name": "ecure-shared-backend",
+  "version": "1.0.0"
+ },
+ {
+  "name": "sunne-pdfkit",
+  "version": "0.14.0"
+ },
+ {
+  "name": "eviewer7-lib",
+  "version": "7.0.1495"
+ },
+ {
+  "name": "@ogs-ltd/react-pdf-viewer",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-dept-devicetree",
+  "version": "1.0.5"
+ },
+ {
+  "name": "react-pdf-component",
+  "version": "0.0.1"
+ },
+ {
+  "name": "k-electron-signature",
+  "version": "1.4.1"
+ },
+ {
+  "name": "@mandel59/nyukanseiji",
+  "version": "1.2.0"
+ },
+ {
+  "name": "lcdp-ui-upates",
+  "version": "1.0.34"
+ },
+ {
+  "name": "@thms-rmb/universalviewer",
+  "version": "4.0.25-beta.0f0a20e"
+ },
+ {
+  "name": "lwj-vite-vue-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@innotec/materials",
+  "version": "6.6.1"
+ },
+ {
+  "name": "@xchl-ui/file-preview",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@xianjianlf2/vue-pdf-view",
+  "version": "1.0.10"
+ },
+ {
+  "name": "@jonnytran/vue-pdf-viewer",
+  "version": "0.2.5"
+ },
+ {
+  "name": "@akumzy/vue-components",
+  "version": "0.0.8"
+ },
+ {
+  "name": "undefined-service-adress",
+  "version": "1.0.56"
+ },
+ {
+  "name": "react-typescript-pdf-reader",
+  "version": "0.0.13"
+ },
+ {
+  "name": "@houshuang/pdf-annotate.js",
+  "version": "0.0.8"
+ },
+ {
+  "name": "@mpanda/mpc",
+  "version": "0.1.6-5.17"
+ },
+ {
+  "name": "nb-pdf",
+  "version": "5.4.2"
+ },
+ {
+  "name": "@horlo/brick-bj",
+  "version": "0.0.11"
+ },
+ {
+  "name": "vue-pdf-h5",
+  "version": "4.0.7"
+ },
+ {
+  "name": "react-pdf-highlighter-with-fixes",
+  "version": "5.4.4"
+ },
+ {
+  "name": "pdf2json-browser",
+  "version": "4.0.12"
+ },
+ {
+  "name": "vue-pdf-cs",
+  "version": "1.0.2"
+ },
+ {
+  "name": "necik11-pdfreaderwebcomp-tsx",
+  "version": "1.1.14"
+ },
+ {
+  "name": "node-red-contrib-pdfjs-es5",
+  "version": "0.0.2"
+ },
+ {
+  "name": "verify4js",
+  "version": "2.1.2"
+ },
+ {
+  "name": "fixprintvue-pdf",
+  "version": "1.0.6"
+ },
+ {
+  "name": "abc-newsletter-list",
+  "version": "0.2.5"
+ },
+ {
+  "name": "react-pdf-plus",
+  "version": "1.0.3"
+ },
+ {
+  "name": "node-red-contrib-pdf-reader",
+  "version": "1.0.3"
+ },
+ {
+  "name": "vue-pdf-zl",
+  "version": "1.1.33"
+ },
+ {
+  "name": "comps-zxes-vue",
+  "version": "0.0.1"
+ },
+ {
+  "name": "magaya-shipping",
+  "version": "1.0.0-main.1"
+ },
+ {
+  "name": "pdf-to-excel",
+  "version": "0.3.2"
+ },
+ {
+  "name": "rober-face",
+  "version": "3.0.0"
+ },
+ {
+  "name": "react-embed-pdf",
+  "version": "1.0.6"
+ },
+ {
+  "name": "react-mobile-pdf",
+  "version": "1.4.0"
+ },
+ {
+  "name": "c-vue-pdf",
+  "version": "4.4.0"
+ },
+ {
+  "name": "one-pdf",
+  "version": "0.0.2"
+ },
+ {
+  "name": "react-docs-viewer",
+  "version": "0.0.5"
+ },
+ {
+  "name": "@lighthousesystems/pdf-annotate.js",
+  "version": "0.0.12"
+ },
+ {
+  "name": "reports-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "ocr-brennozzo",
+  "version": "1.0.12"
+ },
+ {
+  "name": "@serguun42/pdf-parse",
+  "version": "2.1.3"
+ },
+ {
+  "name": "@lcorniglione/react-file-viewer",
+  "version": "1.3.0"
+ },
+ {
+  "name": "@microup/boot",
+  "version": "1.0.0-main-1.0.0.20230823203256"
+ },
+ {
+  "name": "@lichunshan/pdf-preview",
+  "version": "1.0.4"
+ },
+ {
+  "name": "ng-pdf-view-annotation",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@fictiv/react-pdf",
+  "version": "4.0.1"
+ },
+ {
+  "name": "uinfor-pdf",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@hediet/pdfjs-viewer",
+  "version": "0.1.1"
+ },
+ {
+  "name": "react-office-viewer-xhx",
+  "version": "1.0.2"
+ },
+ {
+  "name": "react-office-view",
+  "version": "1.0.2"
+ },
+ {
+  "name": "web-essentials",
+  "version": "0.0.4"
+ },
+ {
+  "name": "vue-pdf-webpack5",
+  "version": "5.0.0"
+ },
+ {
+  "name": "newpwr-genoany-designer",
+  "version": "0.3.68"
+ },
+ {
+  "name": "@hiknowledge/react-office-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "penglee-components",
+  "version": "1.3.0"
+ },
+ {
+  "name": "vue-pdf-licocon",
+  "version": "4.2.0"
+ },
+ {
+  "name": "fileread-library-legacy",
+  "version": "1.0.7"
+ },
+ {
+  "name": "@ccrichards1996/react-doc-viewer",
+  "version": "0.1.7"
+ },
+ {
+  "name": "thebestphonelist",
+  "version": "1.0.3"
+ },
+ {
+  "name": "fastgpt-global-xyq",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@liuyunxi/antd-extend",
+  "version": "2.0.13"
+ },
+ {
+  "name": "pdf-forms",
+  "version": "0.1.1"
+ },
+ {
+  "name": "react-pdf-read",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@llourenco/pdf-viewer-vue",
+  "version": "0.4.1"
+ },
+ {
+  "name": "mengjia-chat-ai-web",
+  "version": "0.2.1"
+ },
+ {
+  "name": "pdfjs2png",
+  "version": "0.0.1"
+ },
+ {
+  "name": "pdfjs-box",
+  "version": "1.1.22"
+ },
+ {
+  "name": "material-dashboard-2-react",
+  "version": "2.1.0"
+ },
+ {
+  "name": "uict-vue-pdf",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-pdf-syl",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@jpaw18/pdf.js-viewer",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@willem_orvets/pdf-to-img",
+  "version": "1.0.0"
+ },
+ {
+  "name": "itfin-components",
+  "version": "2.0.32"
+ },
+ {
+  "name": "ysy-sign-plugin",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@flowie-app/ocr-extractor",
+  "version": "1.0.0"
+ },
+ {
+  "name": "eviewer",
+  "version": "0.0.5"
+ },
+ {
+  "name": "@tritura/react-pdf",
+  "version": "6.0.0-beta.4.5"
+ },
+ {
+  "name": "svelte-pdf-simple",
+  "version": "2.0.0"
+ },
+ {
+  "name": "verapdf-js-viewer",
+  "version": "1.7.8"
+ },
+ {
+  "name": "form-vue-pdf",
+  "version": "4.2.6"
+ },
+ {
+  "name": "@srssoft/react-pdfjs",
+  "version": "2.0.0"
+ },
+ {
+  "name": "pdf-json-parser",
+  "version": "1.0.4"
+ },
+ {
+  "name": "jesoft-ui",
+  "version": "1.0.9"
+ },
+ {
+  "name": "react-virtualized-pdf",
+  "version": "0.1.1"
+ },
+ {
+  "name": "maimai-pdf2img",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf-detiler",
+  "version": "1.0.2"
+ },
+ {
+  "name": "zfsoft-ui",
+  "version": "1.1.4"
+ },
+ {
+  "name": "robodogcli",
+  "version": "1.7.2"
+ },
+ {
+  "name": "@cdewit/react-pdf-highlighter",
+  "version": "6.3.0"
+ },
+ {
+  "name": "shared-encoding-library",
+  "version": "0.0.0"
+ },
+ {
+  "name": "puppeteer-test",
+  "version": "0.13.1"
+ },
+ {
+  "name": "apple-card-csv",
+  "version": "1.0.0"
+ },
+ {
+  "name": "the-file-preview",
+  "version": "0.2.0"
+ },
+ {
+  "name": "ndms",
+  "version": "0.0.0"
+ },
+ {
+  "name": "@zb980921/vue-pdf",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@msmithburger/react-pdf-highlighter",
+  "version": "1.0.26"
+ },
+ {
+  "name": "pdf-gold-digger",
+  "version": "0.1.1"
+ },
+ {
+  "name": "@cityssm/pdf-metadata-recorder",
+  "version": "0.1.0-alpha.4"
+ },
+ {
+  "name": "linc-react-file-viewer",
+  "version": "1.2.4"
+ },
+ {
+  "name": "dj-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "neo-pdf-viewer",
+  "version": "1.0.71"
+ },
+ {
+  "name": "evaluation-portal",
+  "version": "0.0.0"
+ },
+ {
+  "name": "pdfjs-vue-print",
+  "version": "0.0.10"
+ },
+ {
+  "name": "pdf-page-counter",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@suahyl/vue3-pdfjs",
+  "version": "0.1.6"
+ },
+ {
+  "name": "grifols-tfg",
+  "version": "0.1.0"
+ },
+ {
+  "name": "hyl-pdfjs-vue",
+  "version": "1.0.0-beta"
+ },
+ {
+  "name": "@amin_jmil/pdf-file-editor",
+  "version": "1.0.0"
+ },
+ {
+  "name": "better-vue-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdf-worker-fix",
+  "version": "4.2.2"
+ },
+ {
+  "name": "d1-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@mahy50/vue-pdf-viewer",
+  "version": "0.0.4"
+ },
+ {
+  "name": "annotation-library",
+  "version": "2.0.3"
+ },
+ {
+  "name": "vue-pdf-view",
+  "version": "1.1.2"
+ },
+ {
+  "name": "pdf-sign-down",
+  "version": "0.1.79"
+ },
+ {
+  "name": "pdf-stringfy",
+  "version": "1.0.1"
+ },
+ {
+  "name": "refinery-api",
+  "version": "0.2.3"
+ },
+ {
+  "name": "basic-brick",
+  "version": "0.0.1"
+ },
+ {
+  "name": "zvue-pdf",
+  "version": "5.2.4"
+ },
+ {
+  "name": "pyy-editor",
+  "version": "1.0.17"
+ },
+ {
+  "name": "update-vue-pdf",
+  "version": "4.2.0"
+ },
+ {
+  "name": "re-pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "react-read-pdf-prettier",
+  "version": "2.4.3"
+ },
+ {
+  "name": "pdfjs-vue",
+  "version": "0.1.4"
+ },
+ {
+  "name": "gd-signature-image",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-pdf-qiankun",
+  "version": "4.3.1"
+ },
+ {
+  "name": "moc-components",
+  "version": "3.0.10"
+ },
+ {
+  "name": "@bistri/pdfme-ui",
+  "version": "1.1.17"
+ },
+ {
+  "name": "@unn4m3dd/react-pdfjs-viewer",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@xianjianlf2/vue-pdf-viewer",
+  "version": "0.1.3"
+ },
+ {
+  "name": "rht-common",
+  "version": "1.10.10"
+ },
+ {
+  "name": "gd-signature-a",
+  "version": "2.1.0"
+ },
+ {
+  "name": "gd-signature-guangxi",
+  "version": "1.2.0"
+ },
+ {
+  "name": "@gabrielbu/vue-pdf-viewer",
+  "version": "0.1.19"
+ },
+ {
+  "name": "react-pdf-bidi-support",
+  "version": "2.0.0"
+ },
+ {
+  "name": "redoc-viewer",
+  "version": "0.0.20"
+ },
+ {
+  "name": "vue3-webpack-pdf",
+  "version": "1.0.2"
+ },
+ {
+  "name": "pdfme-custom-ui",
+  "version": "0.0.7"
+ },
+ {
+  "name": "@harslanhafeez/c3-vue",
+  "version": "2020.9.9"
+ },
+ {
+  "name": "file-to-text",
+  "version": "1.0.3"
+ },
+ {
+  "name": "react-file-viewer-updated-plugin-test",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@noya-app/noya-pdf",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@shirai91/react-pdf-forked",
+  "version": "5.7.6"
+ },
+ {
+  "name": "p-suanbanyun",
+  "version": "7.2.5"
+ },
+ {
+  "name": "vue-pdf-wintime",
+  "version": "1.1.5"
+ },
+ {
+  "name": "vue-pdf-yzd",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@m-coder/pdftoimage",
+  "version": "3.0.0"
+ },
+ {
+  "name": "react-pdf-pages-fork",
+  "version": "0.1.0"
+ },
+ {
+  "name": "dm-pdf-viewer",
+  "version": "1.2.24"
+ },
+ {
+  "name": "ipushpull-js",
+  "version": "3.0.8"
+ },
+ {
+  "name": "@mxa30/ngx-imageviewer",
+  "version": "4.0.4"
+ },
+ {
+  "name": "@rluncasu/forked-react-pdf",
+  "version": "5.0.0"
+ },
+ {
+  "name": "preview-test1",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-password-fix",
+  "version": "4.2.1"
+ },
+ {
+  "name": "dufflebag-lib",
+  "version": "0.3.41"
+ },
+ {
+  "name": "iii-admin-business",
+  "version": "0.4.2"
+ },
+ {
+  "name": "sword-vue-ui",
+  "version": "1.0.0-RC1"
+ },
+ {
+  "name": "equipmentprice",
+  "version": "0.1.6"
+ },
+ {
+  "name": "barcode-reader-zbar-webassembly",
+  "version": "2.0.2"
+ },
+ {
+  "name": "@woleet/woleet-widgetv2",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@doctolib/pdf-to-png",
+  "version": "0.2.0"
+ },
+ {
+  "name": "jadefortune-ui",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-pdf-making",
+  "version": "4.2.0"
+ },
+ {
+  "name": "nin_viewer_vinson",
+  "version": "1.0.6"
+ },
+ {
+  "name": "demo-mmmm",
+  "version": "0.0.6"
+ },
+ {
+  "name": "@rentablo/pdf-import",
+  "version": "2.9.12"
+ },
+ {
+  "name": "pdf_diagram",
+  "version": "2.2.2"
+ },
+ {
+  "name": "llm-functions",
+  "version": "0.0.28-beta.10"
+ },
+ {
+  "name": "@spgandhi/weavy-uikit-react",
+  "version": "0.0.5"
+ },
+ {
+  "name": "gd-signature-pass",
+  "version": "1.1.0"
+ },
+ {
+  "name": "react-pdf-simple-viewer",
+  "version": "0.2.0"
+ },
+ {
+  "name": "rl-react-intellix-pdf",
+  "version": "0.0.59"
+ },
+ {
+  "name": "vue_pdfjs_viewer",
+  "version": "0.1.17"
+ },
+ {
+  "name": "@soubhikchatterjee/react-pdf",
+  "version": "0.1.27"
+ },
+ {
+  "name": "@xujialei2007/brick-bj",
+  "version": "0.0.11"
+ },
+ {
+  "name": "ele-plus-control",
+  "version": "2.0.2"
+ },
+ {
+  "name": "vue-dreaming-pdf",
+  "version": "0.2.2"
+ },
+ {
+  "name": "ykj-h5-ui",
+  "version": "1.1.9"
+ },
+ {
+  "name": "@docpile/document-viewer",
+  "version": "0.2.5"
+ },
+ {
+  "name": "vue-pdf-reader",
+  "version": "0.2.9"
+ },
+ {
+  "name": "vue-pdf-hire3x",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@lanseria/v-pdf",
+  "version": "1.0.8"
+ },
+ {
+  "name": "simple-react-pdf2",
+  "version": "2.0.1"
+ },
+ {
+  "name": "mindee-js",
+  "version": "1.0.0-rc.2"
+ },
+ {
+  "name": "pdf2md-ts",
+  "version": "1.1.1"
+ },
+ {
+  "name": "bs-pdfjs",
+  "version": "0.4.3"
+ },
+ {
+  "name": "v-demo-package",
+  "version": "0.1.0"
+ },
+ {
+  "name": "electron-html-to",
+  "version": "2.6.1"
+ },
+ {
+  "name": "covenant-capital-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@ontra/pdf-context",
+  "version": "1.0.1"
+ },
+ {
+  "name": "georchina-react-doc-viewer",
+  "version": "0.1.8"
+ },
+ {
+  "name": "@max_alieksieiev/react-pdf-viewer-root",
+  "version": "0.0.0"
+ },
+ {
+  "name": "@dctw/mypdf-pwa",
+  "version": "0.0.1"
+ },
+ {
+  "name": "track-trace-tools",
+  "version": "0.8.0"
+ },
+ {
+  "name": "@reinevan/react-pdf",
+  "version": "5.2.0"
+ },
+ {
+  "name": "react-files-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "xx-preview-file-ts",
+  "version": "1.0.8"
+ },
+ {
+  "name": "@insilicall/img2data",
+  "version": "0.0.7"
+ },
+ {
+  "name": "react-pdf-highlighter-cra4",
+  "version": "5.1.3"
+ },
+ {
+  "name": "anmiao",
+  "version": "1.0.6"
+ },
+ {
+  "name": "gd-signature-roate",
+  "version": "1.0.5"
+ },
+ {
+  "name": "pdf-table-extractor-v2",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue3-pdf-embed",
+  "version": "1.1.7"
+ },
+ {
+  "name": "@winnerlc/file-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "scilexic",
+  "version": "0.1.2"
+ },
+ {
+  "name": "@elichaowang/react-file-viewer",
+  "version": "0.0.4"
+ },
+ {
+  "name": "pyy-editor-2b",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdfs",
+  "version": "4.0.8"
+ },
+ {
+  "name": "pdf-io",
+  "version": "1.0.21"
+ },
+ {
+  "name": "react-pdf-highlighter-single-page",
+  "version": "6.2.6"
+ },
+ {
+  "name": "@itfin/vue-components",
+  "version": "3.0.11"
+ },
+ {
+  "name": "jspdf-with-html2canvas",
+  "version": "1.3.5-2"
+ },
+ {
+  "name": "eumimpedit",
+  "version": "1.3.0"
+ },
+ {
+  "name": "cerebro-npm-test",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@qiqiworker/react-pdf",
+  "version": "5.7.1"
+ },
+ {
+  "name": "@fwh/react-pdfjs",
+  "version": "1.0.0-alpha-2"
+ },
+ {
+  "name": "@dictadata/pdf-data-parser",
+  "version": "1.2.6"
+ },
+ {
+  "name": "@whalecloud/pdf2md",
+  "version": "1.0.1"
+ },
+ {
+  "name": "yitaiyun-ui-dev",
+  "version": "1.1.6"
+ },
+ {
+  "name": "pdfv2-viewer",
+  "version": "2.0.1"
+ },
+ {
+  "name": "vue-pdf-search-keyword",
+  "version": "0.1.3"
+ },
+ {
+  "name": "react-pdf-highlighter-extended-x2",
+  "version": "8.0.2"
+ },
+ {
+  "name": "react-pdf-view-taro",
+  "version": "1.0.14"
+ },
+ {
+  "name": "@mega-apps/ami-core-standard",
+  "version": "1.1.2"
+ },
+ {
+  "name": "llm-document-ocr",
+  "version": "1.2.0"
+ },
+ {
+  "name": "notlyjs",
+  "version": "1.0.67"
+ },
+ {
+  "name": "wsolovin-react-tpdfreader-v2",
+  "version": "0.0.6"
+ },
+ {
+  "name": "pdfkitten",
+  "version": "0.14.2"
+ },
+ {
+  "name": "pdf-table-extractor",
+  "version": "1.0.3"
+ },
+ {
+  "name": "vue-pdf-improve",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@hchuang/react-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdf-print",
+  "version": "4.2.0"
+ },
+ {
+  "name": "prm-react-pdf-viewer",
+  "version": "1.1.4"
+ },
+ {
+  "name": "@v2v/pdf",
+  "version": "0.0.5"
+ },
+ {
+  "name": "boloche",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vuejs-full-pdf-viewer",
+  "version": "0.1.35"
+ },
+ {
+  "name": "@prometeia/pdfassembler",
+  "version": "0.1.0-beta.8.fix1"
+ },
+ {
+  "name": "reakt-file-viewer",
+  "version": "0.3.44"
+ },
+ {
+  "name": "@shobhit7/ui",
+  "version": "0.0.1"
+ },
+ {
+  "name": "pdf-vue3-viewer",
+  "version": "0.0.1-beta.2"
+ },
+ {
+  "name": "@trustingsocial/alice-ui",
+  "version": "0.0.29"
+ },
+ {
+  "name": "course-comp",
+  "version": "1.2.3"
+ },
+ {
+  "name": "n8n-nodes-readpdfform",
+  "version": "0.2.0"
+ },
+ {
+  "name": "pdfpdfpdf",
+  "version": "1.3.18"
+ },
+ {
+  "name": "html-pdf-chrome",
+  "version": "0.8.4"
+ },
+ {
+  "name": "pdf2array",
+  "version": "0.0.1"
+ },
+ {
+  "name": "test-pdf-viewer",
+  "version": "3.0.1"
+ },
+ {
+  "name": "maycur-business",
+  "version": "0.4.34-29"
+ },
+ {
+  "name": "hypnotes-pdf-annotation",
+  "version": "1.7.0"
+ },
+ {
+  "name": "@fabiohvp/svelte-pdfjs",
+  "version": "0.0.14"
+ },
+ {
+  "name": "yatta",
+  "version": "0.15.6"
+ },
+ {
+  "name": "yatta",
+  "version": "0.15.6"
+ },
+ {
+  "name": "sharp-pdf",
+  "version": "0.1.3"
+ },
+ {
+  "name": "pdf-stream",
+  "version": "1.3.2"
+ },
+ {
+  "name": "moensun-react-file-viewer",
+  "version": "1.0.2"
+ },
+ {
+  "name": "react-pdfjs-mobile",
+  "version": "0.8.4"
+ },
+ {
+  "name": "@vunamhung/react-pdf-highlighter",
+  "version": "8.1.2"
+ },
+ {
+  "name": "xcc-pdf-editor",
+  "version": "1.0.1"
+ },
+ {
+  "name": "word-template-meta-component",
+  "version": "1.0.69"
+ },
+ {
+  "name": "@zooj/img-viewer",
+  "version": "0.1.0"
+ },
+ {
+  "name": "sup8-h5plus",
+  "version": "1.0.0"
+ },
+ {
+  "name": "yetu-md-to-pdf",
+  "version": "5.2.5"
+ },
+ {
+  "name": "annotatee",
+  "version": "0.0.2"
+ },
+ {
+  "name": "react-pdf-highlighter-vivi",
+  "version": "6.1.0"
+ },
+ {
+  "name": "kara-module-file-view",
+  "version": "0.0.9"
+ },
+ {
+  "name": "@cbibank/pdf",
+  "version": "1.3.0"
+ },
+ {
+  "name": "@jeferson.urbieta/loki",
+  "version": "2.1.3"
+ },
+ {
+  "name": "react-pdf-quizmanager",
+  "version": "1.0.17"
+ },
+ {
+  "name": "react-file-viewer-updated",
+  "version": "1.2.2"
+ },
+ {
+  "name": "vue-pdf-embed-up",
+  "version": "1.1.7"
+ },
+ {
+  "name": "@czk/vuefdfsadf",
+  "version": "4.2.0"
+ },
+ {
+  "name": "@telecomsante/pdf-viewer",
+  "version": "3.0.0-pre.1"
+ },
+ {
+  "name": "vue-pdf-yd",
+  "version": "4.2.2"
+ },
+ {
+  "name": "@aslan1786/vue-pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pdfvuer-old-browsers-old-browsers",
+  "version": "1.11.2"
+ },
+ {
+  "name": "alice-ui",
+  "version": "0.0.30"
+ },
+ {
+  "name": "wjt-com",
+  "version": "1.0.9"
+ },
+ {
+  "name": "react15-pdf",
+  "version": "3.1.1"
+ },
+ {
+  "name": "pdf-toolz",
+  "version": "1.1.8"
+ },
+ {
+  "name": "react-pdf-sj",
+  "version": "5.7.3"
+ },
+ {
+  "name": "pdfjs-ts",
+  "version": "0.0.5"
+ },
+ {
+  "name": "@svuick/pdf",
+  "version": "0.0.3"
+ },
+ {
+  "name": "@types/pdfjs-dist",
+  "version": "2.10.378"
+ },
+ {
+  "name": "@florpor/pdf-table-extractor",
+  "version": "1.0.6"
+ },
+ {
+  "name": "lcdp-desktop-template",
+  "version": "0.0.3"
+ },
+ {
+  "name": "pds-components",
+  "version": "1.0.36"
+ },
+ {
+  "name": "vue3-file-preview",
+  "version": "1.0.7"
+ },
+ {
+  "name": "vision-docviewer",
+  "version": "0.0.29"
+ },
+ {
+  "name": "hd-cmps",
+  "version": "2.0.2"
+ },
+ {
+  "name": "tes-int-matter",
+  "version": "0.0.21"
+ },
+ {
+  "name": "react-office-viewermm",
+  "version": "1.0.0"
+ },
+ {
+  "name": "ahis-ui-components",
+  "version": "1.0.0"
+ },
+ {
+  "name": "fileopsx",
+  "version": "1.0.2"
+ },
+ {
+  "name": "pyy-editor-1b",
+  "version": "1.0.1"
+ },
+ {
+  "name": "new-preview-file-h-ts",
+  "version": "1.0.7"
+ },
+ {
+  "name": "vue-pdf-qk",
+  "version": "4.2.2"
+ },
+ {
+  "name": "chatty-core",
+  "version": "0.1.0"
+ },
+ {
+  "name": "victop-front-end-frame",
+  "version": "0.0.1"
+ },
+ {
+  "name": "liyu-develop-components",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@yhspy/react-pdf-highlighter",
+  "version": "3.1.3"
+ },
+ {
+  "name": "vue-pdf-fix-qiankun",
+  "version": "4.3.2"
+ },
+ {
+  "name": "@bundled-es-modules/pdfjs-dist",
+  "version": "3.6.172-alpha.1"
+ },
+ {
+  "name": "bornfight-core-components",
+  "version": "3.0.68"
+ },
+ {
+  "name": "react-pdfjs-viewer",
+  "version": "0.1.18"
+ },
+ {
+  "name": "yh-test_ui",
+  "version": "0.1.0"
+ },
+ {
+  "name": "root-front",
+  "version": "1.13.46"
+ },
+ {
+  "name": "vue-pdf-component",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@itsmitchyyy/react-doc-viewer",
+  "version": "2.1.2"
+ },
+ {
+  "name": "@activelylearn/react-pdf",
+  "version": "2.5.2"
+ },
+ {
+  "name": "form_create_for_flow",
+  "version": "11.3.8-mobile-specify"
+ },
+ {
+  "name": "@zdzz/components",
+  "version": "0.0.27"
+ },
+ {
+  "name": "test-hcl",
+  "version": "0.1.10"
+ },
+ {
+  "name": "@suzubara/react-file-viewer",
+  "version": "2.0.0"
+ },
+ {
+  "name": "pls-games",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-wxy",
+  "version": "4.3.0"
+ },
+ {
+  "name": "@axelhzf/puppeteer-screencast",
+  "version": "1.3.0-post"
+ },
+ {
+  "name": "uniread",
+  "version": "0.0.28"
+ },
+ {
+  "name": "react-file-viewer-extended",
+  "version": "2.1.0"
+ },
+ {
+  "name": "react-read-pdf23",
+  "version": "0.0.4"
+ },
+ {
+  "name": "react-pdf-preview",
+  "version": "1.0.0"
+ },
+ {
+  "name": "monite-react-pdf",
+  "version": "5.2.1"
+ },
+ {
+  "name": "react-pdfviewer-reader-custom",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@songxh2/vue3-pdf-viewer",
+  "version": "0.9.5"
+ },
+ {
+  "name": "vue-office",
+  "version": "0.0.5"
+ },
+ {
+  "name": "jx-vue-pdf",
+  "version": "4.3.0"
+ },
+ {
+  "name": "g-seal-position",
+  "version": "1.0.4"
+ },
+ {
+  "name": "react-file-viewer-with-md",
+  "version": "2.0.3"
+ },
+ {
+  "name": "@everything-registry/sub-chunk-2422",
+  "version": "0.1.0"
+ },
+ {
+  "name": "react-levio-file-viewer",
+  "version": "1.5.0"
+ },
+ {
+  "name": "juicyfront",
+  "version": "1.3.362"
+ },
+ {
+  "name": "svgsus",
+  "version": "0.23.4"
+ },
+ {
+  "name": "colabbeerfirstdemo",
+  "version": "0.0.3"
+ },
+ {
+  "name": "node-red-contrib-pdfjs-mac",
+  "version": "1.0.14"
+ },
+ {
+  "name": "@ribajs/pdf",
+  "version": "1.9.0"
+ },
+ {
+  "name": "@autoanki/plugin-source-pdf",
+  "version": "0.1.3"
+ },
+ {
+  "name": "@commutatus/react-pdf",
+  "version": "8.0.0"
+ },
+ {
+  "name": "trash-ui",
+  "version": "1.0.301"
+ },
+ {
+  "name": "web-pdf-viewer",
+  "version": "2.0.1"
+ },
+ {
+  "name": "@kevin-skylabx/vue-pdf-embed-skylabx",
+  "version": "1.0.6"
+ },
+ {
+  "name": "vant-preview-pdf",
+  "version": "0.0.1"
+ },
+ {
+  "name": "highlight-pdfs-in-react",
+  "version": "1.0.4"
+ },
+ {
+  "name": "ab-pdf-extract",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@vaadin/vaadin-pdf-viewer",
+  "version": "1.0.0-alpha11"
+ },
+ {
+  "name": "@mipl/ng2-pdf-viewer-mipl",
+  "version": "1.0.8"
+ },
+ {
+  "name": "pdf-neil-new",
+  "version": "1.0.1"
+ },
+ {
+  "name": "gd-signature-guangxipaas-test",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@aymux/pdf-viewer",
+  "version": "1.0.4"
+ },
+ {
+  "name": "vue-embed-pdf",
+  "version": "0.7.1-2"
+ },
+ {
+  "name": "rtlink-ui",
+  "version": "3.2.0"
+ },
+ {
+  "name": "pdftoimg-dist",
+  "version": "1.0.2"
+ },
+ {
+  "name": "gd-signature-luke-map",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdfcraft",
+  "version": "1.3.6"
+ },
+ {
+  "name": "pdfvuer",
+  "version": "1.10.0"
+ },
+ {
+  "name": "text-extractors",
+  "version": "0.2.0"
+ },
+ {
+  "name": "pdftestui",
+  "version": "2.2.5"
+ },
+ {
+  "name": "a11ycat-ocr",
+  "version": "0.0.6"
+ },
+ {
+  "name": "react-file-xyj",
+  "version": "1.2.2"
+ },
+ {
+  "name": "prestashop_tests_modules",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@recogito/recogito-react-pdf",
+  "version": "0.8.8"
+ },
+ {
+  "name": "my-pdf-viewer",
+  "version": "1.1.2"
+ },
+ {
+  "name": "test-blueprint-one",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@docsui/ng2-pdf-viewer",
+  "version": "9.0.2"
+ },
+ {
+  "name": "@cityssm/pdf-form-extract",
+  "version": "0.1.0"
+ },
+ {
+  "name": "zoul-pdf-preview",
+  "version": "0.0.3"
+ },
+ {
+  "name": "@klippa/ngx-imageviewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@mstechusa/eviewer7-cli",
+  "version": "7.0.737"
+ },
+ {
+  "name": "wsolovin-react-tpdfreader",
+  "version": "0.0.5"
+ },
+ {
+  "name": "tiptap-rendering",
+  "version": "1.2.96"
+ },
+ {
+  "name": "adber-ui-demo",
+  "version": "0.0.8"
+ },
+ {
+  "name": "lib-vue-sb",
+  "version": "1.0.8"
+ },
+ {
+  "name": "jspdf-npm-packages",
+  "version": "1.3.5"
+ },
+ {
+  "name": "vue-pdf-aas",
+  "version": "4.0.8"
+ },
+ {
+  "name": "drawsocket",
+  "version": "0.0.59"
+ },
+ {
+  "name": "gd-signature-sd",
+  "version": "1.0.2"
+ },
+ {
+  "name": "aleon_35_pdf_viewer_lib",
+  "version": "1.0.8"
+ },
+ {
+  "name": "binary-web-reader",
+  "version": "0.6.1"
+ },
+ {
+  "name": "preview-file-util",
+  "version": "1.0.2"
+ },
+ {
+  "name": "aoIoHw90B5sE1wG9",
+  "version": "0.2.0"
+ },
+ {
+  "name": "pdfjs-vuer",
+  "version": "0.1.0"
+ },
+ {
+  "name": "zbcx_gistjxmc_yx",
+  "version": "1.0.3"
+ },
+ {
+  "name": "test-blahblah",
+  "version": "2.1.12"
+ },
+ {
+  "name": "kara-module-downloader",
+  "version": "0.0.6"
+ },
+ {
+  "name": "@paypay/pp-components",
+  "version": "0.1.6"
+ },
+ {
+  "name": "node-serverless-pdfkit",
+  "version": "0.13.2"
+ },
+ {
+  "name": "@phamd7/react-pdf-highlighter",
+  "version": "5.7.19"
+ },
+ {
+  "name": "@daibh/pdf",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@rem.tools/pdfvuer-es5",
+  "version": "1.9.4"
+ },
+ {
+  "name": "borm-ng2-pdf",
+  "version": "6.0.4"
+ },
+ {
+  "name": "angular-addons",
+  "version": "1.0.17"
+ },
+ {
+  "name": "node-extract-text-from-file",
+  "version": "2.0.2"
+ },
+ {
+  "name": "pdf-annotate.js-tjcreations",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-micro",
+  "version": "0.0.3"
+ },
+ {
+  "name": "w-react-component",
+  "version": "1.0.46"
+ },
+ {
+  "name": "mz-front-react-pdf",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@360learning/vue-pdf-viewer",
+  "version": "0.1.7"
+ },
+ {
+  "name": "just-pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "hello-ttp",
+  "version": "0.0.2"
+ },
+ {
+  "name": "necik11-pdfreaderwebcomp",
+  "version": "1.0.1"
+ },
+ {
+  "name": "undefined-service-web",
+  "version": "1.0.74"
+ },
+ {
+  "name": "vue-pdf-modified",
+  "version": "4.1.0"
+ },
+ {
+  "name": "simple-pdf-viewer",
+  "version": "2.0.3"
+ },
+ {
+  "name": "@amin_jmil/file-viewer",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@hyalen/react-pdf",
+  "version": "0.0.3"
+ },
+ {
+  "name": "pdf-viewer-overlay",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-pdf-ner-annotator",
+  "version": "3.4.1"
+ },
+ {
+  "name": "gisckds_cx",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@certifaction/pdfjs",
+  "version": "1.7.2"
+ },
+ {
+  "name": "@style3d/vue-pdf",
+  "version": "0.0.1-beta.4"
+ },
+ {
+  "name": "zheshiyigeceshi",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@sbuechi/react-file-viewer",
+  "version": "1.2.6"
+ },
+ {
+  "name": "pef-new",
+  "version": "4.2.1"
+ },
+ {
+  "name": "@bbit/swiss-qr-bill",
+  "version": "0.1.2"
+ },
+ {
+  "name": "@mega-apps/test-cli-demo",
+  "version": "1.3.6-beta.7"
+ },
+ {
+  "name": "rokfor-writer",
+  "version": "2.0.39"
+ },
+ {
+  "name": "reactjs-pdf-reader",
+  "version": "1.0.12"
+ },
+ {
+  "name": "@jbtje/vue3pdf",
+  "version": "2.1.0"
+ },
+ {
+  "name": "xi-li-1",
+  "version": "0.0.2"
+ },
+ {
+  "name": "@wevertoonsilva/ng2-pdf-viewer",
+  "version": "7.2.1"
+ },
+ {
+  "name": "ng2-alfresco-viewer",
+  "version": "1.9.0"
+ },
+ {
+  "name": "pdf-signing",
+  "version": "0.1.1"
+ },
+ {
+  "name": "@pomgui/pdf-tables-parser",
+  "version": "0.1.0"
+ },
+ {
+  "name": "vue-pdf-spacez",
+  "version": "4.2.2"
+ },
+ {
+  "name": "flowise-proxified-components",
+  "version": "1.6.4-b"
+ },
+ {
+  "name": "@iez/core",
+  "version": "3.0.48"
+ },
+ {
+  "name": "suc_pdf-reader",
+  "version": "1.1.8"
+ },
+ {
+  "name": "launchmenu-preview",
+  "version": "1.0.4"
+ },
+ {
+  "name": "codebycarlos_pdfassembler",
+  "version": "0.1.0-beta.8"
+ },
+ {
+  "name": "pdf-viewport",
+  "version": "1.0.5"
+ },
+ {
+  "name": "saiku-react-pdfjs",
+  "version": "1.0.2"
+ },
+ {
+  "name": "knight-react-pdf",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@vivianhealth/react-file-viewer",
+  "version": "1.3.2"
+ },
+ {
+  "name": "pdf-barcode",
+  "version": "1.2.3"
+ },
+ {
+  "name": "@allganize/sdk",
+  "version": "0.10.214"
+ },
+ {
+  "name": "@llm-functions/react",
+  "version": "0.0.28-beta.8"
+ },
+ {
+  "name": "pdfvuer-signature",
+  "version": "1.9.2"
+ },
+ {
+  "name": "vue-pdf-viewer-package",
+  "version": "1.0.4"
+ },
+ {
+  "name": "bulk-pdf-barcode-reader",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-messy-code-fix",
+  "version": "1.0.1"
+ },
+ {
+  "name": "simple-pdf-react",
+  "version": "1.1.1"
+ },
+ {
+  "name": "local_argasmei",
+  "version": "0.1.11"
+ },
+ {
+  "name": "pdf-react-drop",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf-new",
+  "version": "4.2.6"
+ },
+ {
+  "name": "flipbook-viewer",
+  "version": "1.6.1"
+ },
+ {
+  "name": "rc-eboard",
+  "version": "0.6.8"
+ },
+ {
+  "name": "pdf-compress-split-utility",
+  "version": "1.0.4"
+ },
+ {
+  "name": "react-file-viewer2",
+  "version": "1.1.6"
+ },
+ {
+  "name": "react-pdf-testing-library",
+  "version": "0.0.1"
+ },
+ {
+  "name": "netscribes_pdf",
+  "version": "0.0.6"
+ },
+ {
+  "name": "@logicamente.info/react-pdf-viewer",
+  "version": "1.0.4"
+ },
+ {
+  "name": "hh-pdfjs-box",
+  "version": "0.0.2"
+ },
+ {
+  "name": "sd_ve_pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-wm",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@willynlabs/doc-layers",
+  "version": "1.0.20"
+ },
+ {
+  "name": "literax-pdf-viewer",
+  "version": "1.0.7"
+ },
+ {
+  "name": "abc-algorithms",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@akord/file-viewer",
+  "version": "0.0.3"
+ },
+ {
+  "name": "beesbusy-react-doc-viewer",
+  "version": "0.1.24"
+ },
+ {
+  "name": "ng2-pdf-viewer-legitech-legitech",
+  "version": "8.0.2"
+ },
+ {
+  "name": "jspdf-with-lib-pass",
+  "version": "1.3.5"
+ },
+ {
+  "name": "@ediphi/takeoff-canvas",
+  "version": "0.0.12"
+ },
+ {
+  "name": "iexplore",
+  "version": "1.5.6"
+ },
+ {
+  "name": "pdfano",
+  "version": "0.1.3"
+ },
+ {
+  "name": "browser-pdf-to-images",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pdf-component",
+  "version": "1.0.3"
+ },
+ {
+  "name": "vpdf",
+  "version": "0.2.9"
+ },
+ {
+  "name": "react-file-viewer-webpack-plugins-01",
+  "version": "1.0.0"
+ },
+ {
+  "name": "convert-pdf-png",
+  "version": "0.0.1"
+ },
+ {
+  "name": "react-pdf-annotations",
+  "version": "3.2.8"
+ },
+ {
+  "name": "verify4js-test",
+  "version": "0.1.6"
+ },
+ {
+  "name": "@meerkat-ml/meerkat",
+  "version": "0.4.11"
+ },
+ {
+  "name": "react-file-viewer5",
+  "version": "1.1.6"
+ },
+ {
+  "name": "react-application-core",
+  "version": "0.0.412"
+ },
+ {
+  "name": "fangte-vue-pdf",
+  "version": "4.2.10"
+ },
+ {
+  "name": "@digital-blueprint/cabinet-app",
+  "version": "0.0.2"
+ },
+ {
+  "name": "preview-file-cxh",
+  "version": "1.4.0"
+ },
+ {
+  "name": "compodoc-interface",
+  "version": "1.0.1"
+ },
+ {
+  "name": "pdf-preview",
+  "version": "0.9.8"
+ },
+ {
+  "name": "angular-pdf-view",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdf-vite",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@roublez/statement-parser",
+  "version": "2.1.0"
+ },
+ {
+  "name": "simple-react-pdf",
+  "version": "1.0.9"
+ },
+ {
+  "name": "pdf-viewr",
+  "version": "0.0.2"
+ },
+ {
+  "name": "digital-business-card-generator",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@finviet-jsrpt/pdfjs",
+  "version": "1.0.4"
+ },
+ {
+  "name": "e-vue-pdf",
+  "version": "4.2.1"
+ },
+ {
+  "name": "@matpool/vue-pdf",
+  "version": "0.1.0"
+ },
+ {
+  "name": "syncit-ui",
+  "version": "0.2.0"
+ },
+ {
+  "name": "@bandaot/react-doc-viewer",
+  "version": "0.1.6"
+ },
+ {
+  "name": "react-file-viewer-fix",
+  "version": "0.1.2"
+ },
+ {
+  "name": "react-pdfjs-component",
+  "version": "0.0.3"
+ },
+ {
+  "name": "light2-ui",
+  "version": "0.8.6"
+ },
+ {
+  "name": "@br0kk/ngx-imageviewer",
+  "version": "0.2.4-development"
+ },
+ {
+  "name": "react-pdf-viewer",
+  "version": "0.1.0"
+ },
+ {
+  "name": "vuetify-pdf-viewer",
+  "version": "1.0.2"
+ },
+ {
+  "name": "whiz-ng2-pdf-viewer",
+  "version": "10.0.0"
+ },
+ {
+  "name": "@agronom81/react-doc-viewer",
+  "version": "0.1.1"
+ },
+ {
+  "name": "react-file-viewer-plugins-v5",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@pluve/pdf-preview-vue",
+  "version": "0.0.5"
+ },
+ {
+  "name": "@mispencer/vue-pdf-embed",
+  "version": "2.0.0"
+ },
+ {
+  "name": "exvoluptate",
+  "version": "1.6.0"
+ },
+ {
+  "name": "vue-pdf-print-fix",
+  "version": "1.0.3"
+ },
+ {
+  "name": "lcdp-ui-updates",
+  "version": "1.0.60"
+ },
+ {
+  "name": "rx-pdf-viewer",
+  "version": "1.0.39"
+ },
+ {
+  "name": "vue3-pdf-preview",
+  "version": "1.1.2"
+ },
+ {
+  "name": "@claimini/ui-components",
+  "version": "0.4.6"
+ },
+ {
+  "name": "@holism/form-generator",
+  "version": "1.50.0-1"
+ },
+ {
+  "name": "vue-pdf-eshore",
+  "version": "1.0.0"
+ },
+ {
+  "name": "xuxiaofang",
+  "version": "2.0.0"
+ },
+ {
+  "name": "pep-rt-web",
+  "version": "0.0.5"
+ },
+ {
+  "name": "cafe-pdf-pro",
+  "version": "1.0.2"
+ },
+ {
+  "name": "th-pdf-vue3",
+  "version": "1.0.3"
+ },
+ {
+  "name": "pdfjs-dist-viewer-angular",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@ridi/pdf-parser",
+  "version": "0.7.4-alpha.1"
+ },
+ {
+  "name": "use-ai-hooks",
+  "version": "1.1.2"
+ },
+ {
+  "name": "dof-reader",
+  "version": "0.0.5"
+ },
+ {
+  "name": "th-file-preview",
+  "version": "0.0.6"
+ },
+ {
+  "name": "control-react-file-viewer",
+  "version": "1.0.3"
+ },
+ {
+  "name": "react-file-viewer-x",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@darian-lp/react-pdf-highlighter",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-pdf-column-layout",
+  "version": "2.0.2"
+ },
+ {
+  "name": "pdfjs-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@sorioinc/react-file-viewer",
+  "version": "1.2.7"
+ },
+ {
+  "name": "@mega-apps/cli",
+  "version": "1.3.6-beta.5"
+ },
+ {
+  "name": "extended-react-file-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "gas-form",
+  "version": "1.0.59"
+ },
+ {
+  "name": "@topibd/dms",
+  "version": "1.1.1"
+ },
+ {
+  "name": "pdf-extract-image",
+  "version": "0.0.3"
+ },
+ {
+  "name": "seeroad-ui",
+  "version": "1.4.66"
+ },
+ {
+  "name": "@kinfo-dev/vue-pdf",
+  "version": "1.0.6"
+ },
+ {
+  "name": "json_task",
+  "version": "0.1.0"
+ },
+ {
+  "name": "es-vue-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "gd-signature-jnmiddle",
+  "version": "1.0.3"
+ },
+ {
+  "name": "pdf-into-jpg",
+  "version": "1.0.3"
+ },
+ {
+  "name": "@dbp-topics/greenlight",
+  "version": "1.2.3"
+ },
+ {
+  "name": "react-read-pdf2",
+  "version": "2.0.9-beta"
+ },
+ {
+  "name": "pdf-to-dataURL",
+  "version": "0.1.1"
+ },
+ {
+  "name": "yachu2002",
+  "version": "2.1.1"
+ },
+ {
+  "name": "ii-admin-business",
+  "version": "0.3.14"
+ },
+ {
+  "name": "react-pdf-display",
+  "version": "0.1.3"
+ },
+ {
+  "name": "@xinghunm/pdf-viewer",
+  "version": "0.0.15"
+ },
+ {
+  "name": "voucher-demo",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@biproxi/react-pdf",
+  "version": "5.5.7"
+ },
+ {
+  "name": "react-file-viewer-webpack-plugins-03",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-clipboard-ocr",
+  "version": "1.2.4"
+ },
+ {
+  "name": "necessitatibusunde",
+  "version": "1.4.1"
+ },
+ {
+  "name": "react-pdf-signer",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@start-software/node-grep",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@mapcatch/pdfkit",
+  "version": "0.15.0"
+ },
+ {
+  "name": "react-pdf-infinite",
+  "version": "1.0.0"
+ },
+ {
+  "name": "liuxing1996",
+  "version": "1.0.3"
+ },
+ {
+  "name": "e-notariat",
+  "version": "0.1.1"
+ },
+ {
+  "name": "react-pdf-js-worker",
+  "version": "2.0.0"
+ },
+ {
+  "name": "dbw-authsign",
+  "version": "0.0.25"
+ },
+ {
+  "name": "pdf-template-makernew",
+  "version": "2.0.4"
+ },
+ {
+  "name": "react-vpdf-validator-core",
+  "version": "0.1.4"
+ },
+ {
+  "name": "comm-js",
+  "version": "1.0.6"
+ },
+ {
+  "name": "vue-pdfjs-previewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@shraddhadev/react-pdf-viewer",
+  "version": "1.1.6"
+ },
+ {
+  "name": "e2-admin",
+  "version": "0.0.3"
+ },
+ {
+  "name": "@xscomponents/pdfviewer",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@gen/use-pdf-canvas",
+  "version": "0.1.0"
+ },
+ {
+  "name": "vue-pdf3",
+  "version": "1.1.1"
+ },
+ {
+  "name": "svelte-pdf-scrollable",
+  "version": "1.2.5"
+ },
+ {
+  "name": "dw-sobekfront",
+  "version": "0.0.24-b17"
+ },
+ {
+  "name": "v-pdf-highlighter",
+  "version": "1.3.1"
+ },
+ {
+  "name": "lg-ly-web-components",
+  "version": "0.1.52"
+ },
+ {
+  "name": "vue-pdf-self",
+  "version": "1.0.2"
+ },
+ {
+  "name": "pdf-keya",
+  "version": "1.0.8"
+ },
+ {
+  "name": "sd-react-pdf",
+  "version": "5.3.1"
+ },
+ {
+  "name": "pdf2speech",
+  "version": "0.0.0"
+ },
+ {
+  "name": "@s524797336/m-editor-pdf-loader",
+  "version": "1.0.0-prerelease.1"
+ },
+ {
+  "name": "pdfexp",
+  "version": "0.0.12"
+ },
+ {
+  "name": "@neek_hill/react-file-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "bd-test-vue",
+  "version": "0.0.1"
+ },
+ {
+  "name": "ux-assess-pdfpreview",
+  "version": "1.0.5-5"
+ },
+ {
+  "name": "@finviet-jsrpt/jsrpt-pdf-utils",
+  "version": "1.0.13"
+ },
+ {
+  "name": "gd-signature-gx",
+  "version": "0.0.8"
+ },
+ {
+  "name": "react-pdf-highlighter-rotate",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pym-categories-goods",
+  "version": "1.1.16"
+ },
+ {
+  "name": "@labti/robo",
+  "version": "0.2.1"
+ },
+ {
+  "name": "@lizc/pdfassembler",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@abcum/ember-pdfjs",
+  "version": "0.2.1"
+ },
+ {
+  "name": "@defense-unicorns/svelte-pdf-viewer",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@cpcwood/angular-pdf-viewer",
+  "version": "0.2.9"
+ },
+ {
+  "name": "@toystory/potato",
+  "version": "0.1.1"
+ },
+ {
+  "name": "pdf-report-modal",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@the-ksquare-group/react-pdf-highlighter",
+  "version": "5.0.0"
+ },
+ {
+  "name": "pdf-annotate-vue",
+  "version": "1.0.2"
+ },
+ {
+  "name": "ui5-cc-pdfviewer",
+  "version": "0.1.1"
+ },
+ {
+  "name": "genaiscript-cli",
+  "version": "1.15.11"
+ },
+ {
+  "name": "vue-pdf-cy-edit",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@saooti/vue-pdf",
+  "version": "4.1.4"
+ },
+ {
+  "name": "q-file-viewer",
+  "version": "1.0.2"
+ },
+ {
+  "name": "@teckel/vue-pdf",
+  "version": "4.3.5"
+ },
+ {
+  "name": "pod-ui",
+  "version": "1.4.33"
+ },
+ {
+  "name": "gd-signature-guangxipaas",
+  "version": "1.2.4"
+ },
+ {
+  "name": "@maccyber/vue-pdf",
+  "version": "4.0.6"
+ },
+ {
+  "name": "vue3-pdfviewer",
+  "version": "0.0.3"
+ },
+ {
+  "name": "pdf-to-json",
+  "version": "0.1.0"
+ },
+ {
+  "name": "pdf-annotate-ui",
+  "version": "0.0.4"
+ },
+ {
+  "name": "react-file-viewer",
+  "version": "1.2.1"
+ },
+ {
+  "name": "lx-com",
+  "version": "1.0.4"
+ },
+ {
+  "name": "apaaslib",
+  "version": "0.1.1"
+ },
+ {
+  "name": "forked-pdf-viewer",
+  "version": "6.4.9"
+ },
+ {
+  "name": "polar-react-pdf",
+  "version": "1.100.8"
+ },
+ {
+  "name": "@zhicka/react-doc-viewer",
+  "version": "0.1.6"
+ },
+ {
+  "name": "@muhafkar/react-file-viewer",
+  "version": "1.2.4"
+ },
+ {
+  "name": "@bsorrentino/pdf-tools",
+  "version": "1.2.1"
+ },
+ {
+  "name": "vuepress-plugin-pdfjs",
+  "version": "0.0.1-beta.2"
+ },
+ {
+  "name": "@jeff-tian/thesis",
+  "version": "1.8.0"
+ },
+ {
+  "name": "ourmarks",
+  "version": "3.0.2"
+ },
+ {
+  "name": "mediafly-document-component",
+  "version": "1.1.0"
+ },
+ {
+  "name": "if-pdf-viewer",
+  "version": "1.0.3"
+ },
+ {
+  "name": "statement-parser",
+  "version": "2.0.1"
+ },
+ {
+  "name": "chintanjs",
+  "version": "1.0.0"
+ },
+ {
+  "name": "react-pdf-pd",
+  "version": "4.1.1"
+ },
+ {
+  "name": "@procore/labs-markup-toolbars",
+  "version": "11.4.2"
+ },
+ {
+  "name": "insomnia-cli",
+  "version": "0.4.0"
+ },
+ {
+  "name": "illa-builder",
+  "version": "4.4.13"
+ },
+ {
+  "name": "lvjinguo",
+  "version": "1.1.0"
+ },
+ {
+  "name": "pdf-juice",
+  "version": "1.0.0"
+ },
+ {
+  "name": "ol-pdf-printer",
+  "version": "2.1.2"
+ },
+ {
+  "name": "@haikal212/ngx-imageviewer",
+  "version": "3.0.0"
+ },
+ {
+  "name": "@bixi-design/label-engine",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@teammaestro/stencil-pdf-viewer",
+  "version": "0.1.1"
+ },
+ {
+  "name": "lance-element-vue2",
+  "version": "0.0.2"
+ },
+ {
+  "name": "react-read-pdf",
+  "version": "2.0.9"
+ },
+ {
+  "name": "insgen",
+  "version": "1.0.12"
+ },
+ {
+  "name": "adaptive-react-pdf-js",
+  "version": "1.1.1"
+ },
+ {
+  "name": "@lcluber/pdfvjs",
+  "version": "0.3.1"
+ },
+ {
+  "name": "@zfairs/pdf-signing-library",
+  "version": "1.0.22"
+ },
+ {
+  "name": "@feamzy/pdfkit",
+  "version": "0.13.2"
+ },
+ {
+  "name": "@exzeo/pdf-diff",
+  "version": "2.0.1"
+ },
+ {
+  "name": "react-better-pdf",
+  "version": "0.0.4"
+ },
+ {
+  "name": "ght-react-filter",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@wemaintain/pdf-viewer",
+  "version": "1.0.20"
+ },
+ {
+  "name": "react-easy-pdf-signature",
+  "version": "1.0.8"
+ },
+ {
+  "name": "pdf-annotate",
+  "version": "0.0.0"
+ },
+ {
+  "name": "yachu2003",
+  "version": "2.2.21"
+ },
+ {
+  "name": "@wallopsio/pdfme-ui",
+  "version": "4.0.0-dev.1"
+ },
+ {
+  "name": "tal-vue-pdf",
+  "version": "1.0.2"
+ },
+ {
+  "name": "dcmcloud-extension-dicom-pdf",
+  "version": "1.0.6"
+ },
+ {
+  "name": "@elonehoo/vue-pdf",
+  "version": "4.2.2"
+ },
+ {
+  "name": "vue-pdf-yc",
+  "version": "1.1.9"
+ },
+ {
+  "name": "@martip/node-red-pdf-to-png",
+  "version": "1.0.1"
+ },
+ {
+  "name": "@resolving/angular-pdf-viewer",
+  "version": "0.2.9"
+ },
+ {
+  "name": "pdf-qr",
+  "version": "1.0.0"
+ },
+ {
+  "name": "npm-viewerjs",
+  "version": "0.7.0"
+ },
+ {
+  "name": "daedalos",
+  "version": "2.0.1"
+ },
+ {
+  "name": "vue-pdf2",
+  "version": "3.3.1"
+ },
+ {
+  "name": "@novadiscovery/portable-document",
+  "version": "0.1.7"
+ },
+ {
+  "name": "jsreport-pdf-utils",
+  "version": "1.11.1"
+ },
+ {
+  "name": "alex-pdfjs",
+  "version": "2.16.108"
+ },
+ {
+  "name": "xconcepts-stencil-pdfviewer",
+  "version": "0.0.5"
+ },
+ {
+  "name": "em-viewer-web",
+  "version": "0.0.17"
+ },
+ {
+  "name": "@heisea/viewer",
+  "version": "0.2.12"
+ },
+ {
+  "name": "javadog-vue-pdf",
+  "version": "4.3.2"
+ },
+ {
+  "name": "process_form_for_flow",
+  "version": "0.2.1-mobile-specify"
+ },
+ {
+  "name": "react-file-viewer-webpack-plugins-04",
+  "version": "1.0.0"
+ },
+ {
+  "name": "invoice_processor",
+  "version": "1.8.2"
+ },
+ {
+  "name": "react-view-pdf-mod",
+  "version": "0.1.33"
+ },
+ {
+  "name": "dt-pdfme-ui",
+  "version": "1.1.11"
+ },
+ {
+  "name": "pdf2canvas",
+  "version": "0.1.0"
+ },
+ {
+  "name": "pdf-export-images",
+  "version": "1.2.0"
+ },
+ {
+  "name": "vue-pdf-zh",
+  "version": "4.0.12"
+ },
+ {
+  "name": "vue-mindee-js",
+  "version": "1.4.0"
+ },
+ {
+  "name": "bocai-vue-pdf",
+  "version": "1.0.2"
+ },
+ {
+  "name": "pdf-table-extractor-buffer",
+  "version": "0.0.2"
+ },
+ {
+  "name": "react-file-viewer-plugins-v5-01",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@humanwhocodes/print-ready",
+  "version": "0.3.1"
+ },
+ {
+  "name": "react-file-viewer-ata",
+  "version": "1.1.1"
+ },
+ {
+  "name": "joplin-plugin-ocr",
+  "version": "0.3.2"
+ },
+ {
+  "name": "pdf2mp4",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@pano.video/whiteboard",
+  "version": "2.4.10"
+ },
+ {
+  "name": "@revotechuet/file-explorer",
+  "version": "1.0.32"
+ },
+ {
+  "name": "react-pdf-highlighter-extended-id",
+  "version": "8.0.3"
+ },
+ {
+  "name": "@jagatmachines/react-pdf-highlighter",
+  "version": "3.3.0-alpha-18"
+ },
+ {
+  "name": "preview-vue3",
+  "version": "1.0.8"
+ },
+ {
+  "name": "vue-pdf-embed-map",
+  "version": "1.1.9"
+ },
+ {
+  "name": "@gabrielcazacu96/file-viewer",
+  "version": "0.0.39"
+ },
+ {
+  "name": "@argument-studio/react-pdf-highlighter-with-categories",
+  "version": "7.1.2"
+ },
+ {
+  "name": "clx-processfilestreams",
+  "version": "0.0.4"
+ },
+ {
+  "name": "@teamhive/stencil-pdf-viewer",
+  "version": "0.2.2"
+ },
+ {
+  "name": "@openartmarket/pdfkit",
+  "version": "0.13.1"
+ },
+ {
+  "name": "vue-pdf-zyhh",
+  "version": "4.3.1"
+ },
+ {
+  "name": "pdfviewer-react",
+  "version": "1.0.6"
+ },
+ {
+  "name": "vue-my-pdf-viewer",
+  "version": "1.0.5"
+ },
+ {
+  "name": "@ashutoshshubam/reactjs-pdf-reader-custom",
+  "version": "1.1.0"
+ },
+ {
+  "name": "@otools/pdf-reader-vue",
+  "version": "0.4.0"
+ },
+ {
+  "name": "lightr-vue-pdf",
+  "version": "1.0.1"
+ },
+ {
+  "name": "vue-pdf-eurlanda",
+  "version": "1.0.40"
+ },
+ {
+  "name": "@laurawxy/react-doc-viewer",
+  "version": "0.1.14"
+ },
+ {
+  "name": "genie-component-library",
+  "version": "0.17.0"
+ },
+ {
+  "name": "nuxt-vue3-pdf",
+  "version": "4.2.0"
+ },
+ {
+  "name": "hw-pdf-viewer",
+  "version": "1.4.14"
+ },
+ {
+  "name": "vite-pdf",
+  "version": "4.2.3"
+ },
+ {
+  "name": "@neuqsoft/pdf-viewer",
+  "version": "1.0.0"
+ },
+ {
+  "name": "vue-pdf-next",
+  "version": "0.0.16"
+ },
+ {
+  "name": "pdfiy",
+  "version": "1.0.4"
+ },
+ {
+  "name": "pdf2jpg",
+  "version": "0.4.2"
+ },
+ {
+  "name": "pdf-forms-viewer-temp",
+  "version": "7.0.2"
+ },
+ {
+  "name": "dt-ui-library",
+  "version": "0.0.66"
+ },
+ {
+  "name": "@awebase/react-pdf-highlighter",
+  "version": "3.1.1"
+ },
+ {
+  "name": "vue-sb-components",
+  "version": "1.0.2"
+ },
+ {
+  "name": "mm-pdf-img",
+  "version": "1.2.9"
+ },
+ {
+  "name": "pdfkitf1",
+  "version": "0.13.0"
+ },
+ {
+  "name": "@mlordan/tresor.import",
+  "version": "1.0.6"
+ },
+ {
+  "name": "some-random-todo-app",
+  "version": "0.0.1"
+ },
+ {
+  "name": "pdf-text-parser",
+  "version": "0.2.1"
+ },
+ {
+  "name": "@abstractops/react-doc-viewer",
+  "version": "0.1.6"
+ },
+ {
+  "name": "@digitalzz/bizui",
+  "version": "2.3.1"
+ },
+ {
+  "name": "@dmehub/vue-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "just-pdf-viewer15",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@bloxberg-org/blockcerts-verifier",
+  "version": "1.2.2"
+ },
+ {
+  "name": "@nicofetter/react-pdf-highlighter",
+  "version": "1.0.5"
+ },
+ {
+  "name": "lichen-annotate-pdf",
+  "version": "2.0.35"
+ },
+ {
+  "name": "alchemy-embed-medias",
+  "version": "2.0.0-dev"
+ },
+ {
+  "name": "@adber/adber-ui",
+  "version": "0.4.21"
+ },
+ {
+  "name": "@8btc/qianlema-widget-wujiebantu",
+  "version": "0.1.2"
+ },
+ {
+  "name": "@pleasedproperty/preact-pdf",
+  "version": "1.0.0"
+ },
+ {
+  "name": "@fyne/pdf",
+  "version": "0.0.36"
+ },
+ {
+  "name": "react-pdf-thumbnail-2",
+  "version": "1.0.8"
+ },
+ {
+  "name": "ngx-pdf-viewer-demo",
+  "version": "2023.10.1-testworkFlow09"
+ },
+ {
+  "name": "react-pdf-highlighter-v2",
+  "version": "6.1.0"
+ },
+ {
+  "name": "glv_pdf_parser",
+  "version": "0.2.1"
+ },
+ {
+  "name": "react-file-viewer-multi",
+  "version": "1.3.20"
+ },
+ {
+  "name": "starwave-react-file-viewer",
+  "version": "0.0.1"
+ },
+ {
+  "name": "all-documents-vue",
+  "version": "0.1.2"
+ },
+ {
+  "name": "read-pdf-as-png",
+  "version": "0.0.1"
+ },
+ {
+  "name": "@niftycoio/sdk",
+  "version": "0.2.57"
+ },
+ {
+  "name": "@sudoplatform/sudo-password-manager",
+  "version": "11.0.2"
+ },
+ {
+  "name": "@aelatgt/hubs",
+  "version": "0.0.1-0"
+ },
+ {
+  "name": "react-pdf-js-fix",
+  "version": "1.1.0"
+ },
+ {
+  "name": "pdf-thumbnails-generator-k2",
+  "version": "1.0.11"
+ },
+ {
+  "name": "smallpreviewfile",
+  "version": "1.0.4"
+ },
+ {
+  "name": "@zkty-team/vue-pdf",
+  "version": "4.2.1"
+ },
+ {
+  "name": "pdfvuer-older-browsers",
+  "version": "1.11.0"
+ },
+ {
+  "name": "react-file-viewer-webpack-plugins-02",
+  "version": "1.0.0"
+ },
+ {
+  "name": "pdf-scrape",
+  "version": "1.0.2"
+ },
+ {
+  "name": "gd-signature-guangxi-test",
+  "version": "1.0.1"
+ },
+ {
+  "name": "franco-react-pdf",
+  "version": "5.3.1-rc.0"
+ },
+ {
+  "name": "pdfjs2json",
+  "version": "0.5.2"
+ },
+ {
+  "name": "@orginone/react-office-viewer",
+  "version": "1.0.5"
+ },
+ {
+  "name": "vue-pdf-linsd",
+  "version": "4.3.1"
+ },
+ {
+  "name": "hw-tools",
+  "version": "0.0.49"
+ },
+ {
+  "name": "puppeteer-edge",
+  "version": "0.12.4"
+ },
+ {
+  "name": "reactstarterkit",
+  "version": "0.0.2"
+ },
+ {
+  "name": "react-read-pdf-b",
+  "version": "2.0.10"
+ },
+ {
+  "name": "lz-pdf-merage",
+  "version": "0.1.2"
+ },
+ {
+  "name": "@mega-apps/mom-core-standard",
+  "version": "1.5.0"
+ },
+ {
+  "name": "react-pdfviewer-annotator",
+  "version": "0.0.7"
+ },
+ {
+  "name": "cbs-handykit",
+  "version": "0.0.1"
+ },
+ {
+  "name": "react-filesaver",
+  "version": "0.1.8"
+ },
+ {
+  "name": "vue-pdf-viewer-stars",
+  "version": "0.2.9"
+ },
+ {
+  "name": "@ashish-koshy/ng2-lean-pdf-viewer",
+  "version": "1.0.5"
+ },
+ {
+  "name": "pdf-viewer-reactjs",
+  "version": "2.2.3"
+ },
+ {
+  "name": "isigningsdk",
+  "version": "1.0.0"
+ },
+ {
+  "name": "testing-integrating-mattermost",
+  "version": "0.0.8"
+ },
+ {
+  "name": "joplin-plugin-resource-search",
+  "version": "0.1.2"
+ },
+ {
+  "name": "pdf-template-maker",
+  "version": "1.2.0"
+ },
+ {
+  "name": "@mattburlage/react-file-viewer",
+  "version": "1.1.1"
+ },
+ {
+  "name": "@gwdata/im",
+  "version": "0.0.93"
+ },
+ {
+  "name": "wzdigit-vue-pdf",
+  "version": "4.2.0-1"
+ },
+ {
+  "name": "epx-frame-test",
+  "version": "3.10.0"
+ },
+ {
+  "name": "@neon.id/uji-interfaces",
+  "version": "1.20.2-beta.1"
+ },
+ {
+  "name": "react-pdf-cleanup",
+  "version": "5.7.2"
+ },
+ {
+  "name": "@talaikis/pdf-viewer-react",
+  "version": "2.1.12"
+ },
+ {
+  "name": "oadf-pdf-converter",
+  "version": "0.1.0"
+ },
+ {
+  "name": "vue3-pdf-view",
+  "version": "1.1.2"
+ },
+ {
+  "name": "react-pdf-pages",
+  "version": "0.1.8"
+ },
+ {
+  "name": "etoptio",
+  "version": "1.2.4"
+ },
+ {
+  "name": "brick-sd",
+  "version": "0.0.1"
+ },
+ {
+  "name": "gd-signature-v2",
+  "version": "1.0.40"
+ },
+ {
+  "name": "afta",
+  "version": "1.0.2"
+ },
+ {
+  "name": "filopplasting",
+  "version": "2.1.1"
+ },
+ {
+  "name": "puppeteer-xpath",
+  "version": "0.1.0"
+ },
+ {
+  "name": "@offset-earth/certificates",
+  "version": "0.4.5"
+ },
+ {
+  "name": "kai-pdf-fork",
+  "version": "2.0.0-beta.1"
+ },
+ {
+  "name": "srpv-js",
+  "version": "1.0.16"
+ },
+ {
+  "name": "chw-vue-pdf",
+  "version": "4.0.7"
+ },
+ {
+  "name": "@helloinspur/agile",
+  "version": "0.21.8"
+ }
+]

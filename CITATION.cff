@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "npm packages that ship their own copy of PDF.js"
+type: dataset
+authors:
+  - family-names: Gopalakrishnan
+    given-names: Aneesh
+date-released: 2026-10-30
+version: "1.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/codehippie1/npm-pdfjs-copies"
+abstract: >-
+  npm packages that carry a copy of Mozilla PDF.js inside their published files, which PDF.js
+  release every package release carries, and how far behind upstream those copies were on the day
+  each release was published. Collected 30 October 2026 from public npm registry and jsDelivr data.
+keywords:
+  - npm
+  - PDF.js
+  - vendored dependencies
+  - copy-based reuse
+  - technical lag
+  - CVE-2024-4367

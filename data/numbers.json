@@ -1,0 +1,461 @@
+{
+ "coverage": {
+  "S1": {
+   "frame": 2338,
+   "screened": 2338,
+   "ok": 2330,
+   "no_listing": 8,
+   "unpublished": 0,
+   "other_fail": 0,
+   "deep": 2330,
+   "latest_carriers": 862,
+   "latest_via_bundle": 277,
+   "ever_carriers": 911,
+   "deep_ok": 2330,
+   "deep_former": 49,
+   "deep_not_latest": 1467
+  },
+  "S2": {
+   "frame": 7621,
+   "screened": 7621,
+   "ok": 7600,
+   "no_listing": 21,
+   "unpublished": 0,
+   "other_fail": 0,
+   "deep": 670,
+   "latest_carriers": 260,
+   "latest_via_bundle": 166,
+   "ever_carriers": 265,
+   "deep_ok": 670,
+   "deep_former": 5,
+   "deep_not_latest": 646
+  },
+  "S3": {
+   "frame": 3461,
+   "screened": 3461,
+   "ok": 3453,
+   "no_listing": 8,
+   "unpublished": 0,
+   "other_fail": 0,
+   "deep": 327,
+   "latest_carriers": 138,
+   "latest_via_bundle": 87,
+   "ever_carriers": 142,
+   "deep_ok": 327,
+   "deep_former": 4,
+   "deep_not_latest": 322
+  },
+  "S4": {
+   "frame": 691,
+   "screened": 691,
+   "ok": 544,
+   "no_listing": 3,
+   "unpublished": 101,
+   "other_fail": 43,
+   "deep": 544,
+   "latest_carriers": 179,
+   "latest_via_bundle": 142,
+   "ever_carriers": 192,
+   "deep_ok": 544,
+   "deep_former": 13,
+   "deep_not_latest": 365
+  }
+ },
+ "kw_pdf_total": 9212,
+ "kw_pdf_reached": 9285,
+ "kw_pdf_unreached": 0,
+ "text_pdf_total": 33145,
+ "text_pdf_reached": 13054,
+ "text_pdf_unreached": 20091,
+ "latest_carriers_census": 1439,
+ "tails": {
+  "S2": {
+   "unreached": 0,
+   "bands": {
+    "0-999": [
+     26,
+     848
+    ],
+    "1000-1999": [
+     26,
+     880
+    ],
+    "2000-2999": [
+     34,
+     853
+    ],
+    "3000-3999": [
+     22,
+     838
+    ],
+    "4000-5249": [
+     31,
+     1028
+    ]
+   },
+   "last_band": [
+    31,
+    1028,
+    0.021324475793872123,
+    0.042485318267541955
+   ],
+   "expansion_only": [
+    121,
+    3153,
+    0.032213040947475235,
+    0.045662770116342476
+   ],
+   "est": [
+    0,
+    0,
+    0
+   ],
+   "sens_hi": 0
+  },
+  "S3": {
+   "unreached": 20091,
+   "bands": {
+    "0-999": [
+     10,
+     310
+    ],
+    "1000-1999": [
+     10,
+     339
+    ],
+    "2000-2999": [
+     15,
+     363
+    ],
+    "3000-3999": [
+     18,
+     363
+    ],
+    "4000-5249": [
+     17,
+     500
+    ]
+   },
+   "last_band": [
+    17,
+    500,
+    0.021334339444613423,
+    0.05377180502618852
+   ],
+   "expansion_only": [
+    68,
+    1578,
+    0.03413366620518582,
+    0.05427063420011393
+   ],
+   "est": [
+    683.094,
+    428.6282137817283,
+    1080.3293347811536
+   ],
+   "sens_hi": 1090.351311714489
+  }
+ },
+ "latest_carriers_total_est": [
+  2122.094,
+  1867.6282137817284,
+  2519.3293347811536
+ ],
+ "latest_carriers_total_sensitivity_hi": 2529.351311714489,
+ "former": {
+  "S1S4_found": 62,
+  "S23_sub_k": 9,
+  "S23_sub_n": 968,
+  "S23_est": [
+   99.0650826446281,
+   52.19891530738314,
+   187.26628972191378
+  ],
+  "S23_found": 9
+ },
+ "hit_packages": 1510,
+ "releases_listed": 19788,
+ "releases_no_listing": 20,
+ "releases_not_scanned": 2427,
+ "releases_total": 22235,
+ "carrying_releases": 14678,
+ "id_method": {
+  "banner": 3454,
+  "bundle": 7676,
+  "hash": 3548
+ },
+ "identified": 14218,
+ "upstream_identified": 12461,
+ "build_type": {
+  "generic": 4256,
+  "unknown": 7474,
+  "generic+legacy": 1469,
+  "legacy": 1479
+ },
+ "worker_present": 11224,
+ "major_releases": {
+  "1": 531,
+  "2": 7101,
+  "4": 2489,
+  "5": 1399,
+  "6": 767,
+  "3": 1929,
+  "?": 462
+ },
+ "latest_carrier_pkgs": 1439,
+ "shape_latest": {
+  "embedded": 1125,
+  "republication": 314
+ },
+ "shape_last_carrying": {
+  "embedded": 1194,
+  "republication": 316
+ },
+ "recall": {
+  "S1": [
+   585,
+   862,
+   0.646745302722775,
+   0.7089779612091036
+  ],
+  "S2": [
+   94,
+   260,
+   0.3055460146916781,
+   0.42156297797665016
+  ],
+  "S3": [
+   51,
+   138,
+   0.29358290439781687,
+   0.45261285199522994
+  ],
+  "S4": [
+   37,
+   179,
+   0.15384734730901448,
+   0.27188508994815236
+  ],
+  "all": [
+   767,
+   1439,
+   0.5071774565979692,
+   0.5586648368318848
+  ],
+  "releases": [
+   7002,
+   14678,
+   0.3977595434527776,
+   0.5563592120013227
+  ],
+  "name_candidates_latest": 818,
+  "name_candidates_rejected": 50
+ },
+ "lag": {
+  "n_releases": 12461,
+  "n_packages": 1364,
+  "median": 231.75,
+  "median_ci": [
+   190.7,
+   265.1905
+  ],
+  "p25": 78.13,
+  "p75": 607.64,
+  "p90": 1073.81,
+  "share_over_365": 0.3676269962282321,
+  "share_over_365_ci": [
+   0.31956141740668603,
+   0.42080153603754267
+  ],
+  "share_behind": 0.8151031217398282,
+  "share_behind_ci": [
+   0.7773387391135124,
+   0.850736859419831
+  ],
+  "median_minor_lines_behind": 3,
+  "pkg_median_of_medians": 260.62
+ },
+ "lag_by_year": {
+  "2014": {
+   "n": 3,
+   "pkgs": 1,
+   "median_lag": 0.38,
+   "share_behind": 0.3333333333333333,
+   "share_affected": 1.0
+  },
+  "2015": {
+   "n": 6,
+   "pkgs": 4,
+   "median_lag": 3.2,
+   "share_behind": 0.6666666666666666,
+   "share_affected": 1.0
+  },
+  "2016": {
+   "n": 64,
+   "pkgs": 19,
+   "median_lag": 30.21,
+   "share_behind": 0.765625,
+   "share_affected": 1.0
+  },
+  "2017": {
+   "n": 164,
+   "pkgs": 37,
+   "median_lag": 13.085,
+   "share_behind": 0.8292682926829268,
+   "share_affected": 1.0
+  },
+  "2018": {
+   "n": 416,
+   "pkgs": 80,
+   "median_lag": 142.26,
+   "share_behind": 0.7331730769230769,
+   "share_affected": 1.0
+  },
+  "2019": {
+   "n": 818,
+   "pkgs": 115,
+   "median_lag": 203.585,
+   "share_behind": 0.7909535452322738,
+   "share_affected": 1.0
+  },
+  "2020": {
+   "n": 781,
+   "pkgs": 133,
+   "median_lag": 221.45,
+   "share_behind": 0.8629961587708067,
+   "share_affected": 1.0
+  },
+  "2021": {
+   "n": 1556,
+   "pkgs": 169,
+   "median_lag": 327.76,
+   "share_behind": 0.9652956298200515,
+   "share_affected": 1.0
+  },
+  "2022": {
+   "n": 1314,
+   "pkgs": 185,
+   "median_lag": 231.35,
+   "share_behind": 0.7480974124809742,
+   "share_affected": 1.0
+  },
+  "2023": {
+   "n": 1412,
+   "pkgs": 219,
+   "median_lag": 261.145,
+   "share_behind": 0.8640226628895185,
+   "share_affected": 1.0
+  },
+  "2024": {
+   "n": 1342,
+   "pkgs": 190,
+   "median_lag": 194.17000000000002,
+   "share_behind": 0.7451564828614009,
+   "share_affected": 0.646795827123696
+  },
+  "2025": {
+   "n": 1892,
+   "pkgs": 213,
+   "median_lag": 308.8,
+   "share_behind": 0.7848837209302325,
+   "share_affected": 0.40380549682875266
+  },
+  "2026": {
+   "n": 2693,
+   "pkgs": 348,
+   "median_lag": 198.0,
+   "share_behind": 0.798737467508355,
+   "share_affected": 0.1377645748236168
+  }
+ },
+ "latest_view": {
+  "n": 1280,
+  "median_lag": 309.67,
+  "median_age_days_at_collection": 1775.0,
+  "share_behind": 0.81796875
+ },
+ "affected": {
+  "post_fix_carrying_releases": 6210,
+  "post_fix_upstream": 5487,
+  "post_fix_affected_upstream": 1563,
+  "share": 0.28485511208310554,
+  "share_ci": [
+   0.22238257898290942,
+   0.3503300508817136
+  ],
+  "post_fix_affected_incl_forks": 1835,
+  "post_fix_incl_forks": 6210,
+  "packages_post_fix": 587,
+  "packages_post_fix_affected": 216,
+  "packages_share": 0.3679727427597956,
+  "packages_share_ci": [
+   0.32993543017015814,
+   0.40772691452594984
+  ],
+  "days_after_fix_median": 437.79,
+  "days_after_fix_p75": 602.185,
+  "days_after_fix_max": 913.47,
+  "by_half_year": {
+   "2024H1": 193,
+   "2024H2": 235,
+   "2025H1": 329,
+   "2025H2": 435,
+   "2026H1": 201,
+   "2026H2": 170
+  },
+  "last_affected_publish": "2026-10-30T04:54:34.031Z",
+  "per_package_last_affected_days_median": 447.69000000000005,
+  "per_package_last_affected_over_365": 124
+ },
+ "new_after_fix": {
+  "n": 522,
+  "k_affected": 173,
+  "share": 0.3314176245210728,
+  "ci": [
+   0.2923963175526051,
+   0.37290212973646447
+  ],
+  "median_lag_days": 1128.04
+ },
+ "latest_affected": {
+  "k": 904,
+  "n": 1280,
+  "share": 0.70625,
+  "ci": [
+   0.6807097646275334,
+   0.7305559242238017
+  ]
+ },
+ "km": {
+  "cohort": {
+   "at_fix_affected": 779,
+   "no_release_since": 725,
+   "exited_upgrade": 26,
+   "exited_dropped_copy": 4,
+   "active_still_affected": 24
+  },
+  "S_180": 0.9807445442875481,
+  "S_365": 0.9743260590500641,
+  "S_730": 0.9640564826700898,
+  "median_days": null
+ },
+ "km_active": {
+  "n": 54,
+  "S_90": 0.8148148148148148,
+  "S_180": 0.7222222222222222,
+  "S_365": 0.6296296296296298,
+  "S_730": 0.48148148148148184,
+  "median_days": 691,
+  "first_post_fix_release_still_affected": 34
+ },
+ "weight": {
+  "latest_carriers_downloads": 72058931,
+  "upstream_identified_downloads": 68873475,
+  "affected_downloads": 464803,
+  "affected_share_weighted": 0.006748650333092674,
+  "top10_share": 0.9753606391968263,
+  "pdfjs_dist_downloads": 134953946,
+  "n_with_downloads": 1433
+ },
+ "ng2_pdfjs_viewer_is_row": true
+}

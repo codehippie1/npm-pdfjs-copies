@@ -1,0 +1,8085 @@
+{
+ "3d-flip-book": {
+  "downloads": 1733,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "3d-pro-flipbook": {
+  "downloads": 149,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "5gsign-pdfjs": {
+  "downloads": 99,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "5irich-pdf-previewer": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "@0x170818/pdfjs-dist": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@360learning/vue-pdf-viewer": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@4admin/pdf-viewer": {
+  "downloads": 510,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@4tw/vue-cli-plugin-pdfjs-viewer": {
+  "downloads": 257,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@a-n-u-b-i-s/pdf-parse": {
+  "downloads": 37,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@a9i5k4/dsh-literature": {
+  "downloads": 2100,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aaa_iii/fzv": {
+  "downloads": 617,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@abduljebar/pdf-reader": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@acc0re/vue-pdf-embed": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@accusoft/pdf-viewer": {
+  "downloads": 528,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aecworks/obvdoc": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aecworks/pdfjs-obvdoc": {
+  "downloads": 98,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aeli3/react-pdf-viewer": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@agentsky/desktop-ui": {
+  "downloads": 8583,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aggbond/my-file-preview-mobile": {
+  "downloads": 209,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@agilehub/vue-pdf-flipbook": {
+  "downloads": 1454,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aivue/doc-intelligence": {
+  "downloads": 261,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@akord/file-viewer": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@akord/web-components": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@akumzy/vue-components": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aleph-alpha/lib-pdf-viewer": {
+  "downloads": 92,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@alexdee2007/quasar-app-extension-qpdfviewer": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@allfile-preview/core": {
+  "downloads": 138,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@alsocoder/apna-upload": {
+  "downloads": 60,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@amirandap/data-review-ui": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@amxv/lampo": {
+  "downloads": 264,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@anbcodes/chordpdf": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@andaleeb/react-pdf-js": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@angelbot-ai/teamsync-pdf-viewer": {
+  "downloads": 33,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@anohanafes/aocr": {
+  "downloads": 121,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@anohanafes/offline-document-viewer": {
+  "downloads": 455,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@antoinepairet/ng2-pdfjs-viewer": {
+  "downloads": 91,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aoexl/sign": {
+  "downloads": 75,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@appsafetyhub/ui": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@artesa/vue-pdf-embed": {
+  "downloads": 248,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@asaddu/pdfme-ui": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ashutoshshubam/reactjs-pdf-reader-custom": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aslamhus/fileselect": {
+  "downloads": 71,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@aswar-new-pdf-builder/ui": {
+  "downloads": 78,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@autoanki/autoanki-plugin-content-pdf-fragment": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@autoanki/plugin-content-pdf-fragment": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@awlsn/pdfjs-full": {
+  "downloads": 201,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@azinformatica/pdfjs-dist": {
+  "downloads": 233,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@baic/pdfjs-dist": {
+  "downloads": 71,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bakedpotatolord/pdf-parse": {
+  "downloads": 44,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bastienmoulia/pdf.js-dist": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bastienmoulia/pdf.js-viewer": {
+  "downloads": 125,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@benjaminor-dev/quasar-app-extension-dialog-file-preview": {
+  "downloads": 98,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@benthegreenshot/pdf-vue3": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@beyondwork/pdf-viewer": {
+  "downloads": 432,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@beyondwork/web-components": {
+  "downloads": 151,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bildau/rn-pdf-reader": {
+  "downloads": 112,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@billtaofbj/pdf": {
+  "downloads": 82,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bingsjs/pdf-parse": {
+  "downloads": 554,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bippy-ui/pdf-flipper": {
+  "downloads": 477,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bistri/pdfme-ui": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bixi-design/label-engine": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bloxberg-org/blockcerts-verifier": {
+  "downloads": 197,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@borurio-print/print-designer": {
+  "downloads": 558,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@botz1991/ngx-extended-pdf-viewer": {
+  "downloads": 164,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@botz1991/pdf-parse": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@brainfish-ai/help-widget": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@bundled-es-modules/pdfjs-dist": {
+  "downloads": 30035,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@c-barron/pdf-parse": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cablate/mcp-doc-forge": {
+  "downloads": 411,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@campfire-interactive/attachments-ui": {
+  "downloads": 101,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@catalogicus-international/n8n-nodes-invoice-parser": {
+  "downloads": null,
+  "start": null,
+  "end": null,
+  "error": 404
+ },
+ "@cecalc/analisador-de-texto": {
+  "downloads": 93,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cedrugs/pdf-parse": {
+  "downloads": 4627,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@celhive/pdf-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@certifaction/pdfjs": {
+  "downloads": 81,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@chelabs/ng2-pdfjs-viewer": {
+  "downloads": 70,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@chialab/pdfjs-lib": {
+  "downloads": 724,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ckhordiasma/pdfjs-dist": {
+  "downloads": 209,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cluro/divvy": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cocalc/cdn": {
+  "downloads": 423,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cocalc/static": {
+  "downloads": 113,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@codetesseract/react-file-viewer": {
+  "downloads": 142,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cognite/react-picture-annotation": {
+  "downloads": 148,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@coldsofttech/fovea-pdf": {
+  "downloads": null,
+  "start": null,
+  "end": null,
+  "error": 404
+ },
+ "@commutatus/pdfjs-dist": {
+  "downloads": 293,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@compdfkit_pdf_sdk/webviewer": {
+  "downloads": 15310,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@compn3rd/pi-web-research-library": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@component-hook/pdf-canvas": {
+  "downloads": 685,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@comtk/pdf-vue3": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@consorcioabierto/pdf-viewer-vue": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@coze-arch/pdfjs-shadow": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@custom-pdf-viewer/custom-pdf-viewer": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cver-design/pro-pdfjs-tools": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@cyber2024/pdf-parse-fixed": {
+  "downloads": 2513,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@d-i-t-a/reader": {
+  "downloads": 3686,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@daguanren21/vue-pdf": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@damankj/pdfjs-dist": {
+  "downloads": 202,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@daniel-fahl/quasar-app-extension-qpdfviewer": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@datagrok/file-editors": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dbp-toolkit/pdf-viewer": {
+  "downloads": 91,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dbp-topics/greenlight": {
+  "downloads": 358,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dbp-topics/signature": {
+  "downloads": 2345,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dctw/my-pdf": {
+  "downloads": 782,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dearhive/dearflip-jquery-flipbook": {
+  "downloads": 4941,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@deckflow/pdf-lite-parse": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@deepmetier/pdfjs-dist-deepmetier": {
+  "downloads": 759,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@deepseek-ai/dsh-client-ui-sidebar-documentpreview": {
+  "downloads": 1408805,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@deeptakirandas/pdf-parse": {
+  "downloads": 38,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@depup/pdf-parse": {
+  "downloads": 300,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@depup/pdfjs-dist": {
+  "downloads": 236,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@derockytech/medical-pdf-editor": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@develop-plugins/pdf-preview": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dictrigyn/pdf-player": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@digipair/skill-pdf": {
+  "downloads": 524,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@digital-blueprint/cabinet-app": {
+  "downloads": 2476,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@directus-labs/pdf-viewer-interface": {
+  "downloads": 105,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@disco-widgets/react-components": {
+  "downloads": 63,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@divriots/pdf.js": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@divriots/pdfjs-dist": {
+  "downloads": 3075,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dks9556/pdfjs-dist": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@docpile/document-viewer": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@document-kits/viewer": {
+  "downloads": 272,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@docweave/mcp": {
+  "downloads": 143,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@dotazse/chat-popup": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@draftit-ui/pdfjs-fork": {
+  "downloads": 90,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@drvillo/react-browser-e-signing": {
+  "downloads": 119,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@easy-pdf/react-easy-pdf": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@edclub/print": {
+  "downloads": 1146,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@eddie-doc/cli": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@edgarjuvianno/vue-sb-components": {
+  "downloads": 178,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@edumetz16/ngx-extended-pdf-viewer": {
+  "downloads": 389,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ehealthpartners/pdfjs-dist": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@eiler2005/slidecraft": {
+  "downloads": 1330,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@elacity-js/ddrm-reader-ui": {
+  "downloads": 209,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@eliseubatista99/react-scaffold-pdf": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@eliumhq/pdf.js": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@elonehoo/pdfjs-dist": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@endexai/react-pdf-highlighter-patch": {
+  "downloads": 60,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@epydoc/react-pdf-highlighter": {
+  "downloads": 166,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@equitylist-co/pdf-editor": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@eternalheart/react-file-preview": {
+  "downloads": 2220,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@eternalheart/vue-file-preview": {
+  "downloads": 1302,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ethsign/pdf-editor": {
+  "downloads": 252,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@evilflowers/evilflowersviewer": {
+  "downloads": 757,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@exav/viewer": {
+  "downloads": 427,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ezsign-jasuindo/pdf-signature-esign-sdk": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fabiohvp/svelte-pdfjs": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fanthos/pdfjs-dist-viewer-legacy": {
+  "downloads": 86,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@file-viewer/renderer-pdf": {
+  "downloads": 66705,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@filumo/pdf": {
+  "downloads": 240,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fin.cx/docbox": {
+  "downloads": 1426,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@firesoon/plugin-pdf-viewer": {
+  "downloads": 169,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fiscozen/pdf-viewer": {
+  "downloads": 1924,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@flowie-app/ocr-extractor": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@foxycape/core": {
+  "downloads": 647,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fumblewit/pdfjs": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fuse-oo/ui": {
+  "downloads": 202,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fusonic/pdf.js": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fvoronin/pdfjs-dist": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@fyne/pdf": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gabrielbu/vue-pdf-viewer": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gabrielcazacu96/file-viewer": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gabrielus/pdf.js": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@galaxyproject/pdf": {
+  "downloads": 563,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gantfdt/office-sdk": {
+  "downloads": null,
+  "start": null,
+  "end": null,
+  "error": 404
+ },
+ "@geeboo/viewer": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gembox/pdfviewer": {
+  "downloads": 1009,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@genus-sdk/pdf-viewer": {
+  "downloads": 40,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ggboy123/dsh-paper-reader": {
+  "downloads": 6662,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gidoont/ngx-extended-pdf-viewer": {
+  "downloads": 242,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gmickel/gno": {
+  "downloads": 3186,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@googledrive/extentions-pdf": {
+  "downloads": 83,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@grapecity-software/gcdocs.pdfviewer": {
+  "downloads": 1016,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@grapecity/gcpdfviewer": {
+  "downloads": 2100,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@greguintow/pdfjs-dist": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@gwdata/im": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hamster-note/pdf-parser": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hanzo/docusign": {
+  "downloads": 214,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hanzo/pdf": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@harslanhafeez/c3-vue": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hayatosc/viewer-ts": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hcb.gg/pdf": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@heavens/brick": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hediet/pdfjs-viewer": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@heisea/brick-bj": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@heisea/viewer": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hmcts/annotation-ui": {
+  "downloads": 42,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hmcts/annotation-ui-lib": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hmcts/media-viewer": {
+  "downloads": 8830,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hoabanmc/ng2-pdfjs-viewer": {
+  "downloads": 125,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@holism/form-generator": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@honeybdg/viewer": {
+  "downloads": 209,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@horlo/brick-bj": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@houshuang/pdfjs-dist": {
+  "downloads": 62,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ht-plm/office-preview": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@htpdfjs/consmart": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hx-brick/brick": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@hzab/pdfjs-dist": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@iamjariwala/react-doc-viewer": {
+  "downloads": 25560,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@icfdigital/quasar-app-extension-qpdfviewer": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@iflow-mcp/cablate-mcp-doc-forge": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@iflow-mcp/mcp-doc-forge": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@iftek/react-viewer": {
+  "downloads": 94,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ifun-vue2/pdf": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ilzf/pdf-vue3": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@imggion/html2realpdf": {
+  "downloads": 1163,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@imgly/pdf-importer": {
+  "downloads": 89706,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@imgly/pdfjs-dist": {
+  "downloads": 2415,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@inflowra/verifiable-document": {
+  "downloads": 38,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@inklayer-dev/core": {
+  "downloads": 340,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@invitae/pdfjs": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@iottest/vue-core": {
+  "downloads": 51,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@iterms/pdfjs": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jackmartin/vue3-pdf-app": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jacktea/pdf-viewer-component": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jchaffin/pdf-parse": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jdominguezg89/react-doc-viewer": {
+  "downloads": 565,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jeraldj/sunbird-pdf-player-web-component": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jereation/pdf-viewer": {
+  "downloads": 189,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jerrychee/pdfh5": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jm-consultants-co/ui5-document-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jobindex/pdf-viewer": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jonnytran/vue-pdf-viewer": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jose.espana/docstream": {
+  "downloads": 9703,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jpow18/pdf.js.viewer": {
+  "downloads": 68,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@jrchan/office-preview": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kamiapp/pdf": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kapto/react-pdf": {
+  "downloads": 1949,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kapto/react-pdf-legacy": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kariudo/ng2-pdfjs-viewer": {
+  "downloads": 193465,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kariudo/pdfjs": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@karthi13krishna/pdfme-ui": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kevin-skylabx/vue-pdf-embed-skylabx": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kevisual/pdf-viewer-lib": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kharf/react-file-viewer": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kinfo-dev/vue-pdf": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@klyck-io/ng2-pdfjs-custom": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@knyazevai/dsh-client-ui-sidebar-documentpreview": {
+  "downloads": 299,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kobataku/pdf-table-extractor": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kodaeditor/core": {
+  "downloads": 883,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@koi-br/ocr-web-sdk": {
+  "downloads": 84,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kormpat/pdf.js-fork": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ksyos/pdfjs-release": {
+  "downloads": 125,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kuangmo/vue-pdf-mobile": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kuzcorp/ng2-pdf-viewer-kuzcorp": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@kyle_g/vue-pdf-flipbook": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lamphq-org/web-sdk": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lanseria/vue-pdf-vite": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lcluber/pdfvjs": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@legendary-octo-waddle/pdfjs-dist": {
+  "downloads": 102,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lemon-clown-wpg/react-pdf-viewer": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lgh_/media-preview-npm": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@liang2uv/file-viewer-vue3": {
+  "downloads": 394,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@libresign/pdf-elements": {
+  "downloads": 4426,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@libresign/vue-pdf-editor": {
+  "downloads": 167,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@libriciel/pdf.js": {
+  "downloads": 171,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@libusoftcicom/pdfjs-dist": {
+  "downloads": 121,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lichunshan/pdf-preview": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lingxiteam/pdfjs-dist": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@liujia0229/vue-pdf-app": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@llamaindex/liteparse": {
+  "downloads": 835160,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@llourenco/pdf-viewer-vue": {
+  "downloads": 175,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@louisblack/pdf-annotate.js": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lpi/pdfjs-dist": {
+  "downloads": 125,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lprib/pdf-parse": {
+  "downloads": 323,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lucky-office/pdf": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@luo-luo/file-view": {
+  "downloads": 91,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@lvchanglong/pdfjs-dist": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mahy50/vue-pdf-viewer": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@maleus/callimaque": {
+  "downloads": 133,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@marcioferlan/react-file-viewer": {
+  "downloads": 261,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@marcusok/pdf-preview": {
+  "downloads": 226,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@markocen/pdf-parse": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@matpool/vue-pdf": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@matsukaz/pdfjs-dist": {
+  "downloads": 268,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mattjohnpowell/pdf-parse": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mega-apps/mom-core-standard": {
+  "downloads": 90,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@megavnet/vue-pdf-app": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@meinenghua/pdf-viewer": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mescius/dspdfviewer": {
+  "downloads": 4184,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mhmdaljefri/pdfme-ui": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mhmo91/pdf-parse": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@miaixz/view": {
+  "downloads": 379,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mikecousins/react-pdf": {
+  "downloads": 71809,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@miljann995/ngx-extended-pdf-viewer": {
+  "downloads": 435,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@minitype/minitype": {
+  "downloads": 690,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@minitype/vite-plugin": {
+  "downloads": 136,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mintlab/pdf.js-viewer": {
+  "downloads": 107,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mispencer/vue-pdf-embed": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@missing-elements/pdfjs-viewer": {
+  "downloads": 773,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mitodl/hacksnack": {
+  "downloads": 1138,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mlightcad/cad-pdf-plugin": {
+  "downloads": 6341,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mlordan/tresor.import": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mmaaikel/pdf-parse": {
+  "downloads": 40,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mn-lab-uj/pdf-annotator": {
+  "downloads": 1011,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@monime/pdfio": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@moon-design/pro-pdfjs-tools": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mpanda/mpc": {
+  "downloads": 87,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mseep/mcp-doc-forge": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mstechusa/eviewer7": {
+  "downloads": 654,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mxmweb/file-viewer": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mxmweb/fv": {
+  "downloads": 73,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@mxmweb/fviewer": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nationstech/ns-md-cli": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nebuladocs/engine": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@neosjs/pdf-viewer": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nerdworks/pdfjs-dist": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@neuqsoft/pdf-viewer": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@newhippo/pdfjs-dist-viewer-min": {
+  "downloads": 48,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@newhippo/react-pdf-js": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nicholas23/pdfme-ui": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nikobuddy/duplicate-detector": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nj_wangrizhen/webc-lib": {
+  "downloads": 69,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@noamyg/ng2-pdf-viewer": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@noamyg/pdfjs-dist": {
+  "downloads": 167,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@noonor/ketikin-editor-core": {
+  "downloads": 141,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@northslopetech/altitude-pdf-viewer": {
+  "downloads": 334,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@novadiscovery/portable-document": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@noya-app/noya-pdf": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@nurohif/extension-dicom-pdf": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@office-viewer/parser": {
+  "downloads": 38,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ogs-ltd/react-pdf-viewer": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ohos-ports/pdf-parse": {
+  "downloads": 180,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ohos-ports/pdftron-pdfjs-express-viewer": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ohos-ports/vue-pdf-embed": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@okkkde/pdfjs-dist": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@okrapdf/sdk": {
+  "downloads": 61,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@opendocsg/pdf2md": {
+  "downloads": 1153861,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@openlee/pdf-images": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@openlee/pdf-images-miniprogram": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@openmaic/importer": {
+  "downloads": 2193,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@opfs-vfs/file-preview": {
+  "downloads": 286,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@opsbli/react": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@opsbli/vue": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@orca-fe/pdfjs-dist-browserify": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@osjs/pdfreader-application": {
+  "downloads": 118,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@otools/pdf-reader-vue": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@owners/pdfme-ui": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@paid-ui/pdfjs-dist": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pano.video/whiteboard": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@paodingai/pdflux-pdf-viewer": {
+  "downloads": 70,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pattern-x/gemini-viewer-threejs": {
+  "downloads": 481,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@paypay/pp-components": {
+  "downloads": 153,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdf-viewer-yee/core": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdf-viewer-yee/pdf-viewer-react": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdf-viewer-yee/pdf-viewer-vue2": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdf-viewer-yee/pdf-viewer-vue3": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdfextract/core": {
+  "downloads": 472,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdfme-tables/ui": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdfslick/core": {
+  "downloads": 129543,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdfslick/react": {
+  "downloads": 113044,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdftron/pdfjs-express": {
+  "downloads": 71182,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdftron/pdfjs-express-viewer": {
+  "downloads": 66837,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdfweave/converter": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pdfweave/ui": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pea11y/ngx-extended-pdf-viewer": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pennyblack/ui": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@phemium-costaisa/pdf-viewer": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pilotso11/pdflight": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pixelated-au/pdf-element-marker": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pluve/pdf-preview-vue": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@plyaz/storage": {
+  "downloads": 50,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pmee/ui": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@polotno/pdf-export": {
+  "downloads": 12363,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@polotno/pdf-import": {
+  "downloads": 20582,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@predialize/pdf-reader": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@privyid/pdf-ajaib": {
+  "downloads": 100,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@privyid/pdfjs": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@privyid/pdfjs-dist": {
+  "downloads": 82,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@prodfox/react-pdf-editor": {
+  "downloads": 33,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@profpowell/pdf-viewer": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@project-sunbird/sunbird-pdf-player": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@project-sunbird/sunbird-pdf-player-v8": {
+  "downloads": 105,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@project-sunbird/sunbird-pdf-player-web-component": {
+  "downloads": 377,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@proovup/pdfme-ui": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@proveanything/pdfmeui": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@publigo/pdfme-ui": {
+  "downloads": 101,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@pubpub/render-files": {
+  "downloads": 42,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@qilin-agent/client-ui-sidebar-documentpreview": {
+  "downloads": 981,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@qingfu/pdfjs-dist": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@qlzt/dsh-client-ui-sidebar-documentpreview": {
+  "downloads": 575,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@qnkhuat/deepread": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@quartix/file-preview": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@quasar/quasar-app-extension-qpdfviewer": {
+  "downloads": 33376,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@quicktoolsone/pdf-compress": {
+  "downloads": 4139,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@quillmark/quillify": {
+  "downloads": 854,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@radyko/carrel": {
+  "downloads": 2782,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ranui/preview": {
+  "downloads": 487,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ray-d-song/foliate-js": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@rdjanuar/vue-pdf": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@reachpersona/pdf-gen-converter": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@reachpersona/pdf-gen-ui": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@react-pdf-kit/viewer": {
+  "downloads": 36709,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@react-pdf-viewer/pdfjs-dist-signature": {
+  "downloads": 1035,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@readletjs/pdf": {
+  "downloads": 442,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@recogito/pdf-annotator": {
+  "downloads": 1718,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@recogito/pdf-annotator-monorepo": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@recogito/react-pdf-annotator": {
+  "downloads": 1083,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@recogito/recogito-react-pdf": {
+  "downloads": 435,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@rem.tools/pdfvuer-es5": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@reminnor/kollega": {
+  "downloads": 126,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@rentablo/pdf-import": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@repdf/preview": {
+  "downloads": 73,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@restsign/react-restsign-js": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@revotechuet/file-explorer": {
+  "downloads": 38,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ribinmathew/file-viewer": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ringkasan.net/vue-pdf-viewer": {
+  "downloads": 58,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@rjgf/pdfviewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@robinpath/pdf": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@roublez/statement-parser": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@roundertools/sdk": {
+  "downloads": null,
+  "start": null,
+  "end": null,
+  "error": 404
+ },
+ "@ruby-s/react-file-preview": {
+  "downloads": 362,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ruknow/vue3-pdf-app": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ryanyahya/opendoc": {
+  "downloads": 324,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sandeepmvn/react-pdf-annotator-v2": {
+  "downloads": 186,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sas-irad/ng2-pdfjs-viewer": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sas-irad/ng2-pdfjs-viewer-ang2": {
+  "downloads": 40,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@scopmx/markora-client": {
+  "downloads": 298,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@scopmx/markup-editor": {
+  "downloads": 1369,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@seba174/ng2-pdf-viewer": {
+  "downloads": 243,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@secib/pdf": {
+  "downloads": 322,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@secib/pdfjs-dist": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sentropic/engram": {
+  "downloads": 28535,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@severi/pdf-parse": {
+  "downloads": 1075,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sgpatil/ngx-extended-pdf-viewer": {
+  "downloads": 128,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@shad0wz7/nestjs-pdf": {
+  "downloads": 355,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@shahajimbhosle/local-doc-viewer": {
+  "downloads": 384,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@shznet/pdf-sign-control": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@shznet/pdf-sign-react": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sign-pdf/cli": {
+  "downloads": 61,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sign-pdf/mcp": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@signkit/core": {
+  "downloads": 73,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sodamomentum/pdf-page-text-extractor": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@songxh2/vue3-pdf-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sorioinc/react-file-viewer": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sorrell/pdf-hot-reload": {
+  "downloads": 241,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@spark-apps/pdfile": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sparkelf/dsh-client-ui-sidebar-documentpreview": {
+  "downloads": 594,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@spgandhi/weavy-uikit-react": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@spinacia_/file-viewer": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@spklai/pdf2json": {
+  "downloads": 44,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@spursjp/pdfme-ui": {
+  "downloads": 168,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@srssoft/react-pdfjs": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@stacksi/pdfjs-dist": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@stanbienaives/vue-pdf-embed": {
+  "downloads": 132,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@startsi/electron-pdf-window": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@steedos/pdfjs-dist": {
+  "downloads": 161,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@stevemao/pdf-extraction": {
+  "downloads": 214,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@stickchartco/react-file-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@studip/pdfjs-dist": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@studip/pdfjs-studip": {
+  "downloads": 373,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@stupremee/ui": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@stuuno/react-pdf-js": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@style3d/vue-pdf": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@suitable-ai/react-pdf-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sunnystudiohu/ui": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sunsetglow/vue-pdf-viewer": {
+  "downloads": 111,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@suxueweibo/pdfjs-dist-es5": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@sventschui/react-svg-editor": {
+  "downloads": 230,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@swiftgum/pdfreader": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@syncit/ui": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@szgc/plt-core": {
+  "downloads": 89,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@taktikal/pdfjs": {
+  "downloads": 92,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@tamatashwin/boxcutter": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@tato30/vue-pdf": {
+  "downloads": 180545,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@teamhive/pdf-viewer": {
+  "downloads": 584,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@teamhive/stencil-pdf-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@teammaestro/stencil-pdf-viewer": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@teemoai/resume-builder": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@tejas.solanki/file-viewer": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@tekmidian/scribe": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@thatsgolden/vite-vue3pdf": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@the-hcma/fpdf": {
+  "downloads": 190,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@the-tablet/pdfjs-ext-dist": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@themainstage/pdfjs-dist": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@thomas.hackl/pdfjs-studip": {
+  "downloads": 0,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@threefold2/ui": {
+  "downloads": 96,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@tindtechnologies/pdfjs-viewer": {
+  "downloads": 1412,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@toolspack/ttd-common": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@toolspack/ttd-pdfjs": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@touno-io/pdf": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@toystory/potato": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@transportme/pdf2json": {
+  "downloads": 78,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@tuttarealstep/vue-pdf.js": {
+  "downloads": 1143,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@ucd-lib/pdf-viewer-flipbook-dist": {
+  "downloads": 295,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@uipath/ui-widgets-pdf-viewer": {
+  "downloads": 260,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@unlev/exeq": {
+  "downloads": 134,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@uplab/pdf-parse": {
+  "downloads": 67,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@uthereal-sdk/cortex": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@v2v/vue-pdf": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vaadin-component-factory/vcf-pdf-viewer": {
+  "downloads": 10224,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vanloenenconsultancy/vue-pdf-embed": {
+  "downloads": 427,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vat-office/pdf": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@veroao/invoice": {
+  "downloads": 1186,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@voicenter-team/voicenter-ui-plus": {
+  "downloads": 2785,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vraxis/reader": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vue-office/pdf": {
+  "downloads": 32652,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vue-pdf-viewer/viewer": {
+  "downloads": 96763,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vue3pdfcomponent/vue3-pdf-viewer": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vurses/vue-pdf-app": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@vvelediaz/react-pdf-viewer": {
+  "downloads": 103,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wahyu33/pdfjs-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wapplersystems/pdflip": {
+  "downloads": 353,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wentsa/pdfjs-dist": {
+  "downloads": 202,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wevertoonsilva/ng2-pdf-viewer": {
+  "downloads": 84,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wfxcqsc/vue3-pdf-viewer": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@whykhamist/vpdf": {
+  "downloads": 424,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wieslawsoltes/richtextweb": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@wjl0814/vue-office-pdf": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@woleet/woleet-widgetv2": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@work-zhanguo/light-file-preview": {
+  "downloads": 73,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@x1a0f3n9/dsh-client-ui-sidebar-documentpreview": {
+  "downloads": 505,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@xchl-ui/file-preview": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@xfcodeai/dsh-client-ui-sidebar-documentpreview": {
+  "downloads": 38,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@xianjianlf2/vue-pdf-viewer": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@xinghunm/pdf-viewer": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@xtctwins/tctwins-pdf-viewer": {
+  "downloads": 44,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@xujialei2007/brick-bj": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@yangxuy/pdf-reader": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@yashash_sanketika/sunbird-pdf-player-web-component": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@yoing/pdf.js-extract": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@yolk-sdk/extractors": {
+  "downloads": 3129,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@yunpengai/pdf-view": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zeke-02/pdfjs-dist": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zerorex0126/ngx-extended-pdf-viewer": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zfairs/pdf-signing-library": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zhuyunjing/file-viewer-pdf": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zoley/react-file-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zooj/img-viewer": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zrimo/viewer": {
+  "downloads": 2649,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zuiyouliao/vue-file-viewer": {
+  "downloads": 75,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "@zys/pdf-reader": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28",
+  "error": null
+ },
+ "ab-pdf-reader": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "abc-algorithms": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "adaptive-react-pdf-js": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "aegis-redact": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "agentlet-core": {
+  "downloads": 982,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ahao-pdf-merge": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "alchemy-embed-medias": {
+  "downloads": 100,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "aldus": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "aleon_35_pdf_viewer_lib": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "alex-pdfjs": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "alice-ui": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "alice-ui_test": {
+  "downloads": 33,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "alien35-pf": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "all-documents-vue": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "aminer-pdf": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "angular-pdf": {
+  "downloads": 847,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "angular-pdf-view": {
+  "downloads": 90,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "annotatee": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "annotation-library": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "annotation-pdftest": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "anything-to-journal": {
+  "downloads": 232,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "anyview": {
+  "downloads": 480,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "apdf-mei-ui": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "arek-e-docsnap": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "argo-pdf-embedder": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "arm-pdf-scrape": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "arthub-pdf-loader": {
+  "downloads": 635,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "artifactpass": {
+  "downloads": 1839,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "aswar-pdf-builder": {
+  "downloads": 406,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "aswar-pjms-pdf-builder": {
+  "downloads": 323,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "atix-reader": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "axc-pdfviewerjs": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "barcode-reader-zbar-webassembly": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "baroview": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "bartosz-osiej-docs": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "base-on-ui": {
+  "downloads": 37,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "basic-brick": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "benchmark-octane": {
+  "downloads": 297,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "benchmark-octane2": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "binary-web-reader": {
+  "downloads": 58,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "boomack-plugin-pdf": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "booprogram-agent": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "brick-sd": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "bufferpeek": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "bungenix-viewer": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "business-elements-angular": {
+  "downloads": 88,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "c-vue-pdf-app": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "c2-pdf-app": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "c2-pdfjs-dist": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ca-pdf-dist": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cafe-pdf": {
+  "downloads": 188,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cafe-pdf-pro": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cardinal-pdfjs-dist": {
+  "downloads": 95,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cctc-epc": {
+  "downloads": 236,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ccyl-pdf-shower": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cdd-pdf-view": {
+  "downloads": 42,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "changcheng-pdf": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "children-scale": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cks-private-pdfjs-dist": {
+  "downloads": 94,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cloud-front-components": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cloudsean-pdf-to-printer": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "clout-pdf-mobile-reader": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "co-preview-v2": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "coeditor-cli": {
+  "downloads": 108,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "common-lib-vue": {
+  "downloads": 375,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "compass-pdf-player": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "comps-zxes-vue": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "concisepdf": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "content-understanding-labeling": {
+  "downloads": 147,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "control-react-file-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cordova-plugin-document-viewer": {
+  "downloads": 8082,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cot-pdf-maker": {
+  "downloads": 113,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cs-pdf-signature-viewer": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "custom-cafe-pdf-zk": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "custom-pdf-reader": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "customannotation": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "cx-pdfjs-dist": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "daedalos": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "db-pdfjs-dist": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dc-file-viewer3": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dcmcloud-extension-dicom-pdf": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "directus-extension-texttoanything": {
+  "downloads": 198,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dm-pdf": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dm-pdf-viewer": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "doc-processor-mcp": {
+  "downloads": 60,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "docs-companion-kit": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "document-viewer-vue3": {
+  "downloads": 894,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "document-wizard": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "docustamp-builder": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dpdf-dist": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dpu-digital-sign": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "drayman-elements": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "drugflow-pdf-embed": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-ai-book-shelf": {
+  "downloads": 1813,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-ai-library": {
+  "downloads": 1584,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-cite-lens": {
+  "downloads": 614,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-document-selection-ask": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-figmark": {
+  "downloads": 1321,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-file-viewer": {
+  "downloads": 1251,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-flyout-sidebar": {
+  "downloads": 1332,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-folderead": {
+  "downloads": 302,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-kdocs-inside": {
+  "downloads": 129,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-knowledge-base": {
+  "downloads": 1584,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-office-toolkit": {
+  "downloads": 1618,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-pdf-bookmarks": {
+  "downloads": 381,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsh-sidebar-open-with-app": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dsigner-library": {
+  "downloads": 362,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dt-pdfme-ui": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dt-ui-library": {
+  "downloads": 47,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dufflebag-lib": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "duyansoft-pdfjs-dist": {
+  "downloads": 178,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dw-mx-pdfjs": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "dy-vite-vue-pdf": {
+  "downloads": 197,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "e-pdf-editor-2": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "easy-pdf-viewer": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "easypdf": {
+  "downloads": 507,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "eboard": {
+  "downloads": 176,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ecpl-pdf-viewer": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "edit-pdf": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "edx-pdfjs": {
+  "downloads": 109,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "egova-pdf-vue2": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "egova-pdfjs-dist": {
+  "downloads": 303,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ele-plus-control": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-auto-print-pdf": {
+  "downloads": 98,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-auto-print": {
+  "downloads": 97,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-browser-window": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-parse": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-url": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-view": {
+  "downloads": 184,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-viewer": {
+  "downloads": 2896,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window": {
+  "downloads": 907,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window-alt": {
+  "downloads": 205,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window-auto": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window-custom": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window-custompdf-private": {
+  "downloads": 50,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window-s": {
+  "downloads": 63,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-pdf-window-shy": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "electron-viewerjs": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "element-file-preview": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "elpdfview": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "embed-pdfjs-dist": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "enoviq-react-document-viewer": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ep_print_preview_pdf": {
+  "downloads": 359,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "epubier": {
+  "downloads": 948,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "esign-design-pdfjs": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "esign-pdfjs-dist": {
+  "downloads": 191,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "estone-ui": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "eviewer": {
+  "downloads": 33,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "evil-flowers-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "extract2md": {
+  "downloads": 1440,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ezedox-pdfjs-dist": {
+  "downloads": 195,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ezedox_pdfjs": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fge-pdf-vue3": {
+  "downloads": 137,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fh-front-react-pdf": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "file-preview-kit": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "file-preview-vue3-ts": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "file-to-text": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fileon": {
+  "downloads": 73,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "filepreview_else": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "filetomarkdown": {
+  "downloads": 1803,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "filopplasting": {
+  "downloads": 72,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fincloud-pdf-dist": {
+  "downloads": 42,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "finna-pdf-viewer": {
+  "downloads": 94,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "flip-book": {
+  "downloads": 227,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "flipdocs": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "flippy-pdf": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "flviewer": {
+  "downloads": 121,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fork-pdf-parse-with-pagepertext": {
+  "downloads": 126,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "form_create_for_flow": {
+  "downloads": 140,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fpdf2pic": {
+  "downloads": 171,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fresh-air-pdf": {
+  "downloads": 1285,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "fuxi-pdf-preview": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "g-seal-position": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gcash-pdf-parser": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-dong": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-sealposition": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature": {
+  "downloads": 78,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-a": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-c": {
+  "downloads": 38,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-dong": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-guangxi": {
+  "downloads": 83,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-guangxi-test": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-guangxipaas": {
+  "downloads": 64,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-guangxipaas-test": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-gx": {
+  "downloads": 32,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-h": {
+  "downloads": 50,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-h1": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-hh": {
+  "downloads": 153,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-hr": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-hz": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-image": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-jianhai": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-jining": {
+  "downloads": 56,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-jnmiddle": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-luke": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-luke-map": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-pass": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-roate": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-sd": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-v2": {
+  "downloads": 107,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-y": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-ysy": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-z": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-zd": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-zh": {
+  "downloads": 66,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gd-signature-zoom": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gdr-hl-pdf": {
+  "downloads": 67,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gdr-pdf": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gehj-cli": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "general-pdf-viewer": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "genie-component-library": {
+  "downloads": 89,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "genus-pdf-viewer": {
+  "downloads": 104,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gissbss_plug": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gloss-local": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "goldriver_qcy": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gr-pdf-window": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gt-test-component": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "gxd-file-preview": {
+  "downloads": 385,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "h-file-preview": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hb-pdfjs": {
+  "downloads": 83,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hc-pdf": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hc-pdf-viewer": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "highlight-pdf-viewer": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hive-react-document-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hk-pdfjs-dist": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hmcts-annotation-ui-lib": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hopscotch-grid": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hornbill-pdf-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hpsfir-vue-pdf-embed": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hsu-utils": {
+  "downloads": 280,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ht-pdf-window": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "huyukun-test": {
+  "downloads": 56,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hw-pdf-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hw-tools": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hx-brick": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hx-pdfjs-dist": {
+  "downloads": 58,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hy-pdfh5": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hydro-pdf-preview": {
+  "downloads": 63,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "hypnotes-pdf": {
+  "downloads": 138,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "image-parser-utils": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "inapa-data-review-ui": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "inklayer-react": {
+  "downloads": 253,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "inklayer-vue": {
+  "downloads": 111,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "inko-pdf-sdk": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "innojet-pdfjs-dist": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "iobroker.staticsfilefolder": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ja-pdf-view": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jagran-react-doc-viewer": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "javascript-code-library": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jdy-vue-pdf": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jh-preview-pdf": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ji-pdf-dist": {
+  "downloads": 113,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jiehepdf-sig": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jit-viewer": {
+  "downloads": 1399,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jspdf_preview": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jt-vue-pdf-signature": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "juicyfront": {
+  "downloads": 351,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "juicyfront_ppa": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "just-pdf-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jvs-pdf-app": {
+  "downloads": 59,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "jvs-pdf-app-test": {
+  "downloads": 33,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "k-electron-signature": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "kara-module-file-view": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "karaui": {
+  "downloads": 157,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "kdf-pdf-tools": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "kdf-tools": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "keptpdf": {
+  "downloads": 1474,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "kh-pdf-vue3": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "kh-pdfjs-dist": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "kinvii-electron-pdf": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "knight-react-pdf": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "l-gridlayer-pdflayer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "labsign": {
+  "downloads": 90,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lanjian-pdfano": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lcdp-ui-controls": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lcdp-ui-upates": {
+  "downloads": 123,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lcdp-ui-updates": {
+  "downloads": 164,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "le-pdfjs-dist": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lector-pdfjs": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lichen-pdfjs-dist": {
+  "downloads": 187,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "light2-ui": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "linan.peng-pdfjs-dist": {
+  "downloads": 151,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lit-pdf-viewer": {
+  "downloads": 86,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lkg-pdf": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ll-editor": {
+  "downloads": 110,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lleditor-vue2": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "llh-pdf": {
+  "downloads": 53,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "loins-pdf10": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "loins-pdfjs": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lookglass": {
+  "downloads": 192,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lpi-pdfjs-dist": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lr-file-preview": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lr-pdfjs-dist": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lt-materialdownload-modal": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lvjinguo": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lwj-vite-vue-pdf": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lz-pdf-merage": {
+  "downloads": 64,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "lzt-element-image-preview": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "magictex-mcp": {
+  "downloads": 349,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mailspring-pdfjs": {
+  "downloads": 89,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "maimai-pdf2img": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "manupdfjs-dist": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "material-dashboard-2-react": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "md-anything": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mdpdfjs": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "med-pdf-nmo": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "media-dropzone-vuejs": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mediaobject": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mengjia-chat-ai-web": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "meteor-pdfjs": {
+  "downloads": 291,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mighty-pdf-parser": {
+  "downloads": 134,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mishu-foliate-js": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mj-cl-ui": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mjctl": {
+  "downloads": 63,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mm-pdf-img": {
+  "downloads": 142,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mol-pdf": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mps-pdfh5": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mr-pdfjs-dist": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mrhua-vue3-pdf": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mxmweb-fv": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "my-pdf-viewer": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "my-pdfjs-package": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mz-front-react-pdf": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "mzk-pdfjs-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "n8n-nodes-doc4ai": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nano-pdf-book-viewer": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "necik11-pdfreaderwebcomp": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "necik11-pdfreaderwebcomp-tsx": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "necik11-plain-js-webcomponent": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "neo-pdf-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "new-react-pdf": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nexgen-pdf-viewer": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "next-pdf-parser": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng-imbapdf": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng-simple-pdf-viewer": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng2-pdf-viewer-legitech": {
+  "downloads": 58,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng2-pdf-viewer-legitech-legitech": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng2-pdf-viewer-piyapan": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng2-pdfjs-viewer": {
+  "downloads": 185371,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng2-pdfjs-viewer-hs": {
+  "downloads": 176,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng2-pdfjs-viewer-ng17": {
+  "downloads": 63,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ng4-pdfjs-viewer": {
+  "downloads": 365,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngdz-file-viewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-amrs": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-extended-pdf-silicon-valley-viewer": {
+  "downloads": 532,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-extended-pdf-silicon-valley-viwer": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-extended-pdf-viewer": {
+  "downloads": 1095430,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-extended-pdf-viewer-vv": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-extended-pdf-viewer-wwd": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-moz-pdfjs": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-pdfjs": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-pdfjs-viewer": {
+  "downloads": 774,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-real3d": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ngx-valley-pdf-viewer": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "node-pdf-parse-temp": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "node-viewerjs": {
+  "downloads": 466,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "node-viewerjs-ilkkah": {
+  "downloads": 164,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nodebb-plugin-alku-pdf-secure": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nodebb-plugin-pdf-secure2": {
+  "downloads": 468,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nodebb-plugin-secure-pdf": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "npm-viewerjs": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nresume": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "nuxt-pdfjs": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "oa-pdf": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "office-view-preview": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "officeparser": {
+  "downloads": 3485805,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "omiu": {
+  "downloads": 80,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "omni-viewer-core": {
+  "downloads": 1019,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "one-pdf": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "onluyen-pdf-viewer": {
+  "downloads": 658,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "open-resume-lib": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "orion-pdf-editor": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "p-pdf-parse": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "p2j": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pagebraid-mcp": {
+  "downloads": 502,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pageflipopen": {
+  "downloads": 53,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pagemaster-editor": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "papilot": {
+  "downloads": 459,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "parapdf": {
+  "downloads": 590,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "parser-orario-galilei": {
+  "downloads": 84,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pathquest-pdf-viewer": {
+  "downloads": 92,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pd-viewer": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-ajaib-minor": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-annotate-sdnd": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-annotate-ui": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-annotation-component-h": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-annotator-web": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-carousel": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-collaborative-tool": {
+  "downloads": 2674,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-component": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-component-vue": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-compressor": {
+  "downloads": 898,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-ctrl": {
+  "downloads": 130,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-data-parser": {
+  "downloads": 1805,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-dd": {
+  "downloads": 202,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-dist": {
+  "downloads": 3506,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-drag": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-editor-plugin": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-editor-react": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-extension": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-extraction": {
+  "downloads": 23270,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-factory": {
+  "downloads": 1624,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-flipbook2": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-flipper": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-generator-api-pdfviewer": {
+  "downloads": 1613,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-img": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-img-convert-fork": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-jac": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-js-annotations-rk": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-js-fix-version": {
+  "downloads": 438,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-keya": {
+  "downloads": 59,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-lecture": {
+  "downloads": 105,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-limit-preview": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-live": {
+  "downloads": 60,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-make-previewer": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-mapview": {
+  "downloads": 2858,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-marker-langkunjun": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-mf": {
+  "downloads": 141,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-neil-new": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-page-counter": {
+  "downloads": 9027,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse": {
+  "downloads": 35823403,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-debugging-disabled": {
+  "downloads": 27056,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-deno": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-fixed": {
+  "downloads": 4333,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-fork": {
+  "downloads": 69090,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-internal": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-modified": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-new": {
+  "downloads": 111568,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-pages": {
+  "downloads": 120,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-pages-no-fs": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-tt-massage-gone": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-tt-message-gone": {
+  "downloads": 35839,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parse-v2": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parser": {
+  "downloads": 6265,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-parser-fix": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-preview": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-preview-link": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-preview-test": {
+  "downloads": 162,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-preview-webapp": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-previewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-react-viewer": {
+  "downloads": 144,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-render-package": {
+  "downloads": 73,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-report-modal": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-scraper": {
+  "downloads": 538,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-scrubber": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-shower-vue": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-sign-components": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-signature-esign-sdk": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-signature-jtp-sdk": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-signature-react": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-slideshow": {
+  "downloads": 1635,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-table-extractor-jes": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-table-extractor-ts": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-template-makernew": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-text-img": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-texty": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-thumb": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-thumbnails-generator": {
+  "downloads": 672,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-thumbnails-generator-k2": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-to-dxf": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-to-parse": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-train": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-transform": {
+  "downloads": 5887,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-transform-png": {
+  "downloads": 321,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-view": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer": {
+  "downloads": 5965,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-dom": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-element": {
+  "downloads": 77,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-lib": {
+  "downloads": 37,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-render-js": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-root": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-vue": {
+  "downloads": 6340,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-vue-legacy": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewer-web-component": {
+  "downloads": 58,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-viewr": {
+  "downloads": 1,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue-full": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue3": {
+  "downloads": 16809,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue3-fork": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue3-legacy": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue3-lgq": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue3-viewer": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-vue3-vite": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-web": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-web-viewer": {
+  "downloads": 604,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-workbench": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf-ysk-vue3": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.js-dist-viewer": {
+  "downloads": 124,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.js-extract": {
+  "downloads": 709601,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.js-extract-colour-dist": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.js-jsfcqm": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.js-viewer": {
+  "downloads": 2412,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.mjs": {
+  "downloads": 274,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.svelte": {
+  "downloads": 112,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf.worker": {
+  "downloads": 64,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf2html-client": {
+  "downloads": 104,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf2imgjs": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf2json": {
+  "downloads": 1773508,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf2json-browser": {
+  "downloads": 95,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf2json-rollcredits": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf4react": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf_cc_lyc_lyz": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf_h5_c": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdf_viewer_vue_neil": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfano": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfcedar": {
+  "downloads": 265,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfdist-mergeofd": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfdw": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh5": {
+  "downloads": 6631,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh5-chunking": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh5-display": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh5-fork": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh5-lgq": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh5-repair": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfh6": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-1.4.0": {
+  "downloads": 458,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-ajaib": {
+  "downloads": 267,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-build": {
+  "downloads": 60,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-build-generic": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-color-dist": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-cs": {
+  "downloads": 116,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-custom-dist": {
+  "downloads": 66,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dd": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist": {
+  "downloads": 134953946,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-2": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-advanced": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-agave": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-allg": {
+  "downloads": 44,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-any-node": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-cap": {
+  "downloads": 154,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-ck": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-cmsc": {
+  "downloads": 51,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-conzentrate": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-dean": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-di": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-dj": {
+  "downloads": 10992,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-dzqz": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-ei-11-with-viewer": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-enable-signature": {
+  "downloads": 223,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-es5": {
+  "downloads": 20337,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-es5-fix": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-esign": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-esign-v2": {
+  "downloads": 188,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-evs": {
+  "downloads": 195,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-fix": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-fix-gonghonglin": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-fixchengxing": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-for-node": {
+  "downloads": 637,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-fork": {
+  "downloads": 230,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-htjt": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-jv": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-jve": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-lat": {
+  "downloads": 1,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-legacy": {
+  "downloads": 3110,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-legacy-fixed": {
+  "downloads": 48,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-lh": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-llc": {
+  "downloads": 60,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-lmb": {
+  "downloads": 152,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-lyt": {
+  "downloads": 190,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-min": {
+  "downloads": 57,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-minified": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-naijiz-fork": {
+  "downloads": 188,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-nod": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-patch": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-q": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-render": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-resource": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-seal": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-show": {
+  "downloads": 166,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-show-sig": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-show-sign": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-show-signature": {
+  "downloads": 285,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-sig": {
+  "downloads": 1788,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-sign": {
+  "downloads": 729,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-signature": {
+  "downloads": 102,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-signature-bt": {
+  "downloads": 380,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-siva": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-sourcecodecap": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-syd": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-taoqianwen": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-test": {
+  "downloads": 47,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-test-sig": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-tranzvision": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-viewer-angular": {
+  "downloads": 91,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-viewer-min": {
+  "downloads": 2846,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-viewer-min-2-16": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-viewer-min-edge-annotation-fix": {
+  "downloads": 156,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-with-digtal-signature-ke": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-with-errors": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-without-nodejs-requirement": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-work": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-wrapper": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-xzc": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-yf": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-yysignature": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-zc": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-zk": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-dist-zpx": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-distmy": {
+  "downloads": 52,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-distsm": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-epm": {
+  "downloads": 78,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-esm": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-evs": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-forge": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-fork": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-forms-dist": {
+  "downloads": 121,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-generic": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-generic-es5": {
+  "downloads": 210,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-generic-legacy": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-hackx": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-ie10": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-lib": {
+  "downloads": 5461,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-lib-custom": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-liu": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-master-beta-release": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-mf": {
+  "downloads": 61,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-min": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-mobile": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-nanhon": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-own": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-parse": {
+  "downloads": 185,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-portable": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-prebuilt": {
+  "downloads": 189,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-react-frame": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-serverless": {
+  "downloads": 119137,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-sig": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-signature-dist": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-signature-dist-viewer-min": {
+  "downloads": 523,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-tools": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-tractor": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-ts": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-viewer": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-viewer-build": {
+  "downloads": 115,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-viewer-highlight-echo": {
+  "downloads": 40,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-viewer-light": {
+  "downloads": 326,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-viewer-pinned": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-viewer-react": {
+  "downloads": 68,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-vue": {
+  "downloads": 43,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-vue-he": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-vue3-ypp": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-web": {
+  "downloads": 69,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjs-with-annotations-filter": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfjskit": {
+  "downloads": 364,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdflatest": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfme-custom-ui": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfme-enhanced": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfmon": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfon": {
+  "downloads": 67,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfpdfpdf": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfpressor-client": {
+  "downloads": 322,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfpreview-vue": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdftest": {
+  "downloads": 219,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdftestui": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdftoimg-dist": {
+  "downloads": 70,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfview-dist": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfviewer": {
+  "downloads": 2039,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfvue-f": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfvuer": {
+  "downloads": 19226,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfvuer-older-browsers": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfvuermy": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pdfx": {
+  "downloads": 254,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "phosphor-cli": {
+  "downloads": 59,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "photomeasure": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pilot-pdfjs-dist-sig": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "plugin-file-previewer-pdfjs": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pnp-pdf": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "point-pdfjs-dist": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "polar-pdfjs-dist": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ppu-pdf": {
+  "downloads": 271,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pretty-pdf-viewer": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pretty-pdf-viewer-react-demo": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "preview-pdf": {
+  "downloads": 339,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "preview-plugin": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "preview-vue3": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "process_form_for_flow": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "pym-categories-goods": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "q-file-viewer": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "quasar-app-extension-qpdfviewervue3": {
+  "downloads": 109,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "qys-pdf": {
+  "downloads": 40,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "qys-pdf-viewer": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rasso-plugin-pdf-toolbox": {
+  "downloads": 381,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rd1-pdf-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "re-pdf-viewer": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-3d-flipbook": {
+  "downloads": 369,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-attachment-kit": {
+  "downloads": 461,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-better-pdf": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-docs-renderer": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer": {
+  "downloads": 52836,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-modified": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-plugins-v4": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-plugins-v5": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-updated-plugin-test": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-webpack-plugins-01": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-webpack-plugins-02": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-webpack-plugins-03": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-webpack-plugins-04": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-viewer-with-pdf-and-xlsx-fixes": {
+  "downloads": 62,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-file-widget": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-levio-file-viewer": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-mobile-pdf": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-component": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-editor-1": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-example": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-highlighter-plus": {
+  "downloads": 5695,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-highlighter-plus-r17": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-infinite": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-credentials": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-enable-signature": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-fix": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-infinite": {
+  "downloads": 2267,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-infinite-2": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-infinite-slugs": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-infinite-zoom": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-js-withcredentials": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-quizmanager": {
+  "downloads": 58,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-read": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-reader": {
+  "downloads": 615,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-thumbnail-2": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-to-image": {
+  "downloads": 716,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-transformer": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-viewer-component": {
+  "downloads": 82,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-viewer-with-rotate": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdf-watermark": {
+  "downloads": 163,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdfjs": {
+  "downloads": 868,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdfjs-mobile": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdfjs-multi": {
+  "downloads": 103,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdfjs-viewonly": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdfreader-mozilla": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-pdfviewer-reader-custom": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-read-pdf": {
+  "downloads": 1908,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-read-pdf-b": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-read-pdf-prettier": {
+  "downloads": 48,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-read-pdf2": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-read-pdf23": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-report": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-scan-pdf": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-simple-pdf-viewer": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-smart-pdf-viewer": {
+  "downloads": 54,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-typescript-pdf-reader": {
+  "downloads": 121,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-typescript-pdf-reader-built": {
+  "downloads": 47,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-validator-core": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-view-pdf": {
+  "downloads": 667,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-viewer-simple": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-virtualized-pdf": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-vpdf-validator-core": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "react-with-pdf": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reactjs-file-preview": {
+  "downloads": 23724,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reactjs-pdf": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reactjs-pdf-reader": {
+  "downloads": 2982,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reactjs-pdf-reader-custom": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reactjs-pdf-view": {
+  "downloads": 347,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reactland-pdfjs": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reakt-file-viewer": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rechat-pdfjs-dist": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rechat-pdfjs-worker": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "reveal-pdf": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rht-common": {
+  "downloads": 120,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rivet-plugin-pdf-extractor": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "robodogcli": {
+  "downloads": 79,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "root-front": {
+  "downloads": 262,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rti-lab-pdf-kit-js": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "rx-pdf-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "s_pdfshow": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sa-file-previewer": {
+  "downloads": 289,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sbss_cgfx": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "school-printer-dist": {
+  "downloads": 412,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "scp-pdf-app": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sd-pdf-viewer": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sd_ve_pdf": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sdp-pdfjs": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sds-preview": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "seeroad-ui": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sentieo-modified-electron-pdf-window": {
+  "downloads": 81,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sgpatil-ngx-extended-pdf-viewer": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sgpatil-ngx-pdf-viewer": {
+  "downloads": 91,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sgx-extended-pdf-viewer": {
+  "downloads": 100,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sgx2-extended-pdf-viewer": {
+  "downloads": 55,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "shetia-ui": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "shipthis-pdfx": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "shiyi-browser-study-assistant": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sig-pdfjs": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "signature-kit-pro": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "simple-pdf-react": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "simple-react-pdf": {
+  "downloads": 308,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "simple-react-pdf-agave": {
+  "downloads": 51,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "simple-react-pdf-service": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "some-random-todo-app": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "spendanalyticsplatform": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sps-electronic-signature-v2": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "srh-pdf-tool": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "srpv-js": {
+  "downloads": 33,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "su-pdfapp": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "suthraspdf": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "svelte-pdf": {
+  "downloads": 10332,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "svelte-pdf-resize-fix": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "svelte-pdf-viewer": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "svelte-pdfz": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "syflo": {
+  "downloads": 28,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "synced-media": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "syncit-ui": {
+  "downloads": 2,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "sz-file": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "tailwind-pdf-viewer": {
+  "downloads": 177,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "tar-vue-pdf-embed": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "td-util-pdfjs": {
+  "downloads": 85,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "teamsync-pdf-viewer": {
+  "downloads": 146,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "tes-int-matter": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "test-file-viewer": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "test-pdf-viewer": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "test-uii": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "testcenter-fileviewer": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "th-file-preview": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "th-pdf-vue3": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "the-file-preview": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "thompson-vue3-pdf": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "tools-pdf-preview-vue3": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "torchv-chat": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ttv-pdfjs-dist": {
+  "downloads": 223,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ultimate-react-pdf": {
+  "downloads": 313,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "uniparser": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "unisearch": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "unisoft-vue-pdf": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "universal-doc-viewer": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "universal-file-viewer": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "univiewer": {
+  "downloads": 122,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "unpdf": {
+  "downloads": 24793733,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "use-pdf-renderer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ux-fileviewer": {
+  "downloads": 77,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "v-doc-viewer": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vant-preview-pdf": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "veriza": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "viewer-pdfjs": {
+  "downloads": 181,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "viewerjs-node-module": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "viquard-preview": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vision-docviewer": {
+  "downloads": 45,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vite-plugin-pdfjs-embeddable-viewer": {
+  "downloads": 106,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vite-vue-pdf": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vpdf": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vscode-office": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-book-reader": {
+  "downloads": 533,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-bw-pdf": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-bw-pdf-app": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-document-viewer-tangsiqi": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-dreaming-pdf": {
+  "downloads": 39,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-embed-pdf": {
+  "downloads": 51,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-file-previewer": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-files-viewer": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-mindee-js": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-my-pdf-viewer": {
+  "downloads": 96,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-office": {
+  "downloads": 989,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-office-pdf": {
+  "downloads": 116,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-office-pdf-isolated": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-app": {
+  "downloads": 14907,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-app-dgsei": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-app-orf": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-app-snepsilon": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-app-with-sign": {
+  "downloads": 51,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-canvas": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-cs": {
+  "downloads": 71,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-custom-web": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-dj": {
+  "downloads": 18,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed": {
+  "downloads": 814324,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-fix": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-fix-xss": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-map": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-mapurl": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-pro": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-transparency": {
+  "downloads": 37,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-embed-up": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-flipbook": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-guofan": {
+  "downloads": 3,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-imd": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-jolly": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-kit": {
+  "downloads": 64,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-module": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-next": {
+  "downloads": 181,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-parser": {
+  "downloads": 92,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-pro": {
+  "downloads": 25,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-reader": {
+  "downloads": 354,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-sasha": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-search-keyword": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-search-viewer": {
+  "downloads": 71,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-shower-fix-height": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-signature-5": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-swiper": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-viewer-package": {
+  "downloads": 21,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-viewer-stars": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-viewer-with-signature": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-yc": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-yzd": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-zl": {
+  "downloads": 24,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf-zoomsign": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdf3": {
+  "downloads": 43,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfjs": {
+  "downloads": 237,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfjs-express-viewer": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfjs-previewer": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfjs-update": {
+  "downloads": 27,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfjs-view": {
+  "downloads": 63,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfjs-wrapper": {
+  "downloads": 455,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfseal": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-pdfviewer": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-plugin-pdf-viewer": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-preview-pdf": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-sign-pdf": {
+  "downloads": 8,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-simple-file-preview": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue-xrhui": {
+  "downloads": 70,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue2-file-preview-directive": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue2-file-preview-kit": {
+  "downloads": 41,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue2-file-previewer": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue2-pdf": {
+  "downloads": 46,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue2-pdf-view": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue2-pdf-viewer": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-file-preview": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-files-preview": {
+  "downloads": 3052,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdf-app": {
+  "downloads": 45225,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdf-app_xx": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdf-embed": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdf-patch": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdf-preview-plugin": {
+  "downloads": null,
+  "start": null,
+  "end": null
+ },
+ "vue3-pdf-tools": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdf-viewer-component": {
+  "downloads": 70,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-pdfjs-viewer": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue3-preview-file": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vue_pdfjs_viewer": {
+  "downloads": 223,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vuejs-full-pdf-viewer": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vuejs-pdf-viewer": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vuemodalpdf": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vuepdflook": {
+  "downloads": 19,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "vwr.js": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "w-pdf-preview": {
+  "downloads": 15,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "w-react-component": {
+  "downloads": 51,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wangzheng-pdfjs-dist": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "web-doc": {
+  "downloads": 19724,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "web-pdf-viewer": {
+  "downloads": 66,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "web-reviewer": {
+  "downloads": 29,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "webapp.ui.lib": {
+  "downloads": 474,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "websbss": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "websbss_plug": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wechat-miniprogram-pdf": {
+  "downloads": 74,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "weftjs": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "weiling-pdf": {
+  "downloads": 37,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wg-pdfjs": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "whizz-ng2-pdf-viewer": {
+  "downloads": 22,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "whzbcx_web_app": {
+  "downloads": 10,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "whzbcx_web_app1": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "whzbcx_web_plug": {
+  "downloads": 13,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wigem_ui": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wjt-com": {
+  "downloads": 36,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wlh-pdfjs-dist": {
+  "downloads": 23,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ws-pdfjs-dist": {
+  "downloads": 125,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wsolovin-react-tpdfreader": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wsolovin-react-tpdfreader-v2": {
+  "downloads": 20,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "wzccpdfh5": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "x-pdfjs-dist": {
+  "downloads": 35,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "xcc-pdf-editor": {
+  "downloads": 49,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "xconcepts-stencil-pdfviewer": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "xhy-pdfjs": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "xq-doc-viewer": {
+  "downloads": 163,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "xyz-vue-pdf": {
+  "downloads": 11,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "yax-pdf-viewer": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ykj-h5-ui": {
+  "downloads": 16,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "yq-pdf-vue3": {
+  "downloads": 14,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "yr-pdf-viewer": {
+  "downloads": 12,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "ysy-sign-plugin": {
+  "downloads": 17,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "z-pdf-app": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "z-pdf-parser": {
+  "downloads": 34,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "z-pdf-preview": {
+  "downloads": 439,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "z-report-designer-cmt": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "z-report-designer-comp": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "z-report-designer-component": {
+  "downloads": 31,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "za-toolbox": {
+  "downloads": 253,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zc-pdfjs-dist": {
+  "downloads": 6,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zc-ui-mobile": {
+  "downloads": 26,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zetara": {
+  "downloads": 7,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zhu-office-pdf": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zjkj-pdfjs-dist": {
+  "downloads": 30,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zl-pdf": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zoul-pdf-preview": {
+  "downloads": 9,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zpx-pdfjs-dist": {
+  "downloads": 5,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zxw-pdf": {
+  "downloads": 65,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ },
+ "zyf-pdf-js": {
+  "downloads": 4,
+  "start": "2026-09-29",
+  "end": "2026-10-28"
+ }
+}
